@@ -1,0 +1,23 @@
+title: Blog EIG2
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+url: "eig2.etalab.gouv.fr"
+twitter_username: etalab
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+include:
+   - _pages
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - deploy
+   - circle.yml

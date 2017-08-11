@@ -1,0 +1,32 @@
+backend:
+  name: github
+  base_url: https://api.staticweb-01.etalab.gouv.fr
+  site_domain: eig2.etalab.gouv.fr
+  repo: etalab/blog-eig2
+
+media_folder: "img/uploads"
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "_posts"
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", default: "post"}
+      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Categorie", name: "categories", widget: "string"}
+    meta:
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "DD-MM-YYYY hh:mm:ss"}
+
+  - name: "pages"
+    label: "Pages"
+    folder: "_pages"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", default: "page"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+
