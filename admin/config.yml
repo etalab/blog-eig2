@@ -8,7 +8,7 @@ media_folder: "img/uploads"
 
 collections:
   - name: "post"
-    label: "Post"
+    label: "Articles"
     folder: "_posts"
     sort: "date:desc"
     create: true
