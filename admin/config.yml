@@ -2,7 +2,7 @@ backend:
   name: github
   base_url: https://api.staticweb-01.etalab.gouv.fr
   site_domain: eig2.etalab.gouv.fr
-  repo: Skeith918/blog2-eig2
+  repo: etalab/blog-eig2
 
 media_folder: "img/portfolio"
 
