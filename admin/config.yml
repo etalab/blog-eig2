@@ -4,7 +4,7 @@ backend:
   site_domain: eig2.etalab.gouv.fr
   repo: etalab/blog-eig2
 
-media_folder: "img/portfolio"
+media_folder: "img/portfolio/"
 
 collections:
   - name: "posts"
@@ -12,11 +12,11 @@ collections:
     folder: "_posts"
     sort: "date:desc"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{modal-id}}"
     fields:
       - {label: "Layout", name: "layout",  widget: "hidden", default: "default"}
       - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
-      - {label: "Date", name: "project-date", widget: "datetime", format: "MM-YYYY"}
+      - {label: "Date", name: "project-date", widget: "string"}
       - {label: "Image", name: "img", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Categorie", name: "category", widget: "string"}
