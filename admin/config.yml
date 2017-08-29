@@ -26,6 +26,5 @@ collections:
     folder: "_includes"
     create: true
     fields:
-      - {label: "Titre", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
 
