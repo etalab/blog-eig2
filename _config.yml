@@ -1,21 +1,44 @@
-title: Blog EIG2
-email: 
-description: >
-   Some text !
-url: "eig2.etalab.gouv.fr"
-twitter_username: etalab
+# Site settings
+title: Entrepreneur D'intérêt Générale
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+meta_author: LastName FirstName
 
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+# contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+footer:
+  social: Around the Web
+  credits: Credits
+
+social:
+  - title: twitter
+    url: http://twitter.com/etalab
+  - title: github
+    url: http://github.com/etalab
+
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-
-
-include:
-   - _pages
-
-exclude:
-   - Gemfile
-   - Gemfile.lock
-   - deploy
-   - circle.yml
+permalink: pretty
