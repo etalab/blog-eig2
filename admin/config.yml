@@ -8,7 +8,7 @@ media_folder: "img/portfolio/"
 
 collections:
   - name: "posts"
-    label: "challenges"
+    label: "Défis"
     folder: "_posts"
     sort: "date:desc"
     create: true
@@ -22,7 +22,7 @@ collections:
       - {label: "Categorie", name: "category", widget: "string"}
 
   - name: "section"
-    label: "Section"
+    label: "Contenu"
     folder: "_includes"
     create: true
     fields:
