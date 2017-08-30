@@ -1,6 +1,3 @@
---- 
-title: a propos full
----
 a
 b
 c
