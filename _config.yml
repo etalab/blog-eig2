@@ -31,9 +31,9 @@ social:
 
 link:
   - title: CGU 
-    url:
-  - title: Test
-    url: 
+    url: /cgu
+  - title: Règlement
+    url: /reglement
   - title: Etalab
     url: https://etalab.gouv.fr
 
