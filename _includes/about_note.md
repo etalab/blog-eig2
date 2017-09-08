@@ -21,6 +21,7 @@ d'intérêt général et encadré par un mentor opérationnel au sein de l’éq
 
 LIENS :
 
+* appel à projets AAP
 * présentation des défis
 * règlement du concours
 * page EIG Etalab
