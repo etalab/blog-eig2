@@ -1,7 +1,7 @@
 backend:
   name: github
   base_url: https://api.staticweb-01.etalab.gouv.fr
-  site_domain: eig2.etalab.gouv.fr
+  site_domain: entrepreneur-interet-general.etalab.gouv.fr
   repo: etalab/blog-eig2
 
 media_folder: "img/portfolio/"
