@@ -1,6 +1,3 @@
----
-{}
----
 Le programme [Entrepreneurs d'intérêt général ](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)poursuit son
 opération de transformation des administrations  avec
 l'élaboration d'une deuxième promotion d'entrepreneurs pour l'année

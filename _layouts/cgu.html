@@ -3,17 +3,22 @@
     {% include head.html %}
     {% include nav.html %}
 	</br>
-	<section class="success" id="about">
+	<section id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Conditions Générales d'Utilisation</h2>
-                    <hr class="star-light">
+			<hr class="star-primary">
                 </div>
             </div>
-           <p>{% include cgu_note.md %}</p>
+	    <div class="caption">
+               <div class="caption-content">
+                {% capture my_include %}{% include cgu_note.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+                </div>
+            </div>
         </div>
-	</section>
+       </section>
     {% include footer.html %}
     {% include js.html %}
     </body>

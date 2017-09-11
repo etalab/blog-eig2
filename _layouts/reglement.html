@@ -3,15 +3,20 @@
     {% include head.html %}
     {% include nav.html %}
 	</br>
-	<section class="success" id="about">
+	<section id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Règlement</h2>
-                    <hr class="star-light">
+			<hr class="star-primary">
                 </div>
             </div>
-           <p>{% include reglement_note.md %}</p>
+	    <div class="caption">
+               <div class="caption-content">
+                {% capture my_include %}{% include reglement_note.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+                </div>
+            </div>
         </div>
 	</section>
     {% include footer.html %}
