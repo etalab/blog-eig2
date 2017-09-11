@@ -44,11 +44,11 @@ description: >-
 
   des innovations sociales dans les territoires, portées par tout type d’acteurs
 
-  agissant dans tout domaine d’action et à toute échelle territoriale. 
+  agissant dans tout domaine d’action et à toute échelle territoriale.
 
 
   ## Le défi : consolider l’écosystème de l’innovation sociale dans les
-  territoires grâce à une plateforme web collaborative 
+  territoires grâce à une plateforme web collaborative
 
 
   Afin de répondre à ces enjeux, le collectif de la Banque
@@ -85,8 +85,9 @@ description: >-
   création de communautés spécifiques) pourront être implémentées.
 
 
-  ** **
+  ---
 category: test
 ---
+
 
 
