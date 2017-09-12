@@ -8,10 +8,10 @@ project-date: >-
   l'innovation territoriale
 img: /img/portfolio/banque innov t.JPG
 description: >-
-  ## Problématique
+  ## La problématique
 
 
-  **(Ajouter une phrase de problématique)**
+  **(Ajouter une phrase résumé de problématique?)**
 
 
   De nouveaux services ou initiatives
@@ -47,8 +47,8 @@ description: >-
   agissant dans tout domaine d’action et à toute échelle territoriale.
 
 
-  ## Le défi : consolider l’écosystème de l’innovation sociale dans les
-  territoires grâce à une plateforme web collaborative
+  ## Le défi : consolider l’écosystème de l’innovation sociale grâce à une
+  plateforme web collaborative
 
 
   Afin de répondre à ces enjeux, le collectif de la Banque
@@ -63,19 +63,23 @@ description: >-
 
   objectifs majeurs : la création d’une plateforme web
 
-  collaborative, la formation d’un collectif d’acteurs de l’innovation
+  collaborative, la formation à travers cette plateforme d’un collectif
+  d’acteurs de l’innovation
 
-  sociale portant sur la plateforme échangeant sur les méthodes et les besoins
+  sociale échangeant sur les méthodes et les besoins
 
   de capitalisation et la consolidation d’un écosystème de
 
-  l’innovation territoriale. Ce défi s’incarne avant tout dans la conception
+  l’innovation territoriale.
 
-  d’une plateforme web contributive hébergeant un méga
+
+  Ce défi s’incarne avant tout dans la conception
+
+  d’une plateforme web contributive hébergeant *un méga
 
   moteur de recherche, reposant sur un travail d’indexation
 
-  homogénéisé et accompagné d’un outil cartographique pour des recherches plus
+  homogénéisé* et accompagné d’un outil cartographique pour des recherches plus
 
   ciblées à l’échelle territoriale. Des fonctionnalités complémentaires
 
@@ -85,9 +89,30 @@ description: >-
   création de communautés spécifiques) pourront être implémentées.
 
 
+  ## 2 entrepreneurs recherchés
+
+
+  * DESIGN / UX : penser à l'architecture globale et au design de la plateforme
+  web, et élaborer des éléments d'animation web et graphiques et d'identité
+  visuelle. Expertises recherchées : design graphique, design de service, design
+  de contenu éditorial, design web, UX / ergonomie.
+
+  * DEVELOPPEUR INFORMATIQUE : développer la plateforme web, dont le
+  moissonneur,
+
+  l’interface graphique, informatique , le moteur de recherche et le
+
+  back-office. Expertises recherchées : gestion de données
+
+  complexes (dont indexation), développement en logiciel libre sur technologies
+  web, scrapping, crawling, parsing, filtering, développement cartographiques et
+  développement d’un espace collaboratif. 
+
+
   ---
 category: test
 ---
+
 
 
 
