@@ -5,7 +5,10 @@ project-date: >-
   Janvier 2018 - Ministère des armées, Service hydrographique et océanographique
   de la Marine
 img: /img/portfolio/5_logo2.png
-description: xxx
+description: |+
+  ## La problématique
+
 category: test
 ---
+
 
