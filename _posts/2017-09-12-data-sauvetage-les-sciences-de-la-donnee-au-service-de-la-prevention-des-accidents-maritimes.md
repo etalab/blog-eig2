@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: >-
-  Défi n° 1 - Data sauvetage : Les sciences de la donnée au service de la
+  Défi n° 1 - Data sauvetage : les sciences de la donnée au service de la
   prévention des accidents maritimes
 project-date: >-
   Janvier 2018 - Direction des affaires maritimes, Ministère de la Transition
@@ -97,6 +97,7 @@ description: >-
   En savoir plus sur le défi >> LIEN PRESENTATION.
 category: test
 ---
+
 
 
 
