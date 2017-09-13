@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: >-
-  Brigade numérique - Mise en place d'un accueil numérique multicanal de la
+  Brigade numérique : mettre en place un accueil numérique multicanal de la
   gendarmerie
 project-date: Janvier 2018 - Direction générale de la gendarmerie nationale (DGGN)
 img: /img/portfolio/9_brigadenumerique.png
@@ -161,6 +161,7 @@ description: >-
   En savoir plus sur le défi "Brigade numérique">>LIEN PRESENTATION
 category: test
 ---
+
 
 
 
