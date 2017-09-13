@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: >-
-  ARCHEMSE (Archivage électronique pour la mémoire par la sélection et
-  l’évaluation)
+  ARCHEMSE : Archivage électronique pour la mémoire par la sélection et
+  l’évaluation
 project-date: Janvier 2018 - Secrétariat général auprès des ministères sociaux
 img: /img/portfolio/Ministère_des_Solidarités_et_de_la_Santé_(2017).png
 description: >-
@@ -112,7 +112,7 @@ description: >-
   Archives de France (Ministère de la culture).
 
 
-  *“Je suis convaincue de l’intérêt
+  \*“Je suis convaincue de l’intérêt
 
   que peuvent présenter les techniques métiers des archivistes pour
 
@@ -123,7 +123,7 @@ description: >-
   l’identification des différentes sources d’information et rend possible des
 
   traitements ultérieurs en vue de leur pérennisation et de leur réutilisation.
-  *
+  \*
 
 
   *Le dispositif EIG doit permettre
@@ -152,6 +152,7 @@ description: >-
   En savoir plus sur le défi >> LIEN PRESENTATION.
 category: test
 ---
+
 
 
 
