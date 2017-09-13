@@ -27,7 +27,7 @@ description: >-
 
   régression dans la connaissance de l’accidentologie en mer alors même que les
 
-  techniques de traitement del’information progressent et que plusieurs sources
+  techniques de traitement de l’information progressent et que plusieurs sources
   d’information
 
   pourraient être mobilisées et utilement croisées (INVS, SDIS, DDTM…).
@@ -43,13 +43,16 @@ description: >-
 
   l’origine des accidents afin de pouvoir mieux les prévenir (informations dans
 
-  les CROSS et auprès des bénévoles SNSM). Ce projet s’inspire de celui mis en
+  les CROSS et auprès des bénévoles SNSM). Ce projet s’inspire de [celui mis en
 
-  place par la ville de New York (mettre lien) pour optimiser l’intervention de
+  place par la ville de New
+  York](http://nationaluasi.com/dru/2014%20Presentations/FDNY_FireCast_UASI_2014-5-22.pdf)
+  pour optimiser l’intervention de
 
   ses services d’inspection grâce au machine learning.
 
-  La seconde étape vise à mettre une communauté apprenante construite autour et
+  La seconde étape vise à mettre en place une communauté apprenante construite
+  autour et
 
   avec les EIG afin qu’ils puissent transmettre leur savoir aux responsables
 
@@ -65,13 +68,34 @@ description: >-
   une plus grande vigilance.
 
 
-  ## 2 entrepreneurs recherchés (à compléter)
+  ## 2 entrepreneurs recherchés
+
+
+  * DATA SCIENCE : Expertises recherchées : accompagnement d'entreprises ou
+  d'administrations dans l'utilisation de leurs données, maîtrise de logiciels
+  libres de datascience (R, Python). Petit plus : expérience dans le secteur
+  associatif (vulgarisation scientifique, formations sur la data literacy),
+  contribution à des projets open source.
+
+  * UX / DESIGN / DATAVISUALISATION : Expertises recherchées : accompagnement
+  d'entreprises ou d'administrations dans des démarches de design de service.
+  Petit plus : expérience dans le secteur associatif (vulgarisation
+  scientifique, formations sur la data literacy), contribution à des projects
+  open source.
 
 
   ## Votre mentor :
 
 
   (...)
+
+
+  **[Postuler au défi Data Sauvetage
+  ](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391)**
+
+
+  En savoir plus sur le défi >> LIEN PRESENTATION.
 category: test
 ---
+
 
