@@ -17,7 +17,7 @@ description: >-
 
   majorité des documents produits par une administration est créée, stockée, et
 
-  diffusée en format bureautique. Ces formats n’offrent pas de garantie quant à
+  diffusée en formats bureautiques, qui n’offrent pas de garantie quant à
 
   leur lisibilité sur le long terme s’ils ne sont pas pris en charge dans le
 
@@ -33,9 +33,8 @@ description: >-
 
   tri pour évaluer la pertinence de leur conservation et garantir le respect des
 
-  règles applicables, notamment en matière de données à caractère personnel.
-
-  Concernant les données produites par les ministères sociaux, celles-ci ont
+  règles applicables, notamment en matière de données à caractère personnel. Les
+  données produites par les ministères sociaux ont
 
   statut d’archives publiques. A ce titre, leur création, leur gestion et leur
 
@@ -45,10 +44,8 @@ description: >-
 
   garder une trace fiable et opposable des décisions publiques et de maîtriser
 
-  les coûts induits par la gestion de l’information. Tous les documents n’ont
-  pas
-
-  vocation à être conservés. La sélection doit s’opérer de façon transparente et
+  les coûts induits par la gestion de l’information. La sélection des documents
+  à conserver doit s’opérer de façon transparente et
 
   prendre en compte des critères complémentaires (cartographie des risques, des
 
@@ -67,7 +64,7 @@ description: >-
   documents traités sur le long terme.
 
 
-  ## Le défi : mettre en oeuvre des techniques de big data pour réaliser
+  ## Le défi : mettre en œuvre des techniques de big data pour réaliser
   l'évaluation, la sélection et l'échantillonnage de données publiques non
   structurées
 
@@ -77,8 +74,8 @@ description: >-
   de traiter les besoins suivants :
 
 
-  * Constitution d’un entrepôt de document à plat par extraction des fichiers
-    contenus dans des ensembles documentaires aux formats variés.
+  * Constituer un entrepôt de documents à plat par extraction des fichiers
+    contenus dans des ensembles documentaires aux formats variés
   * Exploiter les métadonnées de chaque document, y compris celles liées au
     caractéristiques techniques (format, poids)
   * Tracer et exploiter les informations liées à la localisation initiale des
@@ -112,7 +109,7 @@ description: >-
 
   sports. A ce titre, elle exerce également des missions de contrôle au nom des
 
-  Archives de France (Ministère de la culture). 
+  Archives de France (Ministère de la culture).
 
 
   *“Je suis convaincue de l’intérêt
@@ -155,5 +152,6 @@ description: >-
   En savoir plus sur le défi >> LIEN PRESENTATION.
 category: test
 ---
+
 
 
