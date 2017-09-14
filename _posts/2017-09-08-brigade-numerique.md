@@ -39,7 +39,8 @@ description: >-
   DGGN veut mettre en place une plateforme numérique de contact multi-canal
   (réseaux sociaux, chat…) accessible
 
-  le site web de la gendarmerie en version web et mobile pour mieux informer,
+  sur le site web de la gendarmerie en version web et mobile pour mieux
+  informer,
 
   guider et orienter les citoyens selon leurs besoins. Cet
 
@@ -161,6 +162,7 @@ description: >-
   En savoir plus sur le défi "Brigade numérique">>LIEN PRESENTATION
 category: test
 ---
+
 
 
 
