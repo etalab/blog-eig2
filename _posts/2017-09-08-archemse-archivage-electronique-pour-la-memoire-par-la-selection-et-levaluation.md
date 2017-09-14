@@ -3,7 +3,8 @@ layout: default
 modal-id: >-
   Défi n°9 - ARCHEMSE : archivage électronique pour la mémoire par la sélection
   et l’évaluation
-project-date: Janvier 2018 - Secrétariat général auprès des ministères sociaux
+owner: Secrétariat général auprès des ministères sociaux
+project-date: Janvier 2018
 img: /img/portfolio/Ministère_des_Solidarités_et_de_la_Santé_(2017).png
 description: >-
   ## La problématique
@@ -152,6 +153,7 @@ description: >-
   En savoir plus sur le défi >> LIEN PRESENTATION.
 category: test
 ---
+
 
 
 
