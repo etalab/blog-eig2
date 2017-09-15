@@ -113,7 +113,7 @@ description: >-
   Archives de France (Ministère de la culture).
 
 
-  \*“Je suis convaincue de l’intérêt
+  *“Je suis convaincue de l’intérêt
 
   que peuvent présenter les techniques métiers des archivistes pour
 
@@ -123,8 +123,7 @@ description: >-
 
   l’identification des différentes sources d’information et rend possible des
 
-  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation.
-  \*
+  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation *
 
 
   *Le dispositif EIG doit permettre
@@ -153,6 +152,7 @@ description: >-
   En savoir plus sur le défi >> LIEN PRESENTATION.
 category: test
 ---
+
 
 
 
