@@ -5,7 +5,7 @@ modal-id: >-
   multicanal de la gendarmerie
 owner: Direction générale de la gendarmerie nationale (DGGN)
 project-date: Janvier 2018
-img: /img/portfolio/9_brigadenumerique.png
+img: /img/portfolio/10_brigadenumerique.png
 description: >-
   ## La problématique
 
@@ -163,6 +163,7 @@ description: >-
   En savoir plus sur le défi "Brigade numérique">>LIEN PRESENTATION
 category: test
 ---
+
 
 
 
