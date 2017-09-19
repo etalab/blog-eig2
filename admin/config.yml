@@ -16,6 +16,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout",  widget: "hidden", default: "default"}
       - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
+      - {label: "Porteur", name: "owner", widget: "string"}
       - {label: "Date", name: "project-date", widget: "string"}
       - {label: "Image", name: "img", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
