@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: 'Défi n°2 - Lab santé : promouvoir la décision data-driven en matière de santé'
 owner: >-
   Direction de la recherche, des études, de l’évaluation et des statistiques

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: >-
   Défi n°8 - Carrefour des solutions : le repérage des innovations sociales au
   service de la cohésion des territoires

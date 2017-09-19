@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: >-
   Défi n°10 - Brigade numérique : mettre en place un accueil numérique
   multicanal de la gendarmerie
