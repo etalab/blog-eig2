@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: >-
   Défi n°6 - Signaux Faibles : détecter en amont les entreprises fragilisées
   pour améliorer l’efficacité de l’accompagnement coordonné par l’Etat de ces

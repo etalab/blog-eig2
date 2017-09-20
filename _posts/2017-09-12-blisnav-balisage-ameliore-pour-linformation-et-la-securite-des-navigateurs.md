@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: >-
   Défi n°5 - b@liseNAV : balisage amélioré pour l'information et la sécurité des
   navigateurs

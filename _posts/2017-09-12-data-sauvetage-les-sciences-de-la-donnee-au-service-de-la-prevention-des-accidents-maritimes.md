@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: >-
   Défi n° 1 - Données sauvetage maritime : les sciences de la donnée au service
   de la prévention des accidents maritimes

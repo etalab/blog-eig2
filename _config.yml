@@ -13,9 +13,9 @@ meta_author: LastName FirstName
 contact: static
 
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  primary: 25368C #80B3FF
+  primary-rgb: "37,54,140" #"128,179,255"
+  secondary: E10713 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 footer:

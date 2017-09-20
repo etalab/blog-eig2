@@ -1,45 +1,29 @@
  <!-- Footer -->
-    <footer class="text-center">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3></h3>
-                        <p>
-                            {% for link in site.link %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
-                        </p>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
-                        <ul class="list-inline">
-                            {% for network in site.social %}
-                            <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-                            </li>
-		                    {% endfor %}
-                        </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.link }}</h3>
-			<ul class="list-inline">
-                            {% for link in site.link %}
-			    <li>
-                                <a href="{{ link.url }}"><h5>{{ link.title }}</h5></a>
-                            </li>
-                                    {% endfor %}
-			</ul>
-                    </div>
-
-                </div>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__column">
+                <a href="http://www.etalab.gouv.fr/"><h3><img src="{{file.path}}/img/etalab.png" /></h3></a>
             </div>
+            <div class="footer__column">
+                <h3>{{ site.footer.social }}</h3>
+                <ul class="list-inline">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="footer__column">
+                <h3>{{ site.footer.link }}</h3>
+    			<ul class="list-inline">
+                    {% for link in site.link %}
+    			    <li>
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                    </li>
+                    {% endfor %}
+    			</ul>
+            </div>
+            <div class="clearfix"></div>
         </div>
     </footer>
-
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visible-sm">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-    </div>
