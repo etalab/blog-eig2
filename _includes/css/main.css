@@ -50,24 +50,32 @@ h6 {
 h2 {
     margin: 2em 0;
     text-align: center;
+    vertical-align: middle;
 }
 
 h2:before, h2:after {
     content: '⬢';
     color: #e00613;
-    margin: .3em;
+    font-size: .6em;
+    vertical-align: middle;
+    margin: 0 .5em 0;
+    position: relative;
+    top: -.2em
 }
 
 li {
     list-style-type: none;
     margin-bottom: 1em;
+    position: relative;
 }
 
 li:before {
-    margin-right: 3px;
+    position: absolute;
+    left: -15px;
+    top: 3px;
     content: '⬢';
-    font-size: .8em;
-    vertical-align: 1px;
+    font-size: .6em;
+    vertical-align: 2px;
     color: #e00613;
 }
 
@@ -140,10 +148,11 @@ a.button:active {
 .navbar__title {
     float: left;
     display: inline;
+    margin: .5em 0;
 }
 
 .navbar__title a, .navbar__title img {
-    height: 30px;
+    display: block;
 }
 
 .navbar__links {
@@ -154,7 +163,7 @@ a.button:active {
 }
 
 .navbar__links li {
-    margin-left: 10px;
+    margin-left: 30px;
     display: inline;
 }
 
@@ -423,4 +432,8 @@ a.button:active {
 
 .footer li {
     margin: 0 1em 0 0;
+}
+
+.footer li:before {
+    top: -1px;
 }
