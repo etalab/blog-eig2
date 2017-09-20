@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 modal-id: >-
   Défi n°9 - ARCHEMSE : archivage électronique pour la mémoire par la sélection
   et l’évaluation
