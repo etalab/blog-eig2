@@ -56,7 +56,7 @@ mentor opérationnel au sein de l’équipe d’accueil.
 * Capacité à créer et gérer un projet (création d'une startup, d'une association, d'un projet de recherche)
 * Disponibilité à partir de janvier 2018, pour 10 mois à temps plein
 
-# [Je candidate](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promotion-2-1501592391)
+# Pour candidater : [cliquez ici](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promotion-2-1501592391)
 
 # Plus d'informations
 
@@ -64,3 +64,4 @@ mentor opérationnel au sein de l’équipe d’accueil.
 * règlement du concours
 * page EIG Etalab
 * promotion1
+
