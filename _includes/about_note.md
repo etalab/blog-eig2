@@ -14,7 +14,7 @@ entrepreneur•neuse•s d'intérêt général intègreront l’administration p
 relever \[15 défis\], [préalablement
 sélectionnés en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury).
 
-## Le principe du programme EIG2 : 
+# Le principe du programme EIG2 : 
 
 * \[25\] entrepreneurs recrutés en CDD de 10 mois,
   accueillis par les administrations porteuses de défis
@@ -35,7 +35,7 @@ En novembre
 prochain, [un jury de personnalités qualifiées](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) auditionnera les candidats pré-sélectionnés
 par les équipes d’Etalab.
 
-## \[x\] défis d’intérêt général
+# \[x\] défis d’intérêt général
 
 Les défis
 d’intérêt général auxquels les entrepreneur•neuse•s sont amené•e•s à répondre
@@ -48,7 +48,7 @@ Chaque défi
 sera réalisé par une équipe de 2 à 3 entrepreneur•neuse•s d'intérêt général et encadré par un
 mentor opérationnel au sein de l’équipe d’accueil.
 
-## Les candidat•e•s seront sélectionné•e•s selon les critères suivants :
+# Les candidat•e•s seront sélectionné•e•s selon les critères suivants :
 
 * Motivation
 * Compétences techniques en datascience, développement, design (design de service, UX...)
@@ -58,9 +58,10 @@ mentor opérationnel au sein de l’équipe d’accueil.
 
 # [Je candidate](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promotion-2-1501592391)
 
-## Plus d'informations
+# Plus d'informations
 
 * appel à projets AAP
 * règlement du concours
 * page EIG Etalab
 * promotion1
+
