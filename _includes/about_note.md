@@ -25,11 +25,11 @@ sélectionnés en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dintere
   sessions de mentoring
 * Un pilotage global assuré par Etalab
 
-**Un [appel
+\*\*Un [appel
 à candidatures](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391) est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
 les candidats - *créateurs engagés,
 innovateurs, datascientists, développeurs –* qui relèveront ces défis et
-constitueront la promotion EIG2. **
+constitueront la promotion EIG2. \*\*
 
 En novembre
 prochain, [un jury de personnalités qualifiées](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) auditionnera les candidats pré-sélectionnés
@@ -60,8 +60,7 @@ mentor opérationnel au sein de l’équipe d’accueil.
 
 # Plus d'informations
 
-* appel à projets AAP
-* règlement du concours
-* page EIG Etalab
-* promotion1
-
+* \[Appel à projets AAP\]
+* \[Règlement de l'appel à candidatures\]
+* [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
+* [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
