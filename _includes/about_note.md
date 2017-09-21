@@ -14,7 +14,7 @@ entrepreneur•neuse•s d'intérêt général intègreront l’administration p
 relever \[15 défis\], [préalablement
 sélectionnés en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury).
 
-# Le principe du programme EIG2 : 
+# Le principe du programme EIG2 :
 
 * \[25\] entrepreneurs recrutés en CDD de 10 mois,
   accueillis par les administrations porteuses de défis
@@ -25,11 +25,11 @@ sélectionnés en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dintere
   sessions de mentoring
 * Un pilotage global assuré par Etalab
 
-**Un [appel
+\*\*Un [appel
 à candidatures](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391) est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
 les candidats - *créateurs engagés,
 innovateurs, datascientists, développeurs –* qui relèveront ces défis et
-constitueront la promotion EIG2. **
+constitueront la promotion EIG2. \*\*
 
 En novembre
 prochain, [un jury de personnalités qualifiées](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) auditionnera les candidats pré-sélectionnés
@@ -42,7 +42,7 @@ d’intérêt général auxquels les entrepreneur•neuse•s sont amené•e•
 sont présentés sur ce site. Ils ont été [sélectionnés par un jury
 d’experts en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury) et validés par un comité de pilotage du fonds “Transition numérique
 de l’État et modernisation de l’action publique” du Programme d’investissements
-d’avenir (Commissariat général à l’investissement). 
+d’avenir (Commissariat général à l’investissement).
 
 Chaque défi
 sera réalisé par une équipe de 2 à 3 entrepreneur•neuse•s d'intérêt général et encadré par un
@@ -64,4 +64,3 @@ mentor opérationnel au sein de l’équipe d’accueil.
 * règlement du concours
 * page EIG Etalab
 * promotion1
-
