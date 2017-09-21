@@ -60,9 +60,12 @@ mentor opérationnel au sein de l’équipe d’accueil.
 
 L'appel à candidatures est ouvert du 27 septembre au 27 octobre 2017. Un jury auditionnera les candidat•e•s présélectionné•e•s les 14 et 15 novembre 2017.
 
+![Timeline récapitulant le déroulé de l'appel à candidatures](/img/portfolio/timeline.png)
+
 # Plus d'informations
 
 * \[Appel à projets AAP\]
 * \[Règlement de l'appel à candidatures\]
 * [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
 * [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
+
