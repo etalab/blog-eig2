@@ -58,6 +58,8 @@ mentor opérationnel au sein de l’équipe d’accueil.
 
 # Pour candidater : [cliquez ici](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promotion-2-1501592391)
 
+L'appel à candidatures est ouvert du 27 septembre au 27 octobre 2017. Un jury auditionnera les candidat•e•s présélectionné•e•s les 14 et 15 novembre 2017.
+
 # Plus d'informations
 
 * \[Appel à projets AAP\]
