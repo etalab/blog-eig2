@@ -10,12 +10,17 @@ body {
     font-family: "Source Sans Pro", "Arial", sans-serif;
     font-size: 15px;
     background: #f4f4f4;
+    color: #4b4b4b;
 }
 
 @media all and (max-width: 440px) {
     body {
         font-size: 12px;
     }
+}
+
+p {
+    line-height: 1.5em;
 }
 
 p.small {
@@ -54,13 +59,13 @@ h2 {
 }
 
 h2:before, h2:after {
-    content: '⬢';
-    color: #e00613;
-    font-size: .6em;
-    vertical-align: middle;
-    margin: 0 .5em 0;
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: url('../img/hex.svg') center center no-repeat;
     position: relative;
-    top: -.2em
+    margin: 0 .5em;
 }
 
 li {
@@ -72,11 +77,11 @@ li {
 li:before {
     position: absolute;
     left: -15px;
-    top: 3px;
-    content: '⬢';
-    font-size: .6em;
-    vertical-align: 2px;
-    color: #e00613;
+    top: 5px;
+    content: '';
+    background: url('../img/hex.svg') center center no-repeat;
+    height: 10px;
+    width: 10px;
 }
 
 section {
@@ -87,6 +92,10 @@ section {
 @media (max-width: 440px) {
     section {
         padding-top: 8em;
+    }
+
+    li:before {
+        top: 3px;
     }
 }
 
@@ -160,6 +169,8 @@ a.button:active {
     float: right;
     margin: 1.5em 0;
     padding: 0;
+    width: 75%;
+    text-align: right;
 }
 
 .navbar__links li {
@@ -176,11 +187,13 @@ a.button:active {
     .navbar__links {
         display: block;
         float: none;
+        text-align: left;
+        width: auto;
     }
 
     .navbar__links li {
         margin-left: 0;
-        margin-right: 10px;
+        margin-right: 20px;
         display: inline;
     }
 }
@@ -229,32 +242,20 @@ a.button:active {
 
 .header__title:before,
 .header__title:after {
-    content: '⬢';
-    color: #{{ site.color.secondary }};
-    font-size: .8em;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.header__title:before {
-    left: -1em;
-}
-
-.header__title:after {
-    right: -1em;
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: url('../img/hex.svg') center center no-repeat;
+    position: relative;
+    margin: 0 .2em;
+    top: -.1em;
 }
 
 /* portfolio */
 
 #portfolio {
     padding-top: 1em;
-}
-
-.portfolio__title:after {
-    content: '⬢';
-    color: #e00613;
-    margin: .3em;
 }
 
 .portfolio__grid {
@@ -316,8 +317,12 @@ a.button:active {
     margin: 1em 0;
 }
 
+#post .post__content h2:before {
+    margin-left: 0;
+}
+
 #post .post__content h2:after {
-    content: '';
+    background: none;
 }
 
 #post .panel {
@@ -435,5 +440,5 @@ a.button:active {
 }
 
 .footer li:before {
-    top: -1px;
+    content: none;
 }

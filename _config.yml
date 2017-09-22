@@ -1,10 +1,10 @@
 # Site settings
-title: Entrepreneur D'intérêt Général
+title: Entrepreneur d'Intérêt Général
 email: steven.snoussi@data.gouv.fr
 url: https://entrepreneur-interet-general.etalab.gouv.fr
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-meta_author: LastName FirstName
+description: "Entrepreneur d'Intérêt Général."
+keywords: ""
+meta_author: Etalab
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
