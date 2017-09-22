@@ -3,7 +3,7 @@ layout: post
 modal-id: >-
   Défi n°10 - Brigade numérique : mettre en place un accueil numérique
   multicanal de la gendarmerie
-owner: Direction générale de la gendarmerie nationale (DGGN)
+owner: Direction générale de la gendarmerie nationale
 project-date: Janvier 2018
 img: /img/portfolio/10_brigadenumerique.png
 description: >-
@@ -161,8 +161,9 @@ description: >-
 
 
   En savoir plus sur le défi "Brigade numérique">>LIEN PRESENTATION
-category: test
+category: defi
 ---
+
 
 
 
