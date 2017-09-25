@@ -1,8 +1,8 @@
 ---
 layout: post
 modal-id: >-
-  Défi n°9 - ARCHEMSE : archivage électronique pour la mémoire par la sélection
-  et l’évaluation
+  ARCHEMSE : organiser les processus d'archivage électronique à partir de
+  données non structurées
 owner: Secrétariat général des ministères chargés des affaires sociales
 project-date: Janvier 2018
 img: /img/portfolio/9_ARCHEMSE.png
@@ -10,59 +10,53 @@ description: >-
   ## La problématique
 
 
-  La généralisation des outils
+  **Les données
+
+  produites par les ministères sociaux ont statut d’archives publiques.** A ce
+  titre,
+
+  leur création, leur gestion et leur sort final sont soumis à un cadre
+
+  législatif et réglementaire particulier. Une bonne gestion des archives doit
+
+  permettre de contextualiser l’information, de garder une trace fiable et
+
+  opposable des décisions publiques et de maîtriser les coûts induits par la
+
+  gestion de l’information. La sélection des documents à conserver doit s’opérer
+
+  de façon transparente et prendre en compte des critères complémentaires
+
+  \(cartographie des risques, des processus et des documents engageants,
+
+  macro-évaluation). 
+
+
+  Or, la généralisation des outils
 
   informatiques et la multiplication des outils de partage et de stockage
 
-  contribuent à une multiplication des données non structurées. Une grande
+  contribuent à une multiplication des données non structurées, parfois
 
-  majorité des documents produits par une administration est créée, stockée, et
+  redondantes, dans des formats divers à la lisibilité non garantie à long
+  terme.
 
-  diffusée en formats bureautiques, qui n’offrent pas de garantie quant à
 
-  leur lisibilité sur le long terme s’ils ne sont pas pris en charge dans le
+  **Dans ce cadre,
 
-  cadre de procédures de collecte et de traitement à caractère archivistique.
-  Les
-
-  messageries, les espaces serveurs, les supports amovibles accueillent souvent
-
-  de nombreuses versions d’un même document. De plus, en l’absence de
-  restriction
-
-  quant aux espaces de stockage, rares sont les documents faisant l’objet d’un
-
-  tri pour évaluer la pertinence de leur conservation et garantir le respect des
-
-  règles applicables, notamment en matière de données à caractère personnel. Les
-  données produites par les ministères sociaux ont
-
-  statut d’archives publiques. A ce titre, leur création, leur gestion et leur
-
-  sort final sont soumis à un cadre législatif et réglementaire particulier. Une
-
-  bonne gestion des archives doit permettre de contextualiser l’information, de
-
-  garder une trace fiable et opposable des décisions publiques et de maîtriser
-
-  les coûts induits par la gestion de l’information. La sélection des documents
-  à conserver doit s’opérer de façon transparente et
-
-  prendre en compte des critères complémentaires (cartographie des risques, des
-
-  processus et des documents engageants, macro-évaluation). Dans ce cadre, la
-
-  problématique à résoudre est de permettre aux services métiers et à
+  la problématique à résoudre est de permettre aux services métiers et à
 
   l’administration des archives de disposer des informations nécessaires pour
 
   mettre en œuvre une sélection de données à un niveau macro pour des ensembles
 
   volumineux constitués de documents aux formats divers (bureautiques,
+  messageries,
 
-  messageries, etc.) et de garantir la pérennisation et la fiabilité des
+  etc.) et de garantir la pérennisation et la fiabilité des documents traités
+  sur
 
-  documents traités sur le long terme.
+  le long terme.**
 
 
   ## Le défi : mettre en œuvre des techniques de big data pour réaliser
@@ -77,7 +71,7 @@ description: >-
 
   * Constituer un entrepôt de documents à plat par extraction des fichiers
     contenus dans des ensembles documentaires aux formats variés
-  * Exploiter les métadonnées de chaque document, y compris celles liées au
+  * Exploiter les métadonnées de chaque document, y compris celles liées aux
     caractéristiques techniques (format, poids)
   * Tracer et exploiter les informations liées à la localisation initiale des
     documents
@@ -87,12 +81,13 @@ description: >-
     diplomatique, identification de la présence de données à caractère personnel,
     identification des termes clés).
 
-  ## 2 entrepreneurs recherchés
+  ## 2 entrepreneur•neuse•s recherché•e•s
 
 
-  * UN CONCEPTEUR-DEVELOPPEUR : développement et intégration de l'outil
+  * **EIG 1 - CONCEPTION-DÉVELOPPEMENT** : développement et intégration de
+  l'outil
 
-  * UN DATA SCIENTIST : modéliser le besoin et développer une méthode
+  * **EIG 2 - DATASCIENCE** : modéliser le besoin et développer une méthode
   statistique pour l'exploration et l'analyse des données pertinentes
 
 
@@ -113,7 +108,7 @@ description: >-
   Archives de France (Ministère de la culture).
 
 
-  *“Je suis convaincue de l’intérêt
+  *« Je suis convaincue de l’intérêt
 
   que peuvent présenter les techniques métiers des archivistes pour
 
@@ -123,7 +118,8 @@ description: >-
 
   l’identification des différentes sources d’information et rend possible des
 
-  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation *
+  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation.
+  *
 
 
   *Le dispositif EIG doit permettre
@@ -142,16 +138,10 @@ description: >-
 
   contexte tout en bénéficiant d’autonomie, d’un large spectre de données tests
 
-  et d’un environnement de travail adapté.”*
-
-
-  **[Postuler au défi ARCHEMSE
-  ](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391)**
-
-
-  En savoir plus sur le défi >> LIEN PRESENTATION.
+  et d’un environnement de travail adapté. »*
 category: defi
 ---
+
 
 
 
