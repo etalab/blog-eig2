@@ -119,6 +119,7 @@ a.button:focus,
 a.button:active,
 a.button:visited {
     display: inline-block;
+    text-align: center;
     margin: 0 auto;
     padding: 15px 25px;
     color: #fff;
@@ -169,7 +170,7 @@ a.button:active {
     float: right;
     margin: 1.5em 0;
     padding: 0;
-    width: 75%;
+    width: 50%;
     text-align: right;
 }
 
@@ -361,6 +362,11 @@ a.button:active {
 #post .post__title {
     text-align: center;
     font-size: 2em;
+}
+
+#post .button {
+    margin: 2em auto 0;
+    display: block;
 }
 
 @media all and (max-width: 700px) {
