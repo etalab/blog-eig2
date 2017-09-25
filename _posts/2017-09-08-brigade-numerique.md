@@ -1,8 +1,8 @@
 ---
 layout: post
 modal-id: >-
-  Défi n°10 - Brigade numérique : mettre en place un accueil numérique
-  multicanal de la gendarmerie
+  Brigade numérique : mettre en place un accueil numérique multicanal de la
+  gendarmerie
 owner: Direction générale de la gendarmerie nationale
 project-date: Janvier 2018
 img: /img/portfolio/10_brigadenumerique.png
@@ -10,25 +10,28 @@ description: >-
   ## La problématique
 
 
-  La Direction générale de la gendarmerie
+  **La Direction
 
-  nationale (DGGN) cherche à améliorer la qualité du service public grâce à un
+  générale de la gendarmerie nationale (DGGN) cherche à améliorer la qualité du
 
-  accueil numérique. Celui-ci permettra une plus grande proximité avec le
-  citoyen et une
+  service public grâce à la création d’un accueil numérique**. Celui-ci
 
-  professionnalisation de la gestion de la relation usager aux bénéfices de
+  permettra une plus grande proximité avec le citoyen et une
+  professionnalisation
 
-  l’usager (contact personnalisé et réponse efficace), du gendarme (valorisation
+  de la gestion de la relation usager aux bénéfices de l’usager (contact
 
-  de ses interactions) et de la gendarmerie (amélioration de son image et de son
+  personnalisé et réponse efficace), du gendarme (valorisation de ses
+  interactions)
 
-  impact vis-à-vis des usagers). La problématique à résoudre consiste à
-  favoriser
+  et de la gendarmerie (amélioration de son image et de son impact vis-à-vis des
 
-  le contact numérique des usagers avec la gendarmerie et de faciliter les
+  usagers). **La problématique à résoudre
 
-  démarches des citoyens.
+  consiste à favoriser le contact numérique des usagers avec la gendarmerie et
+  de
+
+  faciliter les démarches des citoyens.**
 
 
   ## La solution : intégration de la brigade numérique dans les parcours de
@@ -38,7 +41,7 @@ description: >-
   Pour résoudre cette problématique, la
 
   DGGN veut mettre en place une plateforme numérique de contact multi-canal
-  (réseaux sociaux, chat…) accessible
+  (réseaux sociaux, chat, FAQ, SMS…) accessible
 
   sur le site web de la gendarmerie en version web et mobile pour mieux
   informer,
@@ -49,8 +52,8 @@ description: >-
 
   terme, d’accéder à la gendarmerie sur le site Internet de la
 
-  gendarmerie et les autres sites partenaires comme service-public.fr de la même
-  façon que le permettent
+  gendarmerie et les autres sites partenaires comme *service-public.fr* de la
+  même façon que le permettent
 
   aujourd’hui les appels téléphoniques et l’accueil physique dans les brigades
   de
@@ -68,21 +71,26 @@ description: >-
   \(NEOGEND) – et la proximité numérique que doit décupler la brigade numérique.
 
 
-  ## 2 entrepreneurs recherchés
+  ## 2 entrepreneur•neuse•s recherché•e•s
 
 
-  * DEVELOPPEUR WEB AVANCE : développer un outil de prise de rendez-vous en
-  ligne en l'interfaçant avec l'outil métier de planification du service pour
-  récupérer les disponibilités, et en permettant l'exportation des rendez-vous
-  vers l'agenda du gendarme ou
-    d’une demande de contact vers le terminal NEOGEND du gendarme. Expertises recherchées : expérience dans le développement de plateformes de téléservices avec prise en compte des terminaux mobiles, conception d'architecture logicielle et d'intégration, gestion de bases de données, autonomie et aptitude à travailler en équipe.
-  * ERGONOME : optimisation de l'architecture et de l'ergonomie d'une plateforme
-  web dédiée à l'accueil du public, agencement de services en ligne (FAQ, chat,
-  téléservices) sur le site web de la gendarmerie. Expertises recherchées : UX /
-  UI (si possible en lien avec une plateforme multimédia en version desktop et
-  mobile), expérience dans la prise en compte des problématiques
-  d'accessibilité, capacité d'initiative, créativité.
+  * **EIG 1 - DEVELOPPEMENT WEB AVANCÉ** : **développer un outil de prise de
+  rendez-vous en ligne** (interfaçage avec l'outil métier de
+    planification du service pour récupérer les disponibilités, exportation des
+    rendez-vous vers l'agenda du gendarme ou d’une demande de contact vers le
+    terminal NEOGEND du gendarme). 
 
+    Expertises recherchées : expérience
+    dans le développement de plateformes de télé-services avec prise en compte des
+    terminaux mobiles, conception d'architecture logicielle et d'intégration,
+    gestion de bases de données, autonomie et aptitude à travailler en équipe.
+  * **EIG2 - ERGONOMIE
+    \: optimisation de l'architecture et de l'ergonomie d'une plateforme web dédiée
+    à l'accueil du public, agencement de services en ligne (FAQ, chat,
+    téléservices) sur le site web de la gendarmerie.** Expertises
+    recherchées : UX / UI (si possible en lien avec une plateforme multimédia en
+    version desktop et mobile), expérience dans la prise en compte des
+    problématiques d'accessibilité, capacité d'initiative, créativité.
 
   ## Votre mentor : Marielle Chrisment
 
@@ -114,7 +122,7 @@ description: >-
   gendarmerie.
 
 
-  “*Je suis convaincue des
+  « *Je suis convaincue des
 
   bénéfices pour la gendarmerie à renforcer sa proximité numérique
 
@@ -153,16 +161,10 @@ description: >-
 
   problématique, dans une relation de confiance et de proximité
 
-  renforcée.”*
-
-
-  **[Participer au défi “Brigade numérique”
-  ](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391)**
-
-
-  En savoir plus sur le défi "Brigade numérique">>LIEN PRESENTATION
+  renforcée. »*
 category: defi
 ---
+
 
 
 
