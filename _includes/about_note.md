@@ -1,5 +1,7 @@
-
-Le programme [Entrepreneurs
+---
+{}
+---
+Le programme [Entrepreneur
 d'intérêt général, porté par la Présidence de la République](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general), poursuit
 son opération de transition numérique de l’État ! Son ambition : ouvrir l’administration
 à des experts du numérique et de l’innovation pour relever des défis liés à
@@ -7,10 +9,9 @@ l’utilisation des données et la transformation de l’action publique.
 
 Une deuxième
 promotion d'entrepreneurs d’intérêt général (EIG) est appelée à relever ces
-défis. Dès janvier 2018, et pour une durée de 10 mois, \[25\]
+défis. Dès janvier 2018, et pour une durée de 10 mois, 27
 entrepreneur•neuse•s d'intérêt général intègreront l’administration pour
-relever \[15 défis\], [préalablement
-sélectionnés en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury).
+relever 13 défis, préalablement sélectionnés en juillet 2017. 
 
 # Le principe du programme EIG2 :
 
@@ -23,11 +24,11 @@ sélectionnés en juillet 2017](https://www.etalab.gouv.fr/entrepreneurs-dintere
   sessions de mentoring
 * Un pilotage global assuré par Etalab
 
-\*\*Un [appel
+Un [appel
 à candidatures](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391) est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
 les candidats - *créateurs engagés,
 innovateurs, datascientists, développeurs –* qui relèveront ces défis et
-constitueront la promotion EIG2. \*\*
+constitueront la promotion EIG2. 
 
 En novembre
 prochain, [un jury de personnalités qualifiées](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) auditionnera les candidats pré-sélectionnés
@@ -58,12 +59,10 @@ mentor opérationnel au sein de l’équipe d’accueil.
 
 L'appel à candidatures est ouvert du 27 septembre au 27 octobre 2017. Un jury auditionnera les candidat•e•s présélectionné•e•s les 14 et 15 novembre 2017.
 
-![Timeline récapitulant le déroulé de l'appel à candidatures](/img/portfolio/timeline.png)
+![timeline](/img/portfolio/Visuel blogpost AAC.png)
 
 # Plus d'informations
 
-* \[Appel à projets AAP\]
 * \[Règlement de l'appel à candidatures\]
 * [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
 * [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
-
