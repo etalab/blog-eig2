@@ -2,7 +2,7 @@
 title: Entrepreneur d'Intérêt Général
 email: steven.snoussi@data.gouv.fr
 url: https://entrepreneur-interet-general.etalab.gouv.fr
-description: "Entrepreneur d'Intérêt Général."
+description: "Entrepreneur d'Intérêt Général"
 keywords: ""
 meta_author: Etalab
 
@@ -20,8 +20,8 @@ color:
 
 footer:
   social: Réseaux
-  link: Lien Utiles
-  credits: Credits
+  link: Liens Utiles
+  credits: Crédits
 
 social:
   - title: twitter
@@ -38,9 +38,6 @@ link:
     url: https://etalab.gouv.fr
   - title: SGMAP
     url: http://modernisation.gouv.fr/
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
