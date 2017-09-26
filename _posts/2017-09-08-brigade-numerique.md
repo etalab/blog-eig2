@@ -1,7 +1,7 @@
 ---
 layout: post
 modal-id: >-
-  Brigade numérique : mettre en place un accueil numérique multicanal de la
+  Brigade Numérique : mettre en place un accueil numérique multicanal de la
   gendarmerie
 owner: Direction générale de la gendarmerie nationale
 project-date: Janvier 2018
@@ -71,14 +71,14 @@ description: >-
   \(NEOGEND) – et la proximité numérique que doit décupler la brigade numérique.
 
 
-  ## 2 entrepreneur•neuse•s recherché•e•s
+  ## 2 entrepreneur•e•s recherché•e•s
 
 
   * **EIG 1 - DEVELOPPEMENT WEB AVANCÉ** : **développer un outil de prise de
   rendez-vous en ligne** (interfaçage avec l'outil métier de
     planification du service pour récupérer les disponibilités, exportation des
     rendez-vous vers l'agenda du gendarme ou d’une demande de contact vers le
-    terminal NEOGEND du gendarme). 
+    terminal NEOGEND du gendarme).
 
     Expertises recherchées : expérience
     dans le développement de plateformes de télé-services avec prise en compte des
@@ -95,8 +95,7 @@ description: >-
   ## Votre mentor : Marielle Chrisment
 
 
-  ![Photo de Marielle Christment,
-  mentor](/img/portfolio/10_MarielleChrisment.jpg)
+  ![Photo de Marielle Chrisment](/img/portfolio/10.MarielleChrisment.jpg)
 
 
   Marielle Chrisment,
@@ -164,6 +163,7 @@ description: >-
   renforcée. »*
 category: defi
 ---
+
 
 
 
