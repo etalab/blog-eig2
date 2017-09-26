@@ -99,6 +99,10 @@ section {
     }
 }
 
+hr {
+    display: none;
+}
+
 .container {
     max-width: 1200px;
     padding: 0 2em;
