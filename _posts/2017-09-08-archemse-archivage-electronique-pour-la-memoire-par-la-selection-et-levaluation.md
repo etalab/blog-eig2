@@ -118,7 +118,7 @@ description: >-
 
   l’identification des différentes sources d’information et rend possible des
 
-  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation. 
+  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation.
 
 
   Le dispositif EIG doit permettre
@@ -140,6 +140,7 @@ description: >-
   et d’un environnement de travail adapté. »
 category: defi
 ---
+
 
 
 
