@@ -2,27 +2,27 @@
     <footer class="footer">
         <div class="container">
             <div class="footer__column">
-                <a href="http://www.etalab.gouv.fr/"><h3><img src="{{file.path}}/img/etalab.png" /></h3></a>
+                <a href="http://www.modernisation.gouv.fr/"><h3><img class="footer__sgmap" src="{{file.path}}/img/sgmap.png" /></h3></a>
             </div>
             <div class="footer__column">
-                <h3>{{ site.footer.social }}</h3>
-                <ul class="list-inline">
+                <a href="http://www.etalab.gouv.fr/"><h3><img class="footer__etalab" src="{{file.path}}/img/etalab.png" /></h3></a>
+                <ul class="footer__social">
                     {% for network in site.social %}
                     <li>
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
                     </li>
                     {% endfor %}
                 </ul>
             </div>
             <div class="footer__column">
                 <h3>{{ site.footer.link }}</h3>
-    			<ul class="list-inline">
+                <ul>
                     {% for link in site.link %}
-    			    <li>
+                    <li>
                         <a href="{{ link.url }}">{{ link.title }}</a>
                     </li>
                     {% endfor %}
-    			</ul>
+                </ul>
             </div>
             <div class="clearfix"></div>
         </div>
