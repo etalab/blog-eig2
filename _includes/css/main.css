@@ -202,19 +202,13 @@ a.button:active {
 /* header */
 
 .header {
-    background: url("../img/background.png") center center no-repeat;
+    background: url("../img/background.jpg") center center no-repeat;
     background-size: cover;
     height: 350px;
     padding-top: 60px;
     text-align: center;
     position: relative;
     overflow: hidden;
-}
-
-@media all and (max-width: 640px) {
-    .header {
-        padding-top: 90px;
-    }
 }
 
 .header .container {
@@ -234,8 +228,7 @@ a.button:active {
 }
 
 .header__title {
-    font-weight: 700;
-    font-size: 1.8em;
+    font-size: 1.5em;
     margin: .3em 0;
     display: inline-block;
     position: relative;
@@ -251,6 +244,16 @@ a.button:active {
     position: relative;
     margin: 0 .2em;
     top: -.1em;
+}
+
+@media all and (max-width: 640px) {
+    .header {
+        padding-top: 90px;
+    }
+
+    .header__text {
+        font-size: 1em;
+    }
 }
 
 /* portfolio */
@@ -310,6 +313,12 @@ a.button:active {
 .portfolio__challenge-owner {
     color: #777777;
     font-size: .8em;
+}
+
+@media all and (max-width: 600px) {
+    .portfolio__challenge-owner {
+        display: none;
+    }
 }
 
 /* posts */
@@ -449,12 +458,16 @@ a.button:active {
     content: none;
 }
 
+.footer__social {
+    margin-top: 2em;
+}
+
 .footer__social li {
     display: inline;
 }
 
 .footer__etalab {
-    height: 40px;
+    height: 50px;
 }
 
 .footer__sgmap {

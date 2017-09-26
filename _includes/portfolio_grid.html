@@ -5,7 +5,7 @@
             <h2 class="portfolio__title">Découvrez les défis de la promotion 2</h2>
             <div class="portfolio__grid">
                 {% for post in site.posts %}
-                    <a href="{{ post.url }}" data-toggle="modal">
+                    <a href="{{ post.permalink }}">
                         <div class="portfolio__item panel">
                             <div class="portfolio__img-container">
                                 <img src="{{ post.img }}" alt="{{ post.alt }}" class="portfolio__img">
