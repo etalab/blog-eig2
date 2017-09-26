@@ -218,17 +218,16 @@ a.button:active {
 }
 
 .header__text {
-    font-size: 1.3em;
+    font-size: 1.2em;
     color: #fff;
     margin-bottom: 1.3em;
 }
 
-.header__text p {
-    margin: .3em 0;
-}
-
-.header__title {
+.header h2 {
+    color: #fff;
     font-size: 1.5em;
+    font-family: "Evolventa", "Trebuchet MS", sans-serif;
+    font-weight: 400;
     margin: .3em 0;
     display: inline-block;
     position: relative;
