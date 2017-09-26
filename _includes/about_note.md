@@ -1,3 +1,6 @@
+---
+{}
+---
 Le programme [Entrepreneur
 d'intérêt général, initié par la Présidence de la République et porté par Etalab](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general), poursuit
 son opération de transition numérique de l’État !
@@ -48,7 +51,7 @@ mentor opérationnel au sein de l’équipe d’accueil.
 
 * Dynamisme, vision, esprit d’initiative, attitude positive
 * Capacité à comprendre le défi, à proposer des orientations stratégiques pour son développement
-* Sens de l’intérêt général (ex : contribution à un logiciel libre, engagement associatif, etc.) 
+* Sens de l’intérêt général (ex : contribution à un logiciel libre, engagement associatif, etc.)
 * Capacité à s’intégrer dans l’environnement d’une administration publique et interagir avec ses métiers (SI, métier, RH, direction générale, etc.)
 * Compétences « techniques » : technologique (langage de programmation, framework, développement fullstack …), design, expérience utilisateur ou datascience
 * Disponibilité à partir de janvier 2018, pour une durée de 10 mois à temps plein
@@ -64,3 +67,5 @@ L'appel à candidatures est ouvert du 27 septembre au 27 octobre 2017. Un jury a
 * \[Règlement de l'appel à candidatures\]
 * [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
 * [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
+
+Remerciements à Frédéric Bardolle, EIG de la Promotion 1 au sein de la Cour des comptes, qui a conçu les visuels des défis. 
