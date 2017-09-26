@@ -1,6 +1,3 @@
----
-{}
----
 Le programme [Entrepreneur
 d'intérêt général, initié par la Présidence de la République et porté par Etalab](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general), poursuit
 son opération de transition numérique de l’État !

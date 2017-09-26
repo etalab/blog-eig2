@@ -2,9 +2,8 @@
     <header class="header">
         <div class="container">
             <div class="header__text">
-                <p>Développeur•euses, datascientists, designers, agilistes, passionné•e•s de numérique et d'action publique...</p>
-                <p class="header__title">Devenez Entrepreneur•neuse d’Intérêt Général !</p>
-                <p>En janvier 2018, vous pouvez intégrer l’État pour 10 mois et participer à sa transition numérique en relevant 10 défis.</p>
+                {% capture my_include %}{% include header.md %}{% endcapture %}
+                {{ my_include | markdownify }}
             </div>
             <a class="button" href="{{ site.url }}/a-propos.html">En savoir plus</a>
         </div>
