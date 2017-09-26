@@ -29,7 +29,7 @@ description: >-
 
   \(cartographie des risques, des processus et des documents engageants,
 
-  macro-évaluation). 
+  macro-évaluation).
 
 
   Or, la généralisation des outils
@@ -81,20 +81,20 @@ description: >-
     diplomatique, identification de la présence de données à caractère personnel,
     identification des termes clés).
 
-  ## 2 entrepreneur•neuse•s recherché•e•s
+  ## 2 entrepreneur•e•s recherché•e•s
 
 
   * **EIG 1 - CONCEPTION-DÉVELOPPEMENT** : développement et intégration de
   l'outil
 
-  * **EIG 2 - DATASCIENCE** : modéliser le besoin et développer une méthode
+  * **EIG 2 - DATA SCIENCE** : modéliser le besoin et développer une méthode
   statistique pour l'exploration et l'analyse des données pertinentes
 
 
   ## Votre mentor : Anne Lambert
 
 
-  ![Photo d'Anne Lambert, mentor](/img/portfolio/9_AnneLambert.jpg)
+  ![Photo d'Anne Lambert](/img/portfolio/9_AnneLambert.jpg)
 
 
   Anne Lambert a rejoint le
@@ -108,7 +108,7 @@ description: >-
   Archives de France (Ministère de la culture).
 
 
-  *« Je suis convaincue de l’intérêt
+  « Je suis convaincue de l’intérêt
 
   que peuvent présenter les techniques métiers des archivistes pour
 
@@ -118,11 +118,10 @@ description: >-
 
   l’identification des différentes sources d’information et rend possible des
 
-  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation.
-  *
+  traitements ultérieurs en vue de leur pérennisation et de leur réutilisation. 
 
 
-  *Le dispositif EIG doit permettre
+  Le dispositif EIG doit permettre
 
   d’expérimenter les conditions de leur transposition pour l’automatisation de
   ces
@@ -138,9 +137,10 @@ description: >-
 
   contexte tout en bénéficiant d’autonomie, d’un large spectre de données tests
 
-  et d’un environnement de travail adapté. »*
+  et d’un environnement de travail adapté. »
 category: defi
 ---
+
 
 
 
