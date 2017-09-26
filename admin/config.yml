@@ -13,7 +13,7 @@ collections:
     sort: "date:desc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
-    permalink: {{modal-id}}
+    title: {{modal-id}}
     fields:
       - {label: "Layout", name: "layout",  widget: "hidden", default: "post"}
       - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
