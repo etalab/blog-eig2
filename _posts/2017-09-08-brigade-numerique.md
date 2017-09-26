@@ -1,11 +1,12 @@
 ---
 layout: post
+project-date: Janvier 2018
+img: /img/portfolio/10_brigadenumerique.png
+misc: 'développement web, ergonomie, design UX/UI'
 modal-id: >-
   Brigade Numérique : mettre en place un accueil numérique multicanal de la
   gendarmerie
 owner: Direction générale de la gendarmerie nationale
-project-date: Janvier 2018
-img: /img/portfolio/10_brigadenumerique.png
 description: >-
   ## La problématique
 
@@ -162,8 +163,9 @@ description: >-
 
   renforcée. »*
 category: defi
-misc: 'développement web, ergonomie, design UX/UI'
+permalink: brigadenumerique
 ---
+
 
 
 
