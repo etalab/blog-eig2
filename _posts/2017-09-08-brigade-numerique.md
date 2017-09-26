@@ -162,7 +162,9 @@ description: >-
 
   renforcée. »*
 category: defi
+misc: 'développement web, ergonomie, design UX/UI'
 ---
+
 
 
 
