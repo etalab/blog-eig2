@@ -94,6 +94,9 @@ description: >-
   ## Votre mentor : Anne Lambert
 
 
+  ![Photo d'Anne Lambert](/img/portfolio/9_AnneLambert.jpg)
+
+
   Anne Lambert a rejoint le
 
   secrétariat général des ministères sociaux en juillet 2015. Elle y pilote la
@@ -137,6 +140,7 @@ description: >-
   et d’un environnement de travail adapté. »
 category: defi
 ---
+
 
 
 
