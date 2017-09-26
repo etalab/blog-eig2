@@ -94,7 +94,7 @@ description: >-
   ## Votre mentor : Anne Lambert
 
 
-  ![Photo d'Anne Lambert](/img/portfolio/9_AnneLambert.jpg)
+  ![Photo d'Anne Lambert](/img/portfolio/9.AnneLambert.jpg)
 
 
   Anne Lambert a rejoint le
@@ -140,6 +140,7 @@ description: >-
   et d’un environnement de travail adapté. »
 category: defi
 ---
+
 
 
 
