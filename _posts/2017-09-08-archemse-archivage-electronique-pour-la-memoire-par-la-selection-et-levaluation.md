@@ -139,7 +139,9 @@ description: >-
 
   et d’un environnement de travail adapté. »
 category: defi
+misc: 'conception-développement web, data science'
 ---
+
 
 
 
