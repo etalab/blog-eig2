@@ -5,10 +5,10 @@
 
 **Vocabulaire**
 
-    « Nous » se réfère
+« Nous » se réfère
 à l'éditeur du site, la mission Etalab.
 
-    « Vous » se réfère
+« Vous » se réfère
 à un usager du site.
 
 **Présentation**
@@ -16,13 +16,13 @@
 [Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/)
 est un site dédié à la deuxième promotion des Entrepreneurs d’intérêt général,
 un programme public opéré par la mission Etalab et la Caisse des dépôts et
-consignations, dans le cadre du Programme d’investissements d’avenir (PIA). 
+consignations, dans le cadre du Programme d’investissements d’avenir (PIA).
 
 Il vise à présenter les défis
 proposés par les administrations (sélectionnés lors de l’appel à projets de mai
 à juillet 2017) et à diffuser un appel à candidatures pour trouver les futurs
 entrepreneurs prêts à les relever. Celui-ci se déroule durant un mois, du 27
-septembre au 27 octobre 2017. 
+septembre au 27 octobre 2017.
 
 Il vous permet de candidater au
 programme directement à partir de la rubrique « [Participer](https://entrepreneur-interet-general.etalab.gouv.fr/#contact) »,
@@ -42,7 +42,7 @@ compensation financière.
 Conformément au règlement de
 l’appel à candidatures, la participation à celui-ci n’entraîne pas la sélection
 comme entrepreneur d’intérêt général, ni le passage devant le jury, les
-candidatures faisant l’objet d’une pré-sélection par la mission Etalab. 
+candidatures faisant l’objet d’une pré-sélection par la mission Etalab.
 
 **Évolutions**
 
@@ -77,7 +77,7 @@ Nous avons également accès à ces
 données. Conservées au plus deux ans à compter du dépôt de candidature, ces
 données seront traitées pour opérer la pré-sélection, la sélection et,
 éventuellement, dans le cadre du suivi des lauréats finaux. Ce traitement a
-fait l’objet d’une déclaration à la CNIL (n° XXXXX).
+fait l’objet d’une déclaration à la CNIL (n° 2102130v0).
 
 Vous avez un droit d'accès, de
 rectification et de suppression de vos données. Pour l'exercer, envoyez-nous un
@@ -100,7 +100,7 @@ fournissez.
 Mission Etalab, Direction
 interministérielle du numérique et du système d'information et de communication
 de l'Etat (DINSIC), Secrétariat général pour la modernisation de l’action
-publique (SGMAP). 
+publique (SGMAP).
 
 **Directrice de la
 publication**
@@ -116,10 +116,10 @@ d'hébergement**
 OVH
 
 RCS Roubaix – Tourcoing 424 761
-419 00045 
+419 00045
 
-Code APE 6202A 
+Code APE 6202A
 
-N° TVA : FR 22 424 761 419 
+N° TVA : FR 22 424 761 419
 
-Siège social : 2 rue Kellermann - 59100 Roubaix - France. 
+Siège social : 2 rue Kellermann - 59100 Roubaix - France.
