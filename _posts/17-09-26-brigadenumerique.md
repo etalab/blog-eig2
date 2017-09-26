@@ -163,7 +163,6 @@ description: >-
 
   renforcée. »*
 category: defi
-permalink: brigadenumerique
 ---
 
 
