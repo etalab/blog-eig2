@@ -1,11 +1,12 @@
 ---
 layout: post
+project-date: Janvier 2018
+img: /img/portfolio/9_ARCHEMSE.png
+misc: 'conception-développement web, data science'
 modal-id: >-
   ARCHEMSE : organiser les processus d'archivage électronique à partir de
   données non structurées
 owner: Secrétariat général des ministères chargés des affaires sociales
-project-date: Janvier 2018
-img: /img/portfolio/9_ARCHEMSE.png
 description: >-
   ## La problématique
 
@@ -139,8 +140,9 @@ description: >-
 
   et d’un environnement de travail adapté. »
 category: defi
-misc: 'conception-développement web, data science'
+permalink: archemse
 ---
+
 
 
 
