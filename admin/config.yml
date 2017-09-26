@@ -12,7 +12,8 @@ collections:
     folder: "_posts"
     sort: "date:desc"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{modal-id}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    permalink: {{modal-id}}
     fields:
       - {label: "Layout", name: "layout",  widget: "hidden", default: "post"}
       - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
@@ -21,7 +22,7 @@ collections:
       - {label: "Image", name: "img", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Categorie", name: "category", widget: "string"}
-      - {label: "Autres", name: "misc", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
 
   - name: "section"
     label: "Contenu"
