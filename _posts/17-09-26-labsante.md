@@ -1,7 +1,7 @@
 ---
 layout: post
 project-date: Janvier 2018
-img: /img/portfolio/2_Labsanté.png
+img: /img/portfolio/2_Labsanté (2).png
 misc: 'data science, datavisualisation, design de service'
 modal-id: 'Lab Santé : des politiques publiques en santé guidées par les données'
 owner: >-
@@ -11,6 +11,7 @@ description: "## La problématique\n\nUnique en Europe, voire au monde, **le [sy
 category: defi
 permalink: labsante
 ---
+
 
 
 
