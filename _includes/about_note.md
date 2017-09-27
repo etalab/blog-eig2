@@ -24,8 +24,8 @@ relever 13 défis.
   sessions de mentoring
 * Une rémunération de 4000€ nets par mois
 
-Un appel
-à candidatures est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
+Un [appel
+à candidatures](https://www.etalab.gouv.fr/en-2018-devenez-entrepreneur%e2%80%a2e-dinteret-general-rejoignez-la-promotion-2) est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
 les candidat.e.s - *créateur·trice·s engagé·e·s,
 innovateur·trice·s, data scientists, développeur·euse·s –* qui relèveront ces défis et
 constitueront la promotion EIG2.
