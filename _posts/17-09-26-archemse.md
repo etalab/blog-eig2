@@ -4,9 +4,9 @@ project-date: Janvier 2018
 img: /img/portfolio/9_ARCHEMSE.png
 misc: 'conception-développement web, data science'
 modal-id: >-
-  ArchiFiltre : organiser les processus d'archivage électronique à partir de
-  données non structurées
-owner: Secrétariat général des ministères chargés des affaires sociales
+  ArchiFiltre : assurer la mémoire des politiques sociales en transformant la
+  gestion des archives
+owner: Secrétariat général des ministères sociaux
 description: >-
   ## La problématique
 
@@ -139,7 +139,9 @@ description: >-
 
   et d’un environnement de travail adapté. »
 category: defi
+permalink: archifiltre
 ---
+
 
 
 
