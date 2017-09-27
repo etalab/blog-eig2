@@ -4,7 +4,7 @@ project-date: Janvier 2018
 img: /img/portfolio/9_ARCHEMSE.png
 misc: 'conception-développement web, data science'
 modal-id: >-
-  ARCHEMSE : organiser les processus d'archivage électronique à partir de
+  ArchiFiltre : organiser les processus d'archivage électronique à partir de
   données non structurées
 owner: Secrétariat général des ministères chargés des affaires sociales
 description: >-
@@ -18,7 +18,7 @@ description: >-
 
   leur création, leur gestion et leur sort final sont soumis à un cadre
 
-  législatif et réglementaire particulier. Une bonne gestion des archives doit
+  législatif et réglementaire spécifique. Une bonne gestion des archives doit
 
   permettre de contextualiser l’information, de garder une trace fiable et
 
@@ -28,9 +28,8 @@ description: >-
 
   de façon transparente et prendre en compte des critères complémentaires
 
-  \(cartographie des risques, des processus et des documents engageants,
-
-  macro-évaluation).
+  \(cartographie des risques et des processus, perspectives / conditions de
+  réutilisation).
 
 
   Or, la généralisation des outils
@@ -89,7 +88,7 @@ description: >-
   l'outil
 
   * **EIG 2 - DATA SCIENCE** : modéliser le besoin et développer une méthode
-  statistique pour l'exploration et l'analyse des données pertinentes
+  pour l'exploration et l'analyse des données pertinentes
 
 
   ## Votre mentor : Anne Lambert
@@ -140,7 +139,9 @@ description: >-
 
   et d’un environnement de travail adapté. »
 category: defi
+permalink: archifiltre
 ---
+
 
 
 
