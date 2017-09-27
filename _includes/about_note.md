@@ -31,7 +31,7 @@ innovateurs, data scientists, développeurs –* qui relèveront ces défis et
 constitueront la promotion EIG2.
 
 En novembre
-prochain, [un jury de personnalités qualifiées](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) auditionnera les candidat•e•s présélectionné•e•s
+prochain, [un jury de personnalités qualifiées](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) auditionnera les candidat.e.s présélectionné.e.s
 par les équipes d’Etalab.
 
 # 13 défis d’intérêt général
