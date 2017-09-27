@@ -6,7 +6,7 @@ d'intérêt général, initié par la Présidence de la République et porté pa
 son opération de transition numérique de l’État !
 
 Son ambition : ouvrir l’administration
-à des talents du numérique pour résoudre des défis d’intérêt général au sein des ministères
+à des talents du numérique pour résoudre des défis d’intérêt général au sein des ministères.
 
 Une deuxième
 promotion d'entrepreneur•e•s d’intérêt général (EIG) est appelée à relever ces
@@ -64,8 +64,7 @@ L'appel à candidatures est ouvert du 27 septembre au 27 octobre 2017. Un jury a
 
 # Plus d'informations
 
-* \[Règlement de l'appel à candidatures\]
 * [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
 * [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
 
-Remerciements à Frédéric Bardolle, EIG de la Promotion 1 au sein de la Cour des comptes, qui a conçu les visuels des défis. 
+Remerciements à Frédéric Bardolle, EIG de la Promotion 1 au sein de la Cour des comptes, qui a conçu les visuels des défis.
