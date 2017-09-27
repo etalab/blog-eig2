@@ -1,7 +1,7 @@
 ---
 {}
 ---
-Le programme [Entrepreneur
+Le programme [Entrepreneur•e
 d'intérêt général, initié par la Présidence de la République et porté par Etalab](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general), poursuit
 son opération de transition numérique de l’État !
 
@@ -24,8 +24,8 @@ relever 13 défis.
 * Un pilotage global assuré par Etalab
 * Une rémunération de 4000€ nets par mois
 
-Un [appel
-à candidatures](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo-2-1501592391) est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
+Un appel
+à candidatures est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
 les candidat•e•s - *créateurs engagés,
 innovateurs, data scientists, développeurs –* qui relèveront ces défis et
 constitueront la promotion EIG2.
