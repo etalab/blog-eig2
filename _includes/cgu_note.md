@@ -14,7 +14,7 @@
 **Présentation**
 
 [Entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr/)
-est un site dédié à la deuxième promotion des Entrepreneurs d’intérêt général,
+est un site dédié à la deuxième promotion des Entrepreneur.e.s d’intérêt général (EIG),
 un programme public opéré par la mission Etalab et la Caisse des dépôts et
 consignations, dans le cadre du Programme d’investissements d’avenir (PIA).
 
@@ -123,4 +123,3 @@ Code APE 6202A
 N° TVA : FR 22 424 761 419
 
 Siège social : 2 rue Kellermann - 59100 Roubaix - France.
-
