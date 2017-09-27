@@ -42,7 +42,7 @@ description: >-
   Pour résoudre cette problématique, la
 
   DGGN veut mettre en place une plateforme numérique de contact multi-canal
-  (réseaux sociaux, chat, FAQ, SMS…) accessible
+  (réseaux sociaux, chat, FAQ,…) accessible
 
   sur le site web de la gendarmerie en version web et mobile pour mieux
   informer,
@@ -76,7 +76,7 @@ description: >-
 
 
   * **EIG 1 - DEVELOPPEMENT WEB AVANCÉ** : **développer un outil de prise de
-  rendez-vous en ligne** (interfaçage avec l'outil métier de
+  rendez-vous en ligne** (identification, interfaçage avec l'outil métier de
     planification du service pour récupérer les disponibilités, exportation des
     rendez-vous vers l'agenda du gendarme ou d’une demande de contact vers le
     terminal NEOGEND du gendarme).
@@ -115,11 +115,7 @@ description: >-
 
   au service
 
-  d'informations et de relations publiques de
-
-  la
-
-  gendarmerie.
+  d'informations et de relations publiques des armées - gendarmerie.
 
 
   « *Je suis convaincue des
@@ -165,6 +161,7 @@ description: >-
 category: defi
 permalink: brigadenumerique
 ---
+
 
 
 
