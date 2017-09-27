@@ -1,7 +1,7 @@
 ---
 layout: post
 project-date: Janvier 2018
-img: /img/portfolio/default.png
+img: /img/portfolio/11_EIGLink.png
 misc: 'devops, développement, coaching'
 modal-id: >-
   EIG Link : accompagner une communauté inédite d'entrepreneur•e•s au sein de
@@ -13,6 +13,7 @@ description: "## La problématique\n\nLa promotion 2 du programme Entrepreneur d
 category: defi
 permalink: eiglink
 ---
+
 
 
 
