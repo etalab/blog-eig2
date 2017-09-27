@@ -26,8 +26,8 @@ relever 13 défis.
 
 Un appel
 à candidatures est donc ouvert du 27 septembre au 27 octobre 2017 pour sélectionner
-les candidat.e.s - *créateurs engagés,
-innovateurs, data scientists, développeurs –* qui relèveront ces défis et
+les candidat.e.s - *créateur·trice·s engagé·e·s,
+innovateur·trice·s, data scientists, développeur·euse·s –* qui relèveront ces défis et
 constitueront la promotion EIG2.
 
 En novembre
