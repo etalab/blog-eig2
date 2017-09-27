@@ -6,7 +6,9 @@ misc: 'développement web, ergonomie, design UX/UI'
 modal-id: >-
   Brigade Numérique : mettre en place un accueil numérique de la gendarmerie au
   service des citoyens
-owner: Direction générale de la gendarmerie nationale (DGGN)
+owner: >-
+  Ministère de l'Intérieur, Direction générale de la gendarmerie nationale
+  (DGGN)
 description: >-
   ## La problématique
 
@@ -159,7 +161,9 @@ description: >-
 
   renforcée. »*
 category: defi
+permalink: brigadenumerique
 ---
+
 
 
 
