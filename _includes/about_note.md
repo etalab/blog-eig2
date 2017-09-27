@@ -17,11 +17,11 @@ relever 13 défis.
 
 * 27 entrepreneur.e.s recruté.e.s en CDD de 10 mois,
   accueilli.e.s par les administrations porteuses de défis
+* Un programme porté par Etalab
 * Des mentors opérationnels et stratégiques au sein des administrations
   d’accueil
 * Une promotion soudée et réunie régulièrement lors de
   sessions de mentoring
-* Un pilotage global assuré par Etalab
 * Une rémunération de 4000€ nets par mois
 
 Un appel
@@ -45,7 +45,7 @@ d’avenir (Commissariat général à l’investissement).
 
 Chaque défi
 sera réalisé par une équipe de 2 à 3 entrepreneur.e.s d'intérêt général, encadré par un
-mentor opérationnel au sein de l’équipe d’accueil, et suivi par un mentor stratégique. 
+mentor opérationnel au sein de l’équipe d’accueil, et suivi par un mentor stratégique.
 
 # Les candidat.e.s seront sélectionné.e.s selon les critères suivants :
 
