@@ -139,7 +139,6 @@ description: >-
 
   et d’un environnement de travail adapté. »
 category: defi
-permalink: archifiltre
 ---
 
 
