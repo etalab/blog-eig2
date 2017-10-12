@@ -1,13 +1,12 @@
 ---
 layout: post
-project-date: Janvier 2018
-img: /img/portfolio/9_ARCHEMSE.png
-misc: 'conception-développement web, data science'
 modal-id: >-
   ArchiFiltre : assurer la mémoire des politiques sociales en transformant la
   gestion des archives
 owner: Secrétariat général des ministères sociaux
-description: >-
+project-date: Janvier 2018
+img: /img/portfolio/9_ARCHEMSE.png
+description: >
   ## La problématique
 
 
@@ -139,7 +138,9 @@ description: >-
 
   et d’un environnement de travail adapté. »
 category: defi
+misc: 'conception-développement web, data science'
 ---
+
 
 
 
