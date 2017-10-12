@@ -2,7 +2,7 @@
 layout: post
 project-date: Janvier 2018
 img: /img/portfolio/6_Signauxfaibles.png
-misc: 'data sicence, développement'
+misc: 'data science, développement'
 modal-id: >-
   Signaux Faibles : détecter les entreprises en difficulté pour mieux les
   accompagner
