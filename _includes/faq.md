@@ -73,7 +73,7 @@ et peuvent ainsi partager leurs réussites et leurs difficultés.
 
 Les
 11 EIG de la première promotion ont travaillé sur 9 défis, dont la liste est
-accessible [ici ](https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general)(certains
+accessible [ici ](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)(certains
 défis ont pu évoluer au cours de l’année). Des courtes vidéos des EIG
 présentant leurs réalisations seront disponibles prochainement.
 
