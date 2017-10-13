@@ -6,7 +6,7 @@ modal-id: >-
 owner: Secrétariat général des ministères sociaux
 project-date: Janvier 2018
 img: /img/portfolio/9_ARCHEMSE.png
-description: >
+description: >-
   ## La problématique
 
 
@@ -137,9 +137,14 @@ description: >
   contexte tout en bénéficiant d’autonomie, d’un large spectre de données tests
 
   et d’un environnement de travail adapté. »
+
+
+  ## [En savoir plus : le pitch du défi en 4
+  slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
 category: defi
 misc: 'conception-développement web, data science'
 ---
+
 
 
 
