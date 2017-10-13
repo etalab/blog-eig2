@@ -1,14 +1,13 @@
 ---
 layout: post
-project-date: Janvier 2018
-img: /img/portfolio/10_brigadenumerique.png
-misc: 'développement web, ergonomie, design UX/UI'
 modal-id: >-
   Brigade Numérique : mettre en place un accueil numérique de la gendarmerie au
   service des citoyens
 owner: >-
   Ministère de l'Intérieur, Direction générale de la gendarmerie nationale
   (DGGN)
+project-date: Janvier 2018
+img: /img/portfolio/10_brigadenumerique.png
 description: >-
   ## La problématique
 
@@ -160,8 +159,14 @@ description: >-
   problématique, dans une relation de confiance et de proximité
 
   renforcée. »*
+
+
+  ## [En savoir plus : le pitch du défi en 4
+  slides](https://www.slideshare.net/secret/qlquJhQU0zwK9u)
 category: defi
+misc: 'développement web, ergonomie, design UX/UI'
 ---
+
 
 
 
