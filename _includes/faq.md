@@ -1,6 +1,4 @@
 ---
-{}
----
 ## Qui peut participer ?
 
 Le programme EIG est ouvert à
