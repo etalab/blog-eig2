@@ -1,7 +1,7 @@
 ---
 layout: post
 modal-id: >-
-  Prévisecours : aider les sapeurs-pompiers à intervenir plus effiacement avec
+  Prévisecours : aider les sapeurs-pompiers à intervenir plus efficacement avec
   des modèles prédictifs
 owner: >-
   Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation
@@ -12,6 +12,7 @@ description: "## La problématique\n\nLes sapeurs-pompiers sont confrontés à u
 category: defi
 misc: data science
 ---
+
 
 
 
