@@ -367,6 +367,11 @@ a.button:active {
     text-align: left;
 }
 
+#post .post__description img {
+    border-radius: 40px;
+    height: 225px;
+}
+
 #post .post__data img {
     width: 100%;
 }
