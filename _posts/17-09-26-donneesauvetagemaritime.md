@@ -24,7 +24,7 @@ description: "## La problématique\n\nEn 2016, 10 000 opérations de sauvetage p
 	[Son profil Linkedin](https://fr.linkedin.com/in/luneville-elsa-049b9a49)
 
 
-	* **Antoine Augusti : UX / Dataviz** 
+	* **Antoine Augusti : Développement / Datascience** 
 
 
 	![Photo d'Antoine Augusti](/img/portfolio/AntoineAugusti.png)
@@ -45,41 +45,3 @@ description: "## La problématique\n\nEn 2016, 10 000 opérations de sauvetage p
 category: defi
 misc: 'data science, ux design, datavisualisation'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
