@@ -18,7 +18,10 @@ description: "## La problématique\n\nLes sapeurs-pompiers sont confrontés à u
 ![Photo de Tiphaine Phe-Neau](/img/portfolio/TiphainePheNeau.png)
 
 
-Tiphaine est titulaire d'un doctorat en informatique de l'Université Pierre et Marie Curie. Après ses études, elle a voulu utiliser ses capacités d'abstraction, d'observation et de réalisation pour s'attaquer à de nouvelles problématiques en tant que data scientist. Elle a travaillé dans des entreprises telles que Dailymotion, Clustree ou Saegus sur une grande variété de sujets. En tant que data scientist, elle apprécie combiner les connaissances métiers avec les aspects techniques pour obtenir des solutions efficaces et réalistes. 
+Tiphaine est titulaire d'un doctorat en informatique de l'Université Pierre et Marie Curie. Après ses études, elle a voulu utiliser ses capacités d'abstraction, d'observation et de réalisation pour s'attaquer à de nouvelles problématiques en tant que data scientist. Elle a travaillé dans des entreprises telles que Dailymotion, Clustree ou Saegus sur une grande variété de sujets. En tant que data scientist, elle apprécie combiner les connaissances métiers avec les aspects techniques pour obtenir des solutions efficaces et réalistes.  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/pheneau/) | [Son compte Twitter : @datatiph](https://www.twitter.com/datatiph) 
 
 * **Guillaume Lancrenon : Développement** 
 
@@ -26,7 +29,10 @@ Tiphaine est titulaire d'un doctorat en informatique de l'Université Pierre et 
 ![Photo de Guillaume Lancrenon](/img/portfolio/GuillaumeLancrenon.png)
 
 
-Guillaume Lancrenon a débuté comme ingénieur d’exploration sismique chez Westerngeco, une filiale offshore de Schlumberger. Il est ensuite passé par l’entreprenariat avec la réalisation de CommoPrices, une startup spécialisée dans le suivi du cours des matières premières. Il a récemment rejoint le programme EIG pour mettre ses compétences au service des pompiers.
+Guillaume Lancrenon a débuté comme ingénieur d’exploration sismique chez Westerngeco, une filiale offshore de Schlumberger. Il est ensuite passé par l’entreprenariat avec la réalisation de CommoPrices, une startup spécialisée dans le suivi du cours des matières premières. Il a récemment rejoint le programme EIG pour mettre ses compétences au service des pompiers.  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/guillaumelancrenon/)
 
 
 

@@ -20,7 +20,11 @@ description: "## La problématique\n\nUnique en Europe, voire au monde, **le [sy
 
 Samah est ingénieure spécialisée en Technologies de l'Information pour la Santé. Elle a d'abord travaillé pendant 3 ans en tant ingénieur-chercheur au Commissariat à l'Energie Atomique (CEA) dans le Laboratoire de Vision et d'Ingénierie des Contenus (LVIC) où elle a contribué à plusieurs projets concernant l'apprentissage automatique supervisé et non-supervisé ainsi que la création d'agents conversationnels (chatbots).
 Elle a ensuite rejoint la start-up Stryng Messaging Inc en Juin 2017 afin d'ajouter de l'Intelligence Artificielle à cette nouvelle application de messagerie dédiée aux professionnels.
-Passionnée de nouvelles technologies, elle est membre de l'association Women in AI (All In) et participe régulièrement à des meetups tech.
+Passionnée de nouvelles technologies, elle est membre de l'association Women in AI (All In) et participe régulièrement à des meetups tech.  
+
+
+
+[Son profil Linkedin](https://fr.linkedin.com/in/samahghalloussi) | [Son compte Twitter : @SamahNLP](https://www.twitter.com/SamahNLP)
 
 * **Philéas Condemine : Datascience** 
 
@@ -28,7 +32,11 @@ Passionnée de nouvelles technologies, elle est membre de l'association Women in
 ![Photo de Philéas Condemine](/img/portfolio/PhileasCondemine.png)
 
 
-Philéas a étudié à l'ENSAE la science actuarielle et la science des données. Pendant plus de 3 ans il combine et enrichit ses compétences sein au groupe AXA, assureur leader dans le domaine de la data. Des projets personnels complémentaires l'amènent à travailler sur des sujets d'objets connectés, d'interopérabilité des systèmes d'information, de prototypage de robot 4-roues et de vision par ordinateur (deep learning). Il est passionné de nouvelles technologies mais aussi d'arts, en particulier d'arts vivants et surtout de danses, à la fois spectateur et pratiquant régulier.
+Philéas a étudié à l'ENSAE la science actuarielle et la science des données. Pendant plus de 3 ans il combine et enrichit ses compétences sein au groupe AXA, assureur leader dans le domaine de la data. Des projets personnels complémentaires l'amènent à travailler sur des sujets d'objets connectés, d'interopérabilité des systèmes d'information, de prototypage de robot 4-roues et de vision par ordinateur (deep learning). Il est passionné de nouvelles technologies mais aussi d'arts, en particulier d'arts vivants et surtout de danses, à la fois spectateur et pratiquant régulier.  
+
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/phil%C3%A9as-condemine-6a46025a/)
 
 
 * **Julien Naour : Datascience**
@@ -37,7 +45,10 @@ Philéas a étudié à l'ENSAE la science actuarielle et la science des données
 ![Photo de Julien Naour](/img/portfolio/JulienNaour.png)
 
 
-« Je suis data scientist spécialisé en Big Data et couteau suisse touche-à-tout avant tout. J'ai d'abord travaillé dans un laboratoire de recherche à Thales en touchant à des sujets autour de la donnée comme la cybersécurité, les réseaux de transport urbain ou les réseaux sociaux. Je suis ensuite allé chez Influans, une startup spécialisée dans le marketing digital. Après cela, j'ai fait un voyage de plusieurs mois, essentiellement au Népal et en Inde. J'en suis revenu avec l'envie de mettre mes compétences au service de l'intérêt général. »
+« Je suis data scientist spécialisé en Big Data et couteau suisse touche-à-tout avant tout. J'ai d'abord travaillé dans un laboratoire de recherche à Thales en touchant à des sujets autour de la donnée comme la cybersécurité, les réseaux de transport urbain ou les réseaux sociaux. Je suis ensuite allé chez Influans, une startup spécialisée dans le marketing digital. Après cela, j'ai fait un voyage de plusieurs mois, essentiellement au Népal et en Inde. J'en suis revenu avec l'envie de mettre mes compétences au service de l'intérêt général. »  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/juliennaour/)
 
 
 

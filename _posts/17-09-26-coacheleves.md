@@ -16,7 +16,10 @@ description: "## La problématique\n\nLa révolution numérique\nporte des poten
 ![Photo de David Panou](/img/portfolio/DavidPanou.png)
 
 
-Suite à ses études d’ingénieur en apprentissage automatique (Arts et Métiers ParisTech - UPMC), David travaille au sein de laboratoires de recherche spécialisés en traitement du langage. Ses expériences au sein de starts-up aussi bien en France qu’aux États-Unis lui donnent le sens de l’entreprenariat. Il décide alors de mettre ses compétences au profit de l’intérêt général sur le défi du ministère de l’Éducation nationale.
+Suite à ses études d’ingénieur en apprentissage automatique (Arts et Métiers ParisTech - UPMC), David travaille au sein de laboratoires de recherche spécialisés en traitement du langage. Ses expériences au sein de starts-up aussi bien en France qu’aux États-Unis lui donnent le sens de l’entreprenariat. Il décide alors de mettre ses compétences au profit de l’intérêt général sur le défi du ministère de l’Éducation nationale.  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/davidpanou)
 
 
 * **Arnaud Rachez : Datascience**
@@ -25,7 +28,10 @@ Suite à ses études d’ingénieur en apprentissage automatique (Arts et Métie
 ![Photo d'Arnaud Rachez](/img/portfolio/ArnaudRachez.png)
 
 
-Arnaud Rachez a débuté comme ingénieur spécialisé dans le traitement des langues sur le projet IBM Watson en 2013, puis a rejoint Google en tant qu'analyste. Passionné par l'éducation et les langues, il décide ensuite d'aller étudier le japonais à Tokyo et fonde Linalgo, une startup utilisant le traitement des langues pour en faciliter l'apprentissage. Après un passage par la Corée et une incubation à Singapour, il revient en France pour intégrer la promotion EIG2 et relever le défi lancé par l'Éducation nationale.
+Arnaud Rachez a débuté comme ingénieur spécialisé dans le traitement des langues sur le projet IBM Watson en 2013, puis a rejoint Google en tant qu'analyste. Passionné par l'éducation et les langues, il décide ensuite d'aller étudier le japonais à Tokyo et fonde Linalgo, une startup utilisant le traitement des langues pour en faciliter l'apprentissage. Après un passage par la Corée et une incubation à Singapour, il revient en France pour intégrer la promotion EIG2 et relever le défi lancé par l'Éducation nationale.  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/arachez/) | [Son compte Twitter : @zermelozf](https://www.twitter.com/zermelozf)
 
 
  ## Les mentors : Claudio Cimelli et François Bocquet

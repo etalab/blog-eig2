@@ -82,7 +82,10 @@ description: >-
   ![Photo de Doran Crisan](/img/portfolio/DoraCrisan.png)
 
 
-  Dora est une techno-optimiste, convaincue que les nouvelles technologies peuvent avoir un fort impact positif sur l’individu comme sur la société. Passionnée par les transformations technologiques, elle souhaite contribuer au développement et à la mise en œuvre de solutions digitales afin de rendre la vie des gens plus facile et plus fluide. Après un doctorat de physique dans le domaine des nanotechnologies, avec un travail de recherche portant sur des cellules solaires et des cellules de mémoire pour les disques durs (publication dans Nature Communications), elle a mis en place une plateforme digitale et un système de gestion de portefeuille de projets de R&D au sein d’une multinationale de l’énergie. Elle rejoint les entrepreneurs d’intérêt général sur le défi du ministère de l'Intérieur.
+  Dora est une techno-optimiste, convaincue que les nouvelles technologies peuvent avoir un fort impact positif sur l’individu comme sur la société. Passionnée par les transformations technologiques, elle souhaite contribuer au développement et à la mise en œuvre de solutions digitales afin de rendre la vie des gens plus facile et plus fluide. Après un doctorat de physique dans le domaine des nanotechnologies, avec un travail de recherche portant sur des cellules solaires et des cellules de mémoire pour les disques durs (publication dans Nature Communications), elle a mis en place une plateforme digitale et un système de gestion de portefeuille de projets de R&D au sein d’une multinationale de l’énergie. Elle rejoint les entrepreneurs d’intérêt général sur le défi du ministère de l'Intérieur.  
+
+
+  [Son profil Linkedin](https://www.linkedin.com/in/alina-dora-crisan-66a92382/)
 
 
   * **Jean-Baptiste Le Dévéhat : Ergonomie**
@@ -91,7 +94,10 @@ description: >-
   ![Photo de Jean-Baptiste Le Dévéhat](/img/portfolio/JeanBaptisteLeDevehat.png)
 
 
-  A l’image de son expertise en progiciel, Jean-Baptiste est un couteau-suisse et un entrepreneur de la transformation numérique. Après 7 années de gestion de projets web, pour l’industrie, le service et la distribution, Jean-Baptiste a créé la marque Symbiotique.fr en transition numérique. Aujourd’hui, il propose des méthodes et des outils durables, où les utilisateurs sont en capacité d’élaborer leurs solutions, offrant ainsi un cadre à l’innovation sociale et l’intérêt général. Permaculteur et engagé dans les villes en transition, il s’engage dans de nombreux réseaux d’engagement civique, associatif, locaux et des "communs".
+  A l’image de son expertise en progiciel, Jean-Baptiste est un couteau-suisse et un entrepreneur de la transformation numérique. Après 7 années de gestion de projets web, pour l’industrie, le service et la distribution, Jean-Baptiste a créé la marque Symbiotique.fr en transition numérique. Aujourd’hui, il propose des méthodes et des outils durables, où les utilisateurs sont en capacité d’élaborer leurs solutions, offrant ainsi un cadre à l’innovation sociale et l’intérêt général. Permaculteur et engagé dans les villes en transition, il s’engage dans de nombreux réseaux d’engagement civique, associatif, locaux et des "communs".  
+
+
+  [Son profil Linkedin](https://www.linkedin.com/in/jbledevehat) \| [Son compte Twitter : @jbledevehat](https://www.twitter.com/jbledevehat)
 
 
   ## La mentor : Marielle Chrisment

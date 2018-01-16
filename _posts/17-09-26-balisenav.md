@@ -19,7 +19,10 @@ description: "## La problématique\n\nLa signalisation maritime (phares, balisag
 ![Photo d'Adrien Signorino](/img/portfolio/AdrienSignorino.png)
 
 
-Adrien Signorino est passionné depuis toujours par l'entrepreneuriat, les nouvelles technologies et la cartographie. C’est ce qui l’a conduit à étudier à l’école 42 et à HEC. Il est également le co-fondateur de la start-up MonWagon, le GPS communautaire des transports en commun.
+Adrien Signorino est passionné depuis toujours par l'entrepreneuriat, les nouvelles technologies et la cartographie. C’est ce qui l’a conduit à étudier à l’école 42 et à HEC. Il est également le co-fondateur de la start-up MonWagon, le GPS communautaire des transports en commun. 
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/signo/) | [Son compte Twitter : @signoOngis](https://www.twitter.com/signoOngis)
 
 * **Arnaud Ménard : Géomatique (cartographie)** : 
 
@@ -33,7 +36,10 @@ _Rêvant design, diplômé informatique, je travaille dans le secteur des serveu
 
 _Depuis 2 ans, je porte un projet de promotion du nautisme et du tourisme via le cloud et l’IoT, swail.io, une startup basée à Lorient._
 
-_Et donc aujourd’hui les EIG, un programme Etalab pour travailler sur un défi passionnant; dont j’ai cru comprendre que j’étais le doyen, quelle fierté! Aurais-je conservé une jeunesse d’esprit? Je rejoins le Shom pour les cartes nautiques augmentées, cap à l’Ouest!_ »
+_Et donc aujourd’hui les EIG, un programme Etalab pour travailler sur un défi passionnant; dont j’ai cru comprendre que j’étais le doyen, quelle fierté! Aurais-je conservé une jeunesse d’esprit? Je rejoins le Shom pour les cartes nautiques augmentées, cap à l’Ouest!_ »  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/arnaudmenard/)
 
 
 ## Le mentor : Eric Le Guen\n\n![Photo d'Eric Le Guen, mentor](/img/portfolio/5_Photo_Mentor_Eric_Le_Guen_portrait.bmp)\n\n**Depuis\n2015, Eric Le Guen est le référent de l’infrastructure de données géographiques\ndu Shom au sein du département de Géomatique qu’il dirige depuis 2017**. Auparavant,\nil a passé de nombreuses années en tant qu’ingénieur au département de cartographie\noù il a occupé différents postes tant en conception, production et mise à jour\nde cartes marines – papier et électronique (ENC) – qu’en expertise sur les\nsystèmes de production.\n\n*Cap\nà l’Ouest, la mer est à l’honneur! Le Shom et son partenaire de la Direction\ndes affaires maritimes sont ravis d’intégrer cette seconde promotion des EIG.\nNous allons tous ensemble démontrer que nous pouvons accélérer l’information\ndes usagers de la mer en matière de signalisation maritime, puis mettre à\ndisposition ces données sur un portail et enfin proposer de nouveaux services\ninnovants pour améliorer la sécurité de la navigation.*\n\n*«\_La mutation numérique transforme la relation entre le Shom\net les usagers de ses produits et services, ainsi que ses processus internes.\nIl est ainsi possible de renforcer la fluidité des relations avec ses clients\net de leur proposer des améliorations substantielles du service rendu.\_» Extrait\ndu Contrat d’objectifs et de performance entre le Shom et\nl’Etat 2017-2020.*\n\n## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/CBLNQtwkZswtT)"
