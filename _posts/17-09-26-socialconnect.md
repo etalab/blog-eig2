@@ -18,7 +18,11 @@ description: "## La problématique\n\nDe nouveaux services ou initiatives\nsolid
 ![Photo d'Élise Lalique](/img/portfolio/EliseLalique.png)
 
 
-Diplômée d’un Master en Design, Innovation, Société à l’université de Nîmes, Elise s’est beaucoup intéressée aux problématiques du vieillissement et de la santé. Elle a travaillé un an avec Erasme, laboratoire d'innovation ouverte de la Métropole de Lyon, sur le projet Host/Idolink un réseau social de proximité pour les personnes âgées. Elle a ensuite rejoint en 2016 l’équipe de PwC Experience Center en tant qu’UX designer. 
+Diplômée d’un Master en Design, Innovation, Société à l’université de Nîmes, Elise s’est beaucoup intéressée aux problématiques du vieillissement et de la santé. Elle a travaillé un an avec Erasme, laboratoire d'innovation ouverte de la Métropole de Lyon, sur le projet Host/Idolink un réseau social de proximité pour les personnes âgées. Elle a ensuite rejoint en 2016 l’équipe de PwC Experience Center en tant qu’UX designer.   
+
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/elise-lalique-88710467/)
 
 
 * **Julien Paris : Développement**
@@ -28,7 +32,10 @@ Diplômée d’un Master en Design, Innovation, Société à l’université de 
 
 
 Après une formation d'architecte DPLG (Lyon puis Paris-La Villette), un Master pro « gestion de projets culturels dans l'espace public » à Paris 1, Julien Paris a travaillé pour le service culturel de l'Ambassade d'Espagne au Mexique, de l'Ambassade de France en Égypte, et en tant que chercheur en sciences sociales en Turquie. Julien Paris s'est découvert en autodidacte et sur le tard une passion pour le code, et s'est alors reconverti comme développeur indépendant.
-Il envisage sa pratique du code comme s'inscrivant à l'intersection de la technique, de la recherche, et d'enjeux sociaux et politiques. Il s'intéresse à la visualisation de données (data visualisation) ainsi qu'aux innovations sociales sous différentes formes : réseaux de fablabs, réseaux d'acteurs de l'ESS, ou encore plateformes de partage de données publiques.
+Il envisage sa pratique du code comme s'inscrivant à l'intersection de la technique, de la recherche, et d'enjeux sociaux et politiques. Il s'intéresse à la visualisation de données (data visualisation) ainsi qu'aux innovations sociales sous différentes formes : réseaux de fablabs, réseaux d'acteurs de l'ESS, ou encore plateformes de partage de données publiques.  
+
+
+[Son compte Twitter : @jparis_py](https://www.twitter.com/jparis_py)
 
 
 ## La mentor : Bénédicte Pachod\n\n

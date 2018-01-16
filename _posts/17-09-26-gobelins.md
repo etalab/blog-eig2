@@ -22,13 +22,19 @@ Ned Baldessin est développeur web depuis une quinzaine d'années. Il aime trava
 Ayant grandi avec le web du milieu des années 90, Ned est totalement autodidacte. Il a effectué la majorité de sa carrière comme développeur indépendant, puis a rejoint l’agence AREA 17 en 2012. Il est nommé directeur technique de l'agence de Paris en 2014.
 
 
+[Son compte Twitter : @ned](https://www.twitter.com/ned)  
+
+
 * **Laurie Chapotte : Design UX** 
 
 
 ![Photo de Laurie Chapotte](/img/portfolio/LaurieChapotte.png)
 
 
-Designer graphique et de service, Laurie Chapotte a d’abord travaillé pour le laboratoire de recherche « identités complexes » à l’Université de Strasbourg afin de rendre plus compréhensible et accessible cette institution complexe. Elle a ensuite développé son activité de designer indépendante et conçoit des outils imprimés ou numériques visant à faciliter l’accès à l’information.
+Designer graphique et de service, Laurie Chapotte a d’abord travaillé pour le laboratoire de recherche « identités complexes » à l’Université de Strasbourg afin de rendre plus compréhensible et accessible cette institution complexe. Elle a ensuite développé son activité de designer indépendante et conçoit des outils imprimés ou numériques visant à faciliter l’accès à l’information.  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/lauriechapotte) | [Son compte Twitter : @Lauriechapotte](https://www.twitter.com/Lauriechapotte)
 
 ## La mentor : Hélène Cavalié\n\n
 

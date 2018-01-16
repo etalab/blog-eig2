@@ -18,7 +18,10 @@ description: "## La problématique\n\nLe ministère de\nl’Enseignement supéri
 ![Photo de Sami Moustachir](/img/portfolio/SamiMoustachir.png)
 
 
-Sami découvre le monde de l'entrepreneuriat en 2015 où il aide des entrepreneurs dans le lancement de leur produit dans le cadre du programme d'un accélérateur américain. Ingénieur civil de l'école des mines de Nancy, il se spécialise dans la science des données et termine ses études en explorant les techniques de traitement automatique du langage naturel pour une startup parisienne.
+Sami découvre le monde de l'entrepreneuriat en 2015 où il aide des entrepreneurs dans le lancement de leur produit dans le cadre du programme d'un accélérateur américain. Ingénieur civil de l'école des mines de Nancy, il se spécialise dans la science des données et termine ses études en explorant les techniques de traitement automatique du langage naturel pour une startup parisienne.  
+
+
+[Son profil Linkedin](https://www.linkedin.com/in/samous/) | [Son compte Twitter : @sa_mous](https://www.twitter.com/sa_mous)
 
 * _2 autres EIG sont en cours de recrutement._ 
 

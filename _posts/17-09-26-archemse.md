@@ -93,7 +93,10 @@ description: >-
 
   _Je suis ensuite parti travailler sur mon propre projet entrepreneurial, une application web de conception assistée par ordinateur, pendant 1 an._
 
-  _Je rejoins maintenant le projet ArchiFiltre pour apporter toutes mes compétences et expériences._ »
+  _Je rejoins maintenant le projet ArchiFiltre pour apporter toutes mes compétences et expériences._ »  
+
+
+  [Son profil Linkedin](https://www.linkedin.com/in/jean-baptiste-assouad-53a545121/). 
 
 
   * **Emmanuel Gautier: Datascience**
@@ -104,7 +107,12 @@ description: >-
 
   « _Je suis né en France avec les ordinateurs personnels, les débuts du web et ses moteurs de recherche. J’ai grandi à Istanbul, La Haye puis Berne, avec les premiers ADSL, réseaux sociaux, Wikipédia et les smartphones. J’ai mûri, de nouveau en France, avec les objets connectés, l’explosion de la donnée et de l’intelligence artificielle._
 
-  _À 23 ans, maintenant ingénieur et data scientist, je suis convaincu que le Numérique, utilisé à bon escient, peut créer du bien commun. En devenant Entrepreneur d’Intérêt Général, je compte y participer._ »
+  _À 23 ans, maintenant ingénieur et data scientist, je suis convaincu que le Numérique, utilisé à bon escient, peut créer du bien commun. En devenant Entrepreneur d’Intérêt Général, je compte y participer._ » 
+
+
+  [Son profil Linkedin](https://www.linkedin.com/in/emmanuelgautierecp/).
+
+  
 
   ## La mentor : Anne Lambert
 

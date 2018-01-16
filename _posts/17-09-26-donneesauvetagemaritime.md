@@ -12,13 +12,16 @@ description: "## La problématique\n\nEn 2016, 10 000 opérations de sauvetage p
 
 	## Les 2 EIG
 
-	* **Elsa Lunéville : Datascience** 
+	* **Elsa Luneville : Datascience** 
 
 
 	![Photo d'Elsa Lunéville](/img/portfolio/ElsaLuneville.png)
 
 
-	Elsa Lunéville est diplômée de l’IESEG d’un master en économie et elle s’est spécialisée par la suite en Data Science en réalisant un master au sein du DataScienceTech Institute. Sa passion pour la valorisation des données et l’innovation l’ont conduite à évoluer dans des univers variés (start-up israélienne, conseil technologique, études marketing) sur des problématiques d’amélioration des processus ou de la stratégie grâce aux données. Elle a également contribué à sensibiliser ses collaborateurs aux bénéfices de la Data Science et souhaite aujourd’hui mettre au service du bien commun ses compétences et ses idées. C’est pourquoi elle rejoint le ministère de la Transition écologique et solidaire sur le défi PrédiSauvetage. 
+	Elsa Lunéville est diplômée de l’IESEG d’un master en économie et elle s’est spécialisée par la suite en Data Science en réalisant un master au sein du DataScienceTech Institute. Sa passion pour la valorisation des données et l’innovation l’ont conduite à évoluer dans des univers variés (start-up israélienne, conseil technologique, études marketing) sur des problématiques d’amélioration des processus ou de la stratégie grâce aux données. Elle a également contribué à sensibiliser ses collaborateurs aux bénéfices de la Data Science et souhaite aujourd’hui mettre au service du bien commun ses compétences et ses idées. C’est pourquoi elle rejoint le ministère de la Transition écologique et solidaire sur le défi PrédiSauvetage.  
+
+
+	[Son profil Linkedin](https://fr.linkedin.com/in/luneville-elsa-049b9a49)
 
 
 	* **Antoine Augusti : UX / Dataviz** 
@@ -27,7 +30,13 @@ description: "## La problématique\n\nEn 2016, 10 000 opérations de sauvetage p
 	![Photo d'Antoine Augusti](/img/portfolio/AntoineAugusti.png)
 
 
-	« _Je suis titulaire d'un diplôme d'ingénieur en architecture des systèmes d'information de l'INSA Rouen et d'un Master en machine learning de l'université de Rouen. J'ai participé lors de mes études à la création d'un opérateur et fournisseur d'accès à Internet, Quantic Télécom. Je contribue à des projets open source web ou data sur GitHub et j'interviens en tant qu'enseignant ou mentor technique. J'ai travaillé à Drivy (location de voitures entre particuliers) en qualité de Data Engineer où j'ai créé la plateforme data  pour une place de marché leader en Europe comptant plusieurs millions d'utilisateurs._ »
+	« _Je suis titulaire d'un diplôme d'ingénieur en architecture des systèmes d'information de l'INSA Rouen et d'un Master en machine learning de l'université de Rouen. J'ai participé lors de mes études à la création d'un opérateur et fournisseur d'accès à Internet, Quantic Télécom. Je contribue à des projets open source web ou data sur GitHub et j'interviens en tant qu'enseignant ou mentor technique. J'ai travaillé à Drivy (location de voitures entre particuliers) en qualité de Data Engineer où j'ai créé la plateforme data  pour une place de marché leader en Europe comptant plusieurs millions d'utilisateurs._ »  
+
+
+	[Son profil Linkedin](https://www.linkedin.com/in/antoineaugusti/). 
+
+
+	[Son compte Twitter : @AntoineAugusti](https://www.twitter.com/antoineaugusti)
 
 
 	## Les mentors : Laurence Matringe et Renaud Perin\n\n

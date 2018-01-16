@@ -22,7 +22,11 @@ Après des études de philosophie et de sciences cognitives, il renoue avec ses 
 
 En tant que libriste, il participe au projet One Laptop Per Child en 2008, co-fonde OLPC France, organise en 2009 une école d'été en Chine sur les outils open source pour la recherche, devient premier salarié de Wikimédia France en 2010, puis contribue à ShareLex, jecode.org et aux Hackadons.
 
-« Entrepreneur d'intérêt général » pour le Ministère de la Culture en 2017, il s'engage à nouveau dans ce programme en 2018 comme EIG Link."
+« Entrepreneur d'intérêt général » pour le Ministère de la Culture en 2017, il s'engage à nouveau dans ce programme en 2018 comme EIG Link.  
+
+
+[Son compte Twitter : @bzg2](https://www.twitter.com/bzg2)"
+
 category: defi
 ---
 
