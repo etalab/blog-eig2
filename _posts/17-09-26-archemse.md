@@ -80,17 +80,41 @@ description: >-
     diplomatique, identification de la présence de données à caractère personnel,
     identification des termes clés).
 
-  ## 2 entrepreneur•e•s recherché•e•s
+  ## Les 2 EIG
 
 
-  * **EIG 1 - CONCEPTION-DÉVELOPPEMENT** : développement et intégration de
-  l'outil
-
-  * **EIG 2 - DATA SCIENCE** : modéliser le besoin et développer une méthode
-  pour l'exploration et l'analyse des données pertinentes
+  * **Jean-Baptiste Assouad: Développement**
 
 
-  ## Votre mentor : Anne Lambert
+  ![Photo de Jean-Baptiste Assouad](/img/portfolio/JeanBaptisteAssouad.png)
+
+
+  « _Après avoir obtenu mon diplôme d’ingénieur en robotique de l’École Polytechnique Universitaire de la Sorbonne, j’ai travaillé pendant 1 an et demi pour une jeune startup Belge, Quimesis._ 
+
+  _Je suis ensuite parti travailler sur mon propre projet entrepreneurial, une application web de conception assistée par ordinateur, pendant 1 an._
+
+  _Je rejoins maintenant le projet ArchiFiltre pour apporter toutes mes compétences et expériences._ »  
+
+
+  [Son profil Linkedin](https://www.linkedin.com/in/jean-baptiste-assouad-53a545121/). 
+
+
+  * **Emmanuel Gautier: Datascience**
+
+
+  ![Photo d'Emmanuel Gautier](/img/portfolio/EmmanuelGautier.png)
+
+
+  « _Je suis né en France avec les ordinateurs personnels, les débuts du web et ses moteurs de recherche. J’ai grandi à Istanbul, La Haye puis Berne, avec les premiers ADSL, réseaux sociaux, Wikipédia et les smartphones. J’ai mûri, de nouveau en France, avec les objets connectés, l’explosion de la donnée et de l’intelligence artificielle._
+
+  _À 23 ans, maintenant ingénieur et data scientist, je suis convaincu que le Numérique, utilisé à bon escient, peut créer du bien commun. En devenant Entrepreneur d’Intérêt Général, je compte y participer._ » 
+
+
+  [Son profil Linkedin](https://www.linkedin.com/in/emmanuelgautierecp/).
+
+  
+
+  ## La mentor : Anne Lambert
 
 
   ![Photo d'Anne Lambert](/img/portfolio/9.AnneLambert.jpg)
@@ -102,7 +126,7 @@ description: >-
 
   politique d’archivage des ministères en charge du travail, de la santé et des
 
-  sports. A ce titre, elle exerce également des missions de contrôle au nom des
+  sports. À ce titre, elle exerce également des missions de contrôle au nom des
 
   Archives de France (Ministère de la culture).
 

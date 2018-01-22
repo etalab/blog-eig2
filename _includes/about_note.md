@@ -1,15 +1,15 @@
 ---
-Le programme [Entrepreneur•e d'intérêt général, initié par la Présidence de la République et porté par Etalab](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general), poursuit son opération de transition numérique de l’État !
+Le programme [Entrepreneur·e d'intérêt général, initié par la Présidence de la République et porté par Etalab](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general), poursuit son opération de transition numérique de l’État !
 
 **Son ambition :** ouvrir l’administration
 à des talents du numérique pour résoudre des défis d’intérêt général au sein des ministères.
 
 Une deuxième
 promotion d'entrepreneur·e·s d’intérêt général (EIG) est appelée à relever ces
-défis. Dès janvier 2018, et pour une durée de 10 mois, 27 EIG d'intérêt général intègreront l’administration pour
+défis. Dès janvier 2018, et pour une durée de 10 mois, 27 EIG intègreront l’administration pour
 relever 13 défis.
 
-# Le principe du Programme EIG - Promotion 2 :
+# Le principe du Programme EIG - Promotion 2
 
 * 27 entrepreneur·e·s recruté·e·s en CDD de 10 mois,
   accueilli·e·s par les administrations porteuses de défis
