@@ -126,7 +126,7 @@ description: >-
 
   politique d’archivage des ministères en charge du travail, de la santé et des
 
-  sports. A ce titre, elle exerce également des missions de contrôle au nom des
+  sports. À ce titre, elle exerce également des missions de contrôle au nom des
 
   Archives de France (Ministère de la culture).
 
