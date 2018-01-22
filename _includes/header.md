@@ -1,3 +1,5 @@
 Développeur·euse·s, data scientists, designers, agilistes, passionné·e·s de numérique et d'action publique...
 
-## Découvrez la 2ème promo des Entrepreneur·e·s d’Intérêt Général !
+## Découvrez le programme Entrepreneur•e d’Intérêt Général !
+
+En janvier 2018, une 2ème Promotion d'EIG pour améliorer le service public
