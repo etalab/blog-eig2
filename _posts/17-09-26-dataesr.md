@@ -23,7 +23,15 @@ Sami découvre le monde de l'entrepreneuriat en 2015 où il aide des entrepreneu
 
 [Son profil Linkedin](https://www.linkedin.com/in/samous/) | [Son compte Twitter : @sa_mous](https://www.twitter.com/sa_mous)
 
-* _2 autres EIG sont en cours de recrutement._ 
+* **Ambre Arnaud : Développement**
+
+
+![Photo d'Ambre Arnaud](/img/portfolio/AmbreArnaud.jpg)
+
+
+_Diplômée de l'Ecole Centrale Paris, avec une spécialité en informatique et systèmes embarqués, j'ai terminé ma formation en effectuant mon stage de fin d'études chez Theodo en tant que développeuse web. J'ai également profité d'une année de césure au cours de mes études pour gagner en expérience professionnelle en travaillant dans un grand groupe et dans une start-up à Hong-Kong et Londres. Intéressée par les problématiques de modernisation du secteur public, et notamment l'ouverture et l'exploitation des données, je relève le défi DataESR pour mettre mon expérience et mes connaissances mais aussi ma nature curieuse et combative au service d'une cause utile à la société._
+
+* _1 autre EIG est en cours de recrutement._ 
 
 ## Les mentors : Yann Caradec et Emmanuel Weisenburger\n\n
 
