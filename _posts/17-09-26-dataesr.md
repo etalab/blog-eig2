@@ -23,9 +23,6 @@ Sami découvre le monde de l'entrepreneuriat en 2015 où il aide des entrepreneu
 
 [Son profil Linkedin](https://www.linkedin.com/in/samous/) | [Son compte Twitter : @sa_mous](https://www.twitter.com/sa_mous)
 
-
-[Son profil Linkedin](https://www.linkedin.com/in/samous/) | [Son compte Twitter : @sa_mous](https://www.twitter.com/sa_mous)
-
 * **Ambre Arnaud : Développement**
 
 
