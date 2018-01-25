@@ -60,7 +60,7 @@ l’équipe d’accueil, et suivi par un mentor stratégique.
 
 ## Revue de presse 2017
 
-# Du côté du SGMAP
+# Du côté de la DINSIC
 
 -   [Le programme Entrepreneur d’Intérêt Général lancé prochainement](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/le-programme-entrepreneur-dinteret-general-lance-prochainement)
 -   [Les Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/entrepreneur-interet-general)
