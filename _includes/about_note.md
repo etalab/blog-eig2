@@ -100,4 +100,3 @@ l’équipe d’accueil, et suivi par un mentor stratégique.
 -   [Entrepreneur d’Intérêt Général, Promo 1 : session de restitution des défis, 26 octobre 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/24/entrepreneure-dinteret-general-promo-1-session-de-restitution-des-defis)
 -   [Réunion d’information autour de l’appel à projets Pia à destination des administrations, 16 mai 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/22/entrepreneurs-dinteret-general-reunion-dinformation-autour-de-lappel-a-projets-pia-a-destination-des-administrations)
 
-Remerciements à Frédéric Bardolle, EIG de la Promotion 1 au sein de la Cour des comptes, qui a conçu les visuels des défis.
