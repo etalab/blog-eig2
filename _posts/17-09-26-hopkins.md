@@ -14,7 +14,7 @@ description: "## La problématique\n\nLe poids de l’économie souterraine est 
 ![Photo de Paul Boosz](/img/portfolio/PaulBoosz.png)
 
 
-Paul Boosz est ingénieur des Ponts et Chaussées et diplomé d'un master d'apprentissage automatique de l'université Paris-Saclay. Il a été parmi les premiers data scientist de Shift Technology, une startup spécialisé dans la détection de fraude à l'assurance.  
+Paul Boosz est ingénieur des Ponts et Chaussées et diplômé d'un master d'apprentissage automatique de l'université Paris-Saclay. Il a été parmi les premiers data scientists de Shift Technology, une startup spécialisée dans la détection de fraude à l'assurance.  
 
 
 [Son profil Linkedin](https://www.linkedin.com/in/paul-boosz-07055680/). 
