@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    {% include nav.html %}
+    <section id="about">
+        <div class="container">
+            <h2>Revue de presse</h2>
+            <div class="panel">
+                {% capture my_include %}{% include presse.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+            </div>
+        </div>
+	</section>
+    {% include footer.html %}
+    </body>
+</html>
+
