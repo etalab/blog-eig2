@@ -36,8 +36,9 @@ link:
     url: /assets/EIG-promotion2_reglement_programme_VFF.pdf
 
 collections:
-  blogs:
+  defis:
     output: true
+    permalink: /:categories/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
