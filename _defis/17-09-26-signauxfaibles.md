@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defi
 modal-id: "Signaux Faibles : détecter les entreprises en difficulté pour mieux les accompagner"
 owner: Ministère de l'Économie, Direction générale des entreprises et DIRECCTE Bourgogne Franche-Comté
 project-date: Janvier 2018

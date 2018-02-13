@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defi
 modal-id: "ArchiFiltre : assurer la mémoire des politiques sociales en transformant la gestion des archives"
 owner: Secrétariat général des ministères sociaux
 project-date: Janvier 2018

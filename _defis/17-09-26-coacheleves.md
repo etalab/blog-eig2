@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defi
 modal-id: "CoachÉlève - AssistProf : améliorer la réussite scolaire et l'orientation avec les données d'apprentissage"
 owner: Ministère de l'Éducation Nationale, Direction du numérique pour l'éducation
 project-date: Janvier 2018

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defi
 modal-id: "dataESR : révéler tout le potentiel des données de la recherche et l'ouvrir aux citoyens"
 owner: Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation, Département des outils d'aide à la décision
 project-date: Janvier 2018

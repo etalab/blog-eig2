@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defi
 project-date: Janvier 2018
 img: /img/portfolio/11_EIGLink.png
 misc: 'devops, développement, coaching'

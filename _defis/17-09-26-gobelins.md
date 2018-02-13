@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defi
 modal-id: "Gobelins : révéler les richesses du Mobilier National en ouvrant sa collection au public"
 owner: Ministère de la Culture, Direction générale de la création artistique, Service du Mobilier National
 project-date: Janvier 2018
