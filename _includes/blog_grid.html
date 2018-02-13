@@ -1,17 +1,16 @@
-<!-- Portfolio Grid Section -->
 <section id="portfolio">
   <div class="container portfolio__container">
     <h2 class="portfolio__title">Le blog des EIG</h2>
     <div class="blog__grid">
-      {% for blog in site.posts %}
-      <a href="{{ blog.url }}">
+      {% for post in site.posts %}
+      <a href="{{ post.url }}">
         <div class="portfolio__post panel">
           <div class="portfolio__img-container">
-            <img src="{{ blog.img }}" alt="{{ blog.alt }}" class="portfolio__img">
+            <img src="{{ post.img }}" alt="{{ post.alt }}" class="portfolio__img">
           </div>
           <div class="portfolio__content">
-            <div class="portfolio__challenge-owner">{{ blog.owner }}</div>
-            <div class="portfolio__challenge-title">{{ blog.modal-id }}</div>
+            <div class="portfolio__challenge-owner">{{ post.owner }}</div>
+            <div class="portfolio__challenge-title">{{ post.modal-id }}</div>
           </div>
         </div>
       </a>

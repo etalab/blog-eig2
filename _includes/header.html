@@ -1,10 +1,10 @@
-    <!-- Header -->
-    <header class="header">
-        <div class="container">
-            <div class="header__text">
-                {% capture my_include %}{% include header.md %}{% endcapture %}
-                {{ my_include | markdownify }}
-            </div>
-            <a class="button" href="{{ site.url }}/a-propos.html">En savoir plus</a>
-        </div>
-    </header>
+<!-- Header -->
+<header class="header">
+  <div class="container">
+    <div class="header__text">
+      {% capture my_include %}{% include header.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </div>
+    <a class="button" href="{{ site.url }}/a-propos.html">En savoir plus</a>
+  </div>
+</header>
