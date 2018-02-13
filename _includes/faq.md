@@ -11,7 +11,7 @@ certaine expérience (environ 5 ans), mais des profils moins
 expérimentés ayant déjà mené des projets d’entreprenariat ou
 associatifs sont également les bienvenus.
 
-## En quoi un.e EIG est-elle ou il différent.e d’un prestataire ?
+## En quoi un·e EIG est-elle ou il différent·e d’un prestataire ?
 
 À la différence d’un prestataire, les EIG ne travaillent pas sur un
 cahier des charges précis. Elles et ils sont maîtres de leur défi et
@@ -19,12 +19,12 @@ peuvent proposer des modifications au projet envisagé initialement par
 les administrations d’accueil, s’il leur semble qu’il existe des
 manières plus adéquates de résoudre le défi qui leur a été lancé, en
 terme de technologies ou de livrables.  Au cours de leur immersion
-dans l’administration, les EIG sont amené.es à élaborer une feuille de
+dans l’administration, les EIG sont amené·es à élaborer une feuille de
 route sur laquelle elles et ils itèrent avec leurs mentors.
 
-## En quoi un.e EIG est-elle ou il différent.e d’un contractuel en CDD de 3 ans dans l’administration ?
+## En quoi un·e EIG est-elle ou il différent·e d’un contractuel en CDD de 3 ans dans l’administration ?
 
-À la différence d’un contractuel classique, les EIG sont mobilisé.es
+À la différence d’un contractuel classique, les EIG sont mobilisé·es
 sur un seul projet, et pendant 10 mois. Cela leur permet de mener un
 projet de bout en bout, de sa conception à sa réalisation. Les mentors
 sont garants de ce format, en permettant aux EIG de rentrer en contact
@@ -40,7 +40,7 @@ suivante : CDD de 10 mois rémunéré 4000 euros nets par mois.
 
 Les règles sont claires : après 10 mois, les EIG quittent leur
 administration d’accueil. La présence de cette date butoir place une
-pression saine sur les entrepreneur.es, qui restent concentré.es sur
+pression saine sur les entrepreneur·es, qui restent concentré·es sur
 la tâche à accomplir. Cette temporalité différente de celle
 habituellement en vigueur dans l’administration insuffle de nouvelles
 méthodes et stimule la créativité et l’efficacité de l’équipe projet.
