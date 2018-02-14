@@ -269,6 +269,12 @@ a.button:active {
     margin-bottom: 2em;
 }
 
+.blog__grid {
+    margin-bottom: 2em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 .portfolio__grid a:hover {
     text-decoration: none;
 }
@@ -282,6 +288,13 @@ a.button:active {
     width: 47%;
     float: left;
     margin: 1.5%;
+}
+
+.portfolio__post {
+    height: 120px;
+    width: 90%;
+    float: left;
+    margin: 1%;
 }
 
 @media all and (max-width: 1090px) {
@@ -382,6 +395,71 @@ a.button:active {
 }
 
 #post .button {
+    margin: 2em auto 0;
+    display: block;
+}
+
+/* blogposts */
+
+#blogpost .post__content h2 {
+    margin: 1em 0;
+}
+
+#blogpost .post__content h2:before {
+    margin-left: 0;
+}
+
+#blogpost .post__content h2:after {
+    background: none;
+}
+
+#blogpost .panel {
+    padding: 2em;
+    float: left;
+    margin-left: 12em;
+    box-sizing: border-box;
+}
+
+#blogpost .post__info {
+    width: 32%;
+    margin-right: 1.5%;
+}
+
+#blogpost .post__info h3 {
+    margin-top: 0;
+}
+
+#blogpost .post__info img {
+    width: 100%;
+}
+
+#blogpost .post__description {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 1em;
+}
+
+#blogpost .post__description h2 {
+    text-align: left;
+}
+
+#blogpost .post__description img {
+    border-radius: 40px;
+    height: 225px;
+}
+
+#blogpost .post__data img {
+    width: 100%;
+}
+
+#blogpost .post__title {
+    text-align: center;
+    font-size: 2em;
+}
+
+#blogpost .button {
     margin: 2em auto 0;
     display: block;
 }

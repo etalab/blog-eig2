@@ -1,23 +1,22 @@
-
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container portfolio__container">
-            <h2 class="portfolio__title">Découvrez les défis de la promotion 2</h2>
-            <div class="portfolio__grid">
-                {% for post in site.posts %}
-                    <a href="{{ post.url }}">
-                        <div class="portfolio__item panel">
-                            <div class="portfolio__img-container">
-                                <img src="{{ post.img }}" alt="{{ post.alt }}" class="portfolio__img">
-                            </div>
-                            <div class="portfolio__content">
-                                <div class="portfolio__challenge-owner">{{ post.owner }}</div>
-                                <div class="portfolio__challenge-title">{{ post.modal-id }}</div>
-                            </div>
-                        </div>
-                    </a>
-                {% endfor %}
-                <div class="clearfix"></div>
-            </div>
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+  <div class="container portfolio__container">
+    <h2 class="portfolio__title">Découvrez les défis de la promotion 2</h2>
+    <div class="portfolio__grid">
+      {% for defi in site.defis %}
+      <a href="{{ defi.url }}">
+        <div class="portfolio__item panel">
+          <div class="portfolio__img-container">
+            <img src="{{ defi.img }}" alt="{{ defi.alt }}" class="portfolio__img">
+          </div>
+          <div class="portfolio__content">
+            <div class="portfolio__challenge-owner">{{ defi.owner }}</div>
+            <div class="portfolio__challenge-title">{{ defi.modal-id }}</div>
+          </div>
         </div>
-    </section>
+      </a>
+      {% endfor %}
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</section>

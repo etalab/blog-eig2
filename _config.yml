@@ -35,6 +35,11 @@ link:
   - title: Règlement
     url: /assets/EIG-promotion2_reglement_programme_VFF.pdf
 
+collections:
+  defis:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title
+
 # Build settings
 markdown: kramdown
 permalink: pretty

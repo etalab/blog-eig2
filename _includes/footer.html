@@ -1,44 +1,44 @@
- <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer__column">
-                <a href="http://www.etalab.gouv.fr/"><h3><img class="footer__etalab" src="{{file.path}}/img/etalab.png" /></h3></a>
-                <ul class="footer__social">
-                    {% for network in site.social %}
-                    <li>
-                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <div class="footer__column">
-                <a href="http://www.gouvernement.fr/investissements-d-avenir-cgi"><h3><img class="footer__pia" src="{{file.path}}/img/pia.png" /></h3></a>
-            </div>
-                   <div class="footer__column">
-                <h3>{{ site.footer.link }}</h3>
-                <ul>
-                    {% for link in site.link %}
-                    <li>
-                        <a href="{{ link.url }}">{{ link.title }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </footer>
-    <!-- Piwik -->
+<!-- Footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer__column">
+      <a href="http://www.etalab.gouv.fr/"><h3><img class="footer__etalab" src="{{file.path}}/img/etalab.png" /></h3></a>
+      <ul class="footer__social">
+        {% for network in site.social %}
+        <li>
+          <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }} fa-2x"></i></a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="footer__column">
+      <a href="http://www.gouvernement.fr/investissements-d-avenir-cgi"><h3><img class="footer__pia" src="{{file.path}}/img/pia.png" /></h3></a>
+    </div>
+    <div class="footer__column">
+      <h3>{{ site.footer.link }}</h3>
+      <ul>
+        {% for link in site.link %}
+        <li>
+          <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+</footer>
+<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDomains", ["*.entrepreneur-interet-general.etalab.gouv.fr","*.entrepreneur-interet-general.etalab.gouv.fr"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//stats.data.gouv.fr/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '37']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      var u="//stats.data.gouv.fr/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', '37']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
 <noscript><p><img src="//stats.data.gouv.fr/piwik.php?idsite=37" style="border:0;" alt="" /></p></noscript>
