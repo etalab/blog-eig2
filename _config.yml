@@ -38,8 +38,8 @@ link:
 collections:
   defis:
     output: true
-    permalink: /:categories/:year/:month/:day/:title
+    permalink: /:collection/:year/:month/:day/:title
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:collection/:year/:month/:day/:title
