@@ -7,9 +7,9 @@ backend:
 media_folder: "img/portfolio/"
 
 collections:
-  - name: "posts"
+  - name: "defis"
     label: "Défis"
-    folder: "_posts"
+    folder: "_defis"
     sort: "date:desc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
@@ -24,10 +24,22 @@ collections:
       - {label: "Categorie", name: "category", widget: "string"}
       - {label: "Autres", name: "misc", widget: "string"}
 
+  - name: "blogs"
+    label: "Entrées de blog"
+    folder: "_posts"
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    title: {{modal-id}}
+    fields:
+      - {label: "Layout", name: "layout",  widget: "hidden", default: "post"}
+      - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
+      - {label: "Porteur", name: "owner", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      
   - name: "section"
     label: "Contenu"
     folder: "_includes"
     create: true
     fields:
       - {label: "Contenu", name: "body", widget: "markdown"}
-
