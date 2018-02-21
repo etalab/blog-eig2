@@ -37,7 +37,7 @@ l'ensemble des interventions des années précédentes**.
 
 ## Les 2 EIG
 
-* **Tiphaine Phe-Neau : Datascience** 
+* **Tiphaine Phe-Neau : Datascience**
 
 ![Photo de Tiphaine Phe-Neau](/img/portfolio/TiphainePheNeau.png)
 
@@ -51,9 +51,9 @@ tant que data scientist, elle apprécie combiner les connaissances
 métiers avec les aspects techniques pour obtenir des solutions
 efficaces et réalistes.
 
-[Son profil Linkedin](https://www.linkedin.com/in/pheneau/) | [Son compte Twitter : @datatiph](https://www.twitter.com/datatiph) 
+[Son profil Linkedin](https://www.linkedin.com/in/pheneau/) | [Son compte Twitter : @datatiph](https://www.twitter.com/datatiph)
 
-* **Guillaume Lancrenon : Développement** 
+* **Guillaume Lancrenon : Développement**
 
 ![Photo de Guillaume Lancrenon](/img/portfolio/GuillaumeLancrenon.png)
 

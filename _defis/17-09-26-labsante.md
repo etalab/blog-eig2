@@ -57,7 +57,7 @@ la décision politique, plusieurs dimensions du défi :
   collaboration avec l’ARS Occitanie
   ([application](http://www.eigsante2017.fr/#/) réalisée sur données
   test).**
-  
+
 L'idée est donc bien de faciliter et de raccourcir les délais
 d’exploitation et de circulation des données du SNDS afin de
 développer des services à destination des acteurs publics de la santé.
@@ -67,10 +67,10 @@ pertinente possible auprès des utilisateurs experts et des
 utilisateurs métiers. Une équipe sera également recrutée à la fin de
 cette phase pour pérenniser les avancées du défi et diriger cette
 cellule.
-  
+
 ## Les 3 EIG
 
-* **Samah Ghalloussi : Datascience** 
+* **Samah Ghalloussi : Datascience**
 
 ![Photo de Samah Ghalloussi](/img/portfolio/SamahGhalloussi.png)
 
@@ -92,7 +92,7 @@ Women in AI (All In) et participe régulièrement à des meetups tech.
 [Son profil Linkedin](https://fr.linkedin.com/in/samahghalloussi) |
 [Son compte Twitter : @SamahNLP](https://www.twitter.com/SamahNLP)
 
-* **Philéas Condemine : Datascience** 
+* **Philéas Condemine : Datascience**
 
 ![Photo de Philéas Condemine](/img/portfolio/PhileasCondemine.png)
 
