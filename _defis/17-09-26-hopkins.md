@@ -33,7 +33,7 @@ dimensions\_:
   de performance) ;
 * Générer des graphes enrichis modélisant non seulement les entités
   métier mais aussi la nature des relations qui les lient.
-  
+
 Le ministère souhaite aussi bien valoriser ses données de type
 structuré que ses ressources textuelles, principalement le flux
 d’informations entrantes. Des outils de data mining et d’apprentissage
@@ -52,9 +52,9 @@ d'apprentissage automatique de l'université Paris-Saclay. Il a été
 parmi les premiers data scientists de Shift Technology, une startup
 spécialisée dans la détection de fraude à l'assurance.
 
-[Son profil Linkedin](https://www.linkedin.com/in/paul-boosz-07055680/). 
+[Son profil Linkedin](https://www.linkedin.com/in/paul-boosz-07055680/).
 
-* **Victor Schmidt : Datascience (données textuelles)** 
+* **Victor Schmidt : Datascience (données textuelles)**
 
 ![Photo de Victor Schmidt](/img/portfolio/VictorSchmidt.png)
 
@@ -87,28 +87,28 @@ fraude financière et enrayer l’économie souterraine. Sur mon temps
 libre, on peut m’apercevoir dans les salles d’escalade ou à la
 montagne._ »
 
-[Son profil Linkedin](https://www.linkedin.com/in/benoit-guigal-ba25b644/). 
- 
-[Son compte Twitter : @BGuigal](https://www.twitter.com/BGuigal) 
+[Son profil Linkedin](https://www.linkedin.com/in/benoit-guigal-ba25b644/).
+
+[Son compte Twitter : @BGuigal](https://www.twitter.com/BGuigal)
 
 ## La mentor : Delphine Lê
 
 ![Photo de Delphine Le, mentor](/img/portfolio/7_DelphineLE.png)
- 
+
 Suite à un parcours mixte (dans le privé et le public, en recherche et
 au sein de start-ups), Delphine Lê a rejoint les ministères
 économiques et financiers en tant que data scientist depuis 2015. Au
 cœur de la transformation numérique de son service, elle a participé à
 la mise en place d’un environnement « Big Data » et à la création d’un
 pôle Data Science qu’elle dirige.
- 
+
 *« La lutte contre la fraude financière (fiscale, sociale, etc.) et
 contre l’économie souterraine représentent des enjeux majeurs
 d’utilité publique.  Nous proposons un défi s’appuyant sur des données
 massives d’origines et de natures diverses (structurées et non
 structurées), avec l’ambition de détecter des schémas de fraude
 variés, reflétant des typologies connues ou nouvelles.*
- 
+
 *Identifier des relations entre différents silos de données et
 modéliser les informations sous forme de graphe constitue un des axes
 de travail proposés.  L’autre se concentre sur les données textuelles
@@ -118,5 +118,5 @@ confirmés et un développeur (data engineer), qui rejoindront un pôle
 Data Science travaillant en étroite collaboration avec une équipe
 projet et des experts métiers, tout en ayant accès à un environnement
 dédié à l’état de l’art. »*
- 
+
 ## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/cdzCUyu74BmNxN)
