@@ -446,8 +446,19 @@ a.button:active {
 }
 
 #blogpost .post__description img {
-    border-radius: 40px;
-    height: 225px;
+    width: 40em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#blogpost .post__description img + em {
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    padding-left: 15em;
+    padding-right: 15em;
+    padding-top: 1em;
 }
 
 #blogpost .post__data img {
