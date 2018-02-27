@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  {% include nav.html %}
-  <section id="blogpost">
-    <div class="container">
-      <h2 class="post__title">{{ page.modal-id }}</h2>
-      <div class="post__content">
-        <div class="post__description panel">
-          {{ page.description | markdownify }}
-        </div>
-	<div class="post__description panel">
-	  {{ content }}
+  <body id="page-top" class="index">
+    {% include nav.html %}
+    <section id="blogpost">
+      <div class="container">
+	<h2 class="post__title">{{ page.modal-id }}</h2>
+	<div class="post__content">
+          <div class="post__description panel">
+            {{ page.description | markdownify }}
+          </div>
+	  <div class="post__description panel">
+	    {{ content }}
+	  </div>
 	</div>
+	<div class="clearfix"></div>
       </div>
-      <div class="clearfix"></div>
-    </div>
-  </section>
-  {% include footer.html %}
-</body>
+    </section>
+    {% include footer.html %}
+  </body>
 </html>
