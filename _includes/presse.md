@@ -1,5 +1,6 @@
 # Dans la presse
 
+- [La gendarmerie se dote d'une brigade numérique](https://www.caissedesdepotsdesterritoires.fr/cs/ContentServer/?pagename=Territoires/Articles/Articles&cid=1250280674237&nl=1)
 - [Acteurs publics, interview, Henri Verdier : "l'Etat doit réinternaliser certaines fonctions critiques](https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec)
 - [Vidéos : Entrepreneurs d’intérêt général, kezako ?](https://www.youtube.com/watch?v=-fF5871_8vU)
 - [Interviews des EIG Promo 1](http://www.dailymotion.com/playlist/x4tlyz_SGMAP_entrepreneur-d-interet-general-eig)
