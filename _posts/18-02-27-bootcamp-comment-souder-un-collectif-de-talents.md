@@ -67,7 +67,7 @@ _Atelier de co-construction du programme d’accompagnement bimensuel, avec le L
 
 ## Apprendre à se connaître 
 
-L’une des forces du programme EIG est de réunir des talents divers, travaillant sur des défis variés dans des ministères différents, généralement peu amenés à interagir.  
+L’une des forces du programme EIG est de réunir des talents divers, travaillant sur des défis variés dans des ministères différents.  
 
 **Afin de créer un collectif soudé et d’encourager la collaboration “interministérielle”, nous avons pris soin d’organiser des temps formels et informels pour apprendre à se connaître et à travailler ensemble, identifier des passions communes, et favoriser le partage de compétences**. Cela était d’autant plus important que deux des défis se déroulent hors de Paris, rendant les temps de rencontre plus difficiles à organiser. 
 
@@ -93,7 +93,7 @@ Les EIG ont beaucoup apprécié les formats interactifs des ateliers. Nous avons
 ![Plan d'ensemble d'une quarantaine de personnes autour d'une table, dans une salle de réunion agrémentée de dorures.](/img/portfolio/bootcamp/bootcamp10.jpg)
 _Vendredi matin : les mentors retrouvent leurs EIG au siège du Secrétariat général pour l’investissement pour restituer leurs expériences de la semaine et discuter des attentes et besoins de chacun._
 
-Un point à renforcer pour un prochain bootcamp : plus impliquer les mentors des administrations d’accueil, qui n’étaient présents que lors d’une demi-journée. Afin qu’eux aussi puissent échanger leurs expériences et compétences, nous avons organisé le 22 février un “mini-bootcamp spécial mentors” d’une demi-journée.
+Un point à renforcer pour un prochain bootcamp : davantage impliquer les mentors des administrations d’accueil, qui n’étaient présents que lors d’une demi-journée. Afin qu’eux aussi puissent échanger leurs expériences et compétences, nous avons organisé le 22 février un “mini-bootcamp spécial mentors” d’une demi-journée.
 
 Nous intégrerons également tous ces enseignements aux sessions bimensuelles d’accompagnement organisées par Etalab et l’équipe du Liberté Living Lab. Dans tous les cas, ces cinq jours augurent de 10 mois très enrichissants, pour les EIG comme pour les administrations ! 
 
