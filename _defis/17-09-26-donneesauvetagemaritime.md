@@ -7,6 +7,7 @@ img: /img/portfolio/1_MTES.png
 category: defi
 misc: 'data science, ux design, datavisualisation'
 ---
+
 ## La problématique
 
 En 2016, 10 000 opérations de sauvetage pour 30 000 personnes ont été

@@ -7,7 +7,6 @@ img: /img/portfolio/10_brigadenumerique.png
 category: defi
 misc: 'développement web, ergonomie, design UX/UI'
 ---
-
 ## La problématique
 
 **La Direction générale de la gendarmerie nationale (DGGN) cherche à

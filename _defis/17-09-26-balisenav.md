@@ -7,7 +7,6 @@ img: /img/portfolio/5_balisage.png
 category: defi
 misc: 'géomatique, data science'
 ---
-
 ## La problématique
 
 La signalisation maritime (phares, balisage des côtes), les avis aux

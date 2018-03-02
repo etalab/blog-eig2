@@ -7,6 +7,7 @@ img: /img/portfolio/4_Previsecours.png
 category: defi
 misc: data science
 ---
+
 ## La problématique
 
 Les sapeurs-pompiers sont confrontés à un volume d’intervention qui

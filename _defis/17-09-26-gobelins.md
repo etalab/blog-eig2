@@ -7,6 +7,7 @@ img: /img/portfolio/3_ Mobilier national.png
 category: defi
 misc: 'design de services, développement'
 ---
+
 ## La problématique
 
 Dans le champ culturel français, le « Mobilier national et les

@@ -7,6 +7,7 @@ modal-id: "EIG Link : accompagner une communauté inédite d'entrepreneur·e·s 
 owner: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
 category: defi
 ---
+
 ## La problématique
 
 La promotion 2 du programme Entrepreneur d’intérêt général réunit des

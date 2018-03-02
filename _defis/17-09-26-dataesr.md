@@ -7,6 +7,7 @@ img: /img/portfolio/13_dataESR.png
 category: defi
 misc: 'devops, web des données, data science'
 ---
+
 ## La problématique
 
 Le ministère de l’Enseignement supérieur, de la Recherche et de
