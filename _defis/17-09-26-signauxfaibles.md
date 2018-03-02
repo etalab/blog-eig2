@@ -7,6 +7,7 @@ img: /img/portfolio/6_Signauxfaibles.png
 category: defi
 misc: 'data science, développement'
 ---
+
 ## La problématique
 
 L’instauration des 22 Commissaires au Redressement Productif (CRP) en

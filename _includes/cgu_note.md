@@ -32,10 +32,9 @@ L’appel à candidatures est régi par ce
 
 **Absence de garantie**
 
-Le site est mis à disposition
-sans garantie sur sa disponibilité, dans une logique du « meilleur
-effort » ; d'éventuelles indisponibilités n'ouvriront pas droit à
-compensation financière.
+Le site est mis à disposition sans garantie sur sa disponibilité, dans
+une logique du « meilleur effort » ; d'éventuelles indisponibilités
+n'ouvriront pas droit à compensation financière.
 
 Conformément au règlement de l’appel à candidatures, la participation
 à celui-ci n’entraîne pas la sélection comme entrepreneur d’intérêt

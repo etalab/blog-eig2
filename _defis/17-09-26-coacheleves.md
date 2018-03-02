@@ -7,6 +7,7 @@ img: /img/portfolio/12_CoachElevesAssistProf.png
 category: defi
 misc: data science
 ---
+
 ## La problématique
 
 La révolution numérique porte des potentiels inexploités dans le champ

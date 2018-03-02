@@ -11,15 +11,15 @@ Une deuxième promotion d'entrepreneur·e·s d’intérêt général (EIG) a
 durée de 10 mois, 27 EIG ont intégré l’administration pour relever 13
 défis.
 
-# Le principe du Programme EIG - Promotion 2
+# Le principe du Programme EIG - Promotion 2
 
-* 27 entrepreneur·e·s recruté·e·s en CDD de 10 mois,
-  accueilli·e·s par les administrations porteuses de défis
+* 27 entrepreneur·e·s recruté·e·s en CDD de 10 mois, accueilli·e·s par
+  les administrations porteuses de défis
 * Un programme porté par Etalab
-* Des mentors opérationnels et stratégiques au sein des administrations
-  d’accueil
-* Une promotion soudée et réunie régulièrement lors de
-  sessions de mentoring
+* Des mentors opérationnels et stratégiques au sein des
+  administrations d’accueil
+* Une promotion soudée et réunie régulièrement lors de sessions de
+  mentoring
 * Une rémunération de 4000€ nets par mois
 
 # 13 défis d’intérêt général

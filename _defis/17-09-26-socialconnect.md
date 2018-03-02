@@ -7,6 +7,7 @@ img: /img/portfolio/8_CGET.png
 category: defi
 misc: 'design ux, développement'
 ---
+
 ## La problématique
 
 De nouveaux services ou initiatives solidaires relevant du champ de

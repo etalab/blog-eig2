@@ -7,6 +7,7 @@ img: /img/portfolio/7_MACP.png
 category: defi
 misc: 'data science, développement'
 ---
+
 ## La problématique
 
 Le poids de l’économie souterraine est estimé à environ 12% du PIB en

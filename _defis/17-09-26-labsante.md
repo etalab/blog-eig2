@@ -7,6 +7,7 @@ img: /img/portfolio/2_Labsanté (2).png
 category: defi
 misc: 'data science, datavisualisation, design de service'
 ---
+
 ## La problématique
 
 Unique en Europe, voire au monde, **le [système national des données de
