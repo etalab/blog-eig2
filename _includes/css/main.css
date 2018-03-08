@@ -447,6 +447,7 @@ a.button:active {
 
 #blogpost .post__description img {
     width: 40em;
+    max-width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -456,9 +457,15 @@ a.button:active {
     display: block;
     text-align: center;
     font-size: 0.9em;
-    padding-left: 15em;
-    padding-right: 15em;
     padding-top: 1em;
+    margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+    #blogpost .post__description img + em {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
 
 #blogpost .post__data img {
