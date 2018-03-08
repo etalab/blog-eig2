@@ -12,7 +12,7 @@ misc: 'devops, web des données, data science'
 
 Le ministère de l’Enseignement supérieur, de la Recherche et de
 l’Innovation (MESRI) cherche à faciliter l’accès aux données et
-indicateurs à ses usagers. Il souhaite aller plus loin que la seule
+indicateurs à ses usagers.  Il souhaite aller plus loin que la seule
 ouverture des données et proposer un ensemble de services accompagnant
 les utilisateurs qui le souhaitent dans leur analyse.  Mettre la
 donnée au service de tous pour aider à éclairer les décisions,
