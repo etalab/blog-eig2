@@ -28,7 +28,7 @@ dédié](https://framaforms.org/candidature-entrepreneurs-dinteret-general-promo
 candidature utilisant un autre canal ne sera pas examinée.
 
 L’appel à candidatures est régi par ce
-[règlement](https://entrepreneur-interet-general.etalab.gouv.fr/reglement/).
+[règlement](https://entrepreneur-interet-general.etalab.gouv.fr/assets/EIG-promotion2_reglement_programme_VFF.pdf).
 
 **Absence de garantie**
 
