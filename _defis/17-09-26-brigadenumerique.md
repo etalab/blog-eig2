@@ -79,7 +79,7 @@ civique, associatif, locaux et des "communs".
 
 [Son profil Linkedin](https://www.linkedin.com/in/jbledevehat) | [Son compte Twitter : @jbledevehat](https://www.twitter.com/jbledevehat)
 
-## La mentor : Marielle Chrisment
+## Les mentors : Marielle Chrisment et Rémy Nollet
 
 ![Photo de Marielle Chrisment](/img/portfolio/10.MarielleChrisment.jpg)
 
@@ -104,5 +104,13 @@ année, les usagers pourront ainsi bénéficier en permanence d’un
 contact personnalisé et d’une réponse efficace, quelle que soit leur
 problématique, dans une relation de confiance et de proximité
 renforcée. »*
+
+![Photo de Rémy Nollet](/img/portfolio/remynollet.jpg)
+
+Ingénieur issu de l’école Polytechnique, le lieutenant-colonel Rémy Nollet, après un stage de
+recherche à l’université de Berkeley, choisit de devenir officier de gendarmerie en 2005. Optant pour une dominante de carrière en sécurité publique générale, il commande durant 3 ans la brigade territoriale de Blanquefort (compagnie de Bordeaux). Pour son premier passage en état-major, il sert à la sous-direction administrative et financière de la DGGN, chargé des réponses aux contrôles de la Cour des comptes. De 2012 à 2016, il commande la compagnie de gendarmerie départementale de Meylan, en charge d’un territoire fortement criminogène autour de Grenoble, et participe en parallèle à la communauté des systèmes d’information métier de la gendarmerie, sous les aspects de conduite du changement et de cohérence des différents SI. Après une formation d’un an à l’école de guerre, il a rejoint le 1er juin 2017 la mission numérique de la gendarmerie nationale.
+
+« _Accueillir des EIG pour notre défi, c'est accélérer notre transformation numérique grâce à des compétences nouvelles et un regard neuf_. »
+
 
 ## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/qlquJhQU0zwK9u)
