@@ -50,9 +50,9 @@
 
 - [Grande Ecole du Numérique, Apprenants de la Grande Ecole, devenez « Entrepreneurs d’Intérêt général »](https://www.grandeecolenumerique.fr/2016/11/entrepreneurs-interet-general/)
 
-- [Préfecture de Saône et Loire, Devenez Entrepreneur.e d’Intérêt Général](http://www.saone-et-loire.gouv.fr/devenez-entrepreneur-o-e-d-interet-general-a9918.html)
+- [Préfecture de Saône et Loire, Devenez Entrepreneur·e d’Intérêt Général](http://www.saone-et-loire.gouv.fr/devenez-entrepreneur-o-e-d-interet-general-a9918.html)
 
-- [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur.e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2)
+- [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur·e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2)
 
 ## Du côté de la DINSIC
 
