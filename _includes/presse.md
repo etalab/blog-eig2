@@ -40,19 +40,19 @@
 
 ## Du côté des administrations
 
-- [Gouvernement, Visite du Liberté Living Lab avec les Entrepreneurs d’Intérêt Général](http://www.gouvernement.fr/visite-du-liberte-living-lab-et-rencontre-avec-les-entrepreneurs-d-interet-general)
+- [Gouvernement, Visite du Liberté Living Lab avec les Entrepreneurs d’Intérêt Général](http://www.gouvernement.fr/visite-du-liberte-living-lab-et-rencontre-avec-les-entrepreneurs-d-interet-general) (Mars 2017)
 
-- [Ministère de l’Economie, « 11 entrepreneurs d’engagent pour des défis d’intérêt général »](https://www.economie.gouv.fr/entreprises/entrepreneurs-interet-general)
+- [Ministère de l’Economie, « 11 entrepreneurs d’engagent pour des défis d’intérêt général »](https://www.economie.gouv.fr/entreprises/entrepreneurs-interet-general) (Mars 2017)
 
-- [Caisse des Dépôts, Appel à projet ; Défis de transition numérique des administrations pour la deuxième promotion des entrepreneurs d’intérêt général](https://cdcinvestissementsdavenir.achatpublic.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2017_F5cizb3iEh)
+- [Caisse des Dépôts, Appel à projet ; Défis de transition numérique des administrations pour la deuxième promotion des entrepreneurs d’intérêt général](https://cdcinvestissementsdavenir.achatpublic.com/sdm/ent/gen/ent_detail.do?PCSLID=CSL_2017_F5cizb3iEh) (?)
 
-- [SHOM, Devenez Entrepreneur(e) d’intérêt général en 2018](http://www.shom.fr/le-shom/actualites/les-communiques/actualite-detaillee/article/devenez-entrepreneure-dinteret-general-en-2018/)
+- [SHOM, Devenez Entrepreneur(e) d’intérêt général en 2018](http://www.shom.fr/le-shom/actualites/les-communiques/actualite-detaillee/article/devenez-entrepreneure-dinteret-general-en-2018/) (?)
 
-- [Grande Ecole du Numérique, Apprenants de la Grande Ecole, devenez « Entrepreneurs d’Intérêt général »](https://www.grandeecolenumerique.fr/2016/11/entrepreneurs-interet-general/)
+- [Grande Ecole du Numérique, Apprenants de la Grande Ecole, devenez « Entrepreneurs d’Intérêt général »](https://www.grandeecolenumerique.fr/2016/11/entrepreneurs-interet-general/) (?)
 
-- [Préfecture de Saône et Loire, Devenez Entrepreneur·e d’Intérêt Général](http://www.saone-et-loire.gouv.fr/devenez-entrepreneur-o-e-d-interet-general-a9918.html)
+- [Préfecture de Saône et Loire, Devenez Entrepreneur·e d’Intérêt Général](http://www.saone-et-loire.gouv.fr/devenez-entrepreneur-o-e-d-interet-general-a9918.html) (Octobre 2017)
 
-- [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur·e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2)
+- [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur·e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2) (Octobre 2017)
 
 ## Du côté de la DINSIC
 
