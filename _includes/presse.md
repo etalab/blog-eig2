@@ -56,9 +56,9 @@
 
 ## Du côté de la DINSIC
 
-- [10 mois plus tard, les Entrepreneurs d’Intérêt Général ont relevé leurs défis](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/10-mois-plus-tard-decouvrez-comment-les-1ers-entrepreneures-dinteret-general-ont-releve-leurs-defis) (Octobre 2017)
-
 - [Entrepreneur d’Intérêt Général, Promo 1 : session de restitution des défis, 26 octobre 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/24/entrepreneure-dinteret-general-promo-1-session-de-restitution-des-defis) (Octobre 2017)
+
+- [10 mois plus tard, les Entrepreneurs d’Intérêt Général ont relevé leurs défis](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/10-mois-plus-tard-decouvrez-comment-les-1ers-entrepreneures-dinteret-general-ont-releve-leurs-defis) (Octobre 2017)
 
 - [Réunion d’information autour de l’appel à projets Pia à destination des administrations, 16 mai 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/22/entrepreneurs-dinteret-general-reunion-dinformation-autour-de-lappel-a-projets-pia-a-destination-des-administrations) (Mai 2017)
 
