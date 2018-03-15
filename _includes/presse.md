@@ -22,21 +22,21 @@
 
 ## Dans la presse
 
-- [Vidéos : Entrepreneurs d’intérêt général, kezako ?](https://www.youtube.com/watch?v=-fF5871_8vU)
+- [Vidéos : Entrepreneurs d’intérêt général, kezako ?](https://www.youtube.com/watch?v=-fF5871_8vU) (Juillet 2017)
 
-- [Interviews des EIG Promo 1](http://www.dailymotion.com/playlist/x4tlyz_SGMAP_entrepreneur-d-interet-general-eig)
+- [Interviews des EIG Promo 1](http://www.dailymotion.com/playlist/x4tlyz_SGMAP_entrepreneur-d-interet-general-eig) (?)
 
-- [Caisse des Dépôts, « Des Civic Tech à l’Entreprenariat d’intérêt général », Mohammed ADNENE TROJETTE](http://www.caissedesdepots.fr/des-civictech-lentrepreneuriat-dinteret-general)
+- [Caisse des Dépôts, « Des Civic Tech à l’Entreprenariat d’intérêt général », Mohammed ADNENE TROJETTE](http://www.caissedesdepots.fr/des-civictech-lentrepreneuriat-dinteret-general) (?)
 
-- [Acteurs Publics, « La Performance se mesure de manière très nouvelle avec les entrepreneurs d’intérêt général », Mathilde BRAS](https://www.acteurspublics.com/webtv/2017/07/11/mathilde-bras-la-performance-se-mesure-de-maniere-tres-nouvelle-avec-les-entrepreneurs-dinteret-general)
+- [Acteurs Publics, « La Performance se mesure de manière très nouvelle avec les entrepreneurs d’intérêt général », Mathilde BRAS](https://www.acteurspublics.com/webtv/2017/07/11/mathilde-bras-la-performance-se-mesure-de-maniere-tres-nouvelle-avec-les-entrepreneurs-dinteret-general) (Juillet 2017)
 
-- [April, L’Etat recherche dix « entrepreneurs d’intérêt général »](https://www.april.org/next-inpact-l-etat-recherche-dix-entrepreneurs-d-interet-general)
+- [ID formation, « Le gouvernement lance un programme inédit : Entrepreneur d’intérêt général »](http://www.id-formation.com/2016-gouvernement-lance-programme-inedit-entrepreneur-interet-general.html) (Novembre 2016)
 
-- [NextINpact : l’Etat recherche dix entrepreneurs d’intérêt général](https://www.nextinpact.com/news/102018-l-etat-recherche-dix-entrepreneurs-d-interet-general.htm)
+- [April, L’Etat recherche dix « entrepreneurs d’intérêt général »](https://www.april.org/next-inpact-l-etat-recherche-dix-entrepreneurs-d-interet-general) (Novembre 2016)
 
-- [Silicon, « Les entrepreneurs d’intérêt général vont-ils hacker l’Etat ? »](http://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html?inf_by=59e61f76681db8a97f8b46c0)
+- [NextINpact : l’Etat recherche dix entrepreneurs d’intérêt général](https://www.nextinpact.com/news/102018-l-etat-recherche-dix-entrepreneurs-d-interet-general.htm) (Novembre 2016)
 
-- [ID formation, « Le gouvernement lance un programme inédit : Entrepreneur d’intérêt général »](http://www.id-formation.com/2016-gouvernement-lance-programme-inedit-entrepreneur-interet-general.html)
+- [Silicon, « Les entrepreneurs d’intérêt général vont-ils hacker l’Etat ? »](http://www.silicon.fr/entrepreneurs-interet-general-hacker-etat-161509.html?inf_by=59e61f76681db8a97f8b46c0) (Octobre 2016)
 
 ## Du côté des administrations
 
