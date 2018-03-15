@@ -20,7 +20,7 @@ EIG !  On parle de nos expériences tech lors du bootcamp © Zoe Jung._
 
 # Le bootcamp : un moment de forte cohésion
 
-Soizic Pénicaud (d'Étalab) l'a très bien
+Soizic Pénicaud (Étalab) l'a très bien
 [raconté](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/),
 le bootcamp EIG fut un moment important pour la cohésion du groupe :
 nous avons tous sympathisé et nous nous sommes embarqué à fond dans
@@ -28,10 +28,10 @@ nos défis.
 
 La « [bulloterie](https://twitter.com/la_bulloterie) » (un format
 inventé par [Sébastien Kurt](https://twitter.com/Anachitect)) a donné
-lieu à un premier protoype développé par Philéas Condemine (du défi
+lieu à un premier protoype développé par Philéas Condemine (défi
 [Lab
 Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/)).
-Paul Schmite (d'Étalab) a ensuite saisi l'ensemble de ces données et
+Paul Schmite (Étalab) a ensuite saisi l'ensemble de ces données et
 j'ai dans ma TODO liste de proposer une interface web pour les
 explorer.  En attendant, les défis présentent leurs outils dans un
 fichier
@@ -51,7 +51,7 @@ projets collaboratifs, dont un dépôt de partage de
 [tutoriels](https://github.com/entrepreneur-interet-general/tutos-2018)
 et une liste
 d'[outils](https://github.com/entrepreneur-interet-general/eig-link/blob/master/boite-a-outils.org
-" ") : voyez par exemple le tutoriel publié par Julien Naour (du défi
+" ") : voyez par exemple le tutoriel publié par Julien Naour (défi
 [Lab
 Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/))
 sur une [introduction à
@@ -83,10 +83,10 @@ leurs équipes d'accueil.
 Certains défis ([Archifiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/ "
 "), [b@liseNAV](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/), [SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/)) sont
 donc déjà lancés dans des *sprints* avec des *user stories* bien définies,
-mais ce modèle n'est pas commun.  Pour le défi
+mais ce modèle n'est pas commun. Pour le défi
 [BrigadeNumérique](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/brigadenumerique/),
-les EIG utilisent l'outil de kanboard que j'ai installé, mais
-d'autres défis utilisent d'autres outils locaux.
+Dora et Jean-Baptiste utilisent l'outil de kanboard que j'ai installé, mais
+d'autres équipes utilisent des outils locaux.
 
 ![L'utilisation du "kanboard" par le défi BridageNumérique](/img/brigadenumerique-board.png)
 _L'utilisation du "kanboard" par le défi BridageNumérique_
@@ -95,9 +95,7 @@ En revanche, pour continuer de multiplier les points de contact entre
 défis, il nous faut un **un outil de suivi collectif**.  Pour
 l'instant, nous stockons les retours hebdomadaires de chaque EIG dans
 ce [gros fichier
-partagé](https://github.com/entrepreneur-interet-general/eig-link/blob/master/suivi.org)
-mais ce n'est pas très pratique, ce fichier est là en attendant un
-outil web plus plus adapté.
+partagé](https://github.com/entrepreneur-interet-general/eig-link/blob/master/suivi.org). Ce n'est pas le plus pratique, mais c'est un premier test avant un outil web plus adapté.
 
 # Les outils : adaptation et mutualisation
 
@@ -121,7 +119,7 @@ libres](https://fr.wikipedia.org/wiki/Logiciel_libre) !
 La question qui se pose souvent est celle-ci : si un EIG a besoin
 d'une machine virtuelle pour son défi, doit-il la demander à son
 administration ou doit-il utiliser celle que nous mettons à sa
-disposition via notre panoplie d'outils ?  Les deux, mon capitaine !
+disposition via notre panoplie d'outils ? Les deux, mon capitaine !
 Les outils EIG n'ont pas vocation à remplacer ceux que les
 administrations mettront en place pour pérenniser les projets, mais à
 dépanner et à montrer comment ces solutions se mettent en oeuvre.  Si
@@ -156,7 +154,7 @@ garder les plus collectifs possible.
   
 Ce qui se met en place doucement :
 
-- Des sessions de « revue de code » avec Quentin. La première a eu
+- Des sessions de « revue de code » avec Quentin Decock (Liberté Living Lab). La première a eu
   lieu le 14 mars autour du logiciel
   [OpenScraper](http://github.com/entrepreneur-interet-general/OpenScraper)
   et du défi
@@ -167,8 +165,8 @@ Ce qui se met en place doucement :
   ressources des EIG qui veulent bien (merci à Tiphaine Phe-Neau du
   défi [Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/) d'avoir lancé cette idée !)
 
-Ce qui est intéressant, c'est que tout cela évolue : l'idée de se
-retrouver les mercredi après-midi pour travailler a été proposée par
+Ce qui est intéressant, c'est l'évolution du dispositif : l'idée de se
+retrouver le mercredi après-midi pour travailler a été proposée par
 les EIGs ; certains s'impliquent dans la conception des séances du
 programme d'accompagnement ; et nous réfléchissons à la manière de
 rendre le point hebdomadaire du vendredi midi plus efficace.  Nous
@@ -180,16 +178,15 @@ _Rencontre avec Quentin Decock lors du bootcamp, le référent technique du LLL_
 
 # L'écosystème : *No EIG is an island*
 
-En plus de l'entraide naturelle à l'intérieur des EIG d'un même défi,
-il y a l'entraide *entre* défis.
+En plus de l'entraide naturelle au sein des équipes d'EIG par défi, l'entraide *entre* défis se développe.
 
 Cette entraide s'exprime dans la création de canaux techniques dédiés
-sur le slack, en présentiel les mercredi ou lors des sessions de revue
+sur le slack, en présentiel le mercredi ou lors des sessions de revue
 de code.
 
-Au-delà, les EIG de cette deuxième promo interragissent avec ceux de
-la première promo et avec les développeurs et les datascientistes
-d'Étalab : c'est par exemple Victor Schmidt du défi
+Au-delà, les EIG de cette deuxième promotion interragissent avec ceux de
+la première et avec les développeurs et les datascientistes
+d'Étalab. C'est par exemple Victor Schmidt du défi
 [Hopkins](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/)
 qui fait remonter un souci avec le logo du [site
 EIG](https://entrepreneur-interet-general.etalab.gouv.fr), souci
@@ -219,14 +216,14 @@ du code citoyen](http://nuitcodecitoyen.org).
 ![Emmanuel, encore debout après une nuit de code citoyen](/img/nuitducodecitoyen.jpg)
 _Emmanuel, encore debout après une nuit de code citoyen_
 
-... enfin, plus loin encore, il y a le niveau « **EIG³** » ! Ça c'est
+... enfin, plus loin encore, il y a le niveau « **EIG³** » ! C'est
 quand on se jette carrément dans le grand bain et qu'on publie des
 propositions d'améliorations de logiciels libres, le bien commun de
-l'écosystème auquel on contribue !  C'est Christophe ouvrant [une
+l'écosystème auquel on contribue ! C'est Christophe ouvrant [une
 *issue*](https://github.com/tidyverse/dplyr/issues/3355) dans le
-Tidyverse ; Tiphaine sollicitant une *pull request* pour le code
+Tidyverse ; Tiphaine qui sollicite une *pull request* pour le code
 d'[open-moulinette](https://github.com/anthill/open-moulinette/pull/61) ;
-ou Victor partageant la librairie python
+ou Victor qui partage la librairie python
 [mkinx](https://pypi.org/project/mkinx/).
 
 Vous l'avez compris : **on met les mains dans le cambouis, on avance,
