@@ -2,7 +2,7 @@
 
 ## Dans la presse
 
-- [Acteurs publics, interview, Henri Verdier : "l'Etat doit réinternaliser certaines fonctions critiques](https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec)
+- [Acteurs publics, interview, Henri Verdier : "l'Etat doit réinternaliser certaines fonctions critiques](https://www.acteurspublics.com/2018/02/19/henri-verdier-l-innovation-radicale-exige-une-certaine-capacite-de-prise-de-risque-et-une-tolerance-a-l-echec) (Février 2018)
 
 - [Le Monde Informatique, « L’Etat recrute 27 informaticiens payés 4 000 euros nets ».](http://www.lemondeinformatique.fr/actualites/lire-l-etat-recrute-27-informaticiens-payes-4-000-euros-net-69531.html)
 
