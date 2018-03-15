@@ -56,21 +56,22 @@
 
 ## Du côté de la DINSIC
 
-- [Le programme Entrepreneur d’Intérêt Général lancé prochainement](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/le-programme-entrepreneur-dinteret-general-lance-prochainement)
+- [10 mois plus tard, les Entrepreneurs d’Intérêt Général ont relevé leurs défis](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/10-mois-plus-tard-decouvrez-comment-les-1ers-entrepreneures-dinteret-general-ont-releve-leurs-defis) (Octobre 2017)
 
-- [Les Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/entrepreneur-interet-general)
+- [Entrepreneur d’Intérêt Général, Promo 1 : session de restitution des défis, 26 octobre 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/24/entrepreneure-dinteret-general-promo-1-session-de-restitution-des-defis) (Octobre 2017)
 
-- [Le Président de la République Rencontre la 1e Promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/president-de-la-republique-rencontre-la-1re-promotion-entrepreneurs-interet-general)
+- [Réunion d’information autour de l’appel à projets Pia à destination des administrations, 16 mai 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/22/entrepreneurs-dinteret-general-reunion-dinformation-autour-de-lappel-a-projets-pia-a-destination-des-administrations) (Mai 2017)
 
-- [Découvrez la première promotion des Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general)
+- [Appel à Projet : réunion d’information à destination des administrations](http://www.modernisation.gouv.fr/actualites/actualites/appel-a-projets-entrepreneurs-dinteret-general-reunion-dinformation-a-destination-des-administrations) (Mai 2017)
 
-- [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general)
+- [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) (Mai 2017)
 
-- [Appel à Projet : réunion d’information à destination des administrations](http://www.modernisation.gouv.fr/actualites/actualites/appel-a-projets-entrepreneurs-dinteret-general-reunion-dinformation-a-destination-des-administrations)
+- [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) (Mai 2017)
 
-- [10 mois plus tard, les Entrepreneurs d’Intérêt Général ont relevé leurs défis](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/10-mois-plus-tard-decouvrez-comment-les-1ers-entrepreneures-dinteret-general-ont-releve-leurs-defis)
+- [Le Président de la République Rencontre la 1e Promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/president-de-la-republique-rencontre-la-1re-promotion-entrepreneurs-interet-general) (Mars 2017)
 
-- [Entrepreneur d’Intérêt Général, Promo 1 : session de restitution des défis, 26 octobre 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/24/entrepreneure-dinteret-general-promo-1-session-de-restitution-des-defis)
+- [Découvrez la première promotion des Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general) (Mars 2017)
 
-- [Réunion d’information autour de l’appel à projets Pia à destination des administrations, 16 mai 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/22/entrepreneurs-dinteret-general-reunion-dinformation-autour-de-lappel-a-projets-pia-a-destination-des-administrations)
+- [Les Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/entrepreneur-interet-general) (Novembre 2016)
 
+- [Le programme Entrepreneur d’Intérêt Général lancé prochainement](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/le-programme-entrepreneur-dinteret-general-lance-prochainement) (Octobre 2016)
