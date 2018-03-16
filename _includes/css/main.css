@@ -483,7 +483,7 @@ a.button:active {
 }
 
 @media all and (max-width: 700px) {
-    .container {
+    #blogpost .container {
         padding: 0;
     }
 
