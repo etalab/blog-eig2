@@ -188,7 +188,7 @@ a.button:active {
         display: block;
         float: none;
     }
-    
+
     .navbar__links {
         display: block;
         float: none;
@@ -483,6 +483,16 @@ a.button:active {
 }
 
 @media all and (max-width: 700px) {
+    #blogpost .container {
+        padding: 0;
+    }
+
+    #blogpost .panel {
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
     #post .panel {
         float: none;
         width: 100%;
