@@ -18,6 +18,14 @@
 
 - [Entrepreneur.e d’Intérêt Général – Promotion 2 : session d’informations, 10 octobre 2017, Secrétariat d’Etat au Numérique](https://rdv.etalab.gouv.fr/e/23/entrepreneure-dinteret-general-promotion-2-session-dinformations) (Octobre 2017)
 
+<!-- Publications internes
+- [[https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury][Etalab, Entrepreneurs d’Intérêt Général]]
+- [[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/Plaquette-de-presentation-EIG.pdf][Plaquette de Présentation des EIG, mars 2017]]
+- [[https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general][Rejoignez la Première Promotion d’Entrepreneurs d’Intérêt Général]]
+- [[https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general][Découvrez les membres du jury du programme Entrepreneurs d’Intérêt Général]]
+- [[https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general][Découvrez la Première Promotion d’Entrepreneurs d’Intérêt Général]]
+- [[https://github.com/entrepreneur-interet-general][Le Compte Github de la première promotion]] -->
+
 # EIG 2017
 
 ## Dans la presse
