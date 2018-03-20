@@ -16,15 +16,25 @@
 
 ## Du côté de la DINSIC
 
+- [Vidéo: Entrepreneur.e d’Intérêt Général : à la rencontre de 28 innovateurs publics](https://www.etalab.gouv.fr/video-entrepreneur-e-dinteret-general-a-la-rencontre-de-28-innovateurs-publics) (Mars 2018)
+
+- [Entrepreneur.e d’Intérêt Général : découvrez la Promotion 2 !](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-decouvrez-la-promotion-2) (Novembre 2017)
+
 - [Entrepreneur.e d’Intérêt Général – Promotion 2 : session d’informations, 10 octobre 2017, Secrétariat d’Etat au Numérique](https://rdv.etalab.gouv.fr/e/23/entrepreneure-dinteret-general-promotion-2-session-dinformations) (Octobre 2017)
 
-<!-- Publications internes
-- [[https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury][Etalab, Entrepreneurs d’Intérêt Général]]
-- [[https://www.etalab.gouv.fr/wp-content/uploads/2017/04/Plaquette-de-presentation-EIG.pdf][Plaquette de Présentation des EIG, mars 2017]]
-- [[https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general][Rejoignez la Première Promotion d’Entrepreneurs d’Intérêt Général]]
-- [[https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general][Découvrez les membres du jury du programme Entrepreneurs d’Intérêt Général]]
-- [[https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general][Découvrez la Première Promotion d’Entrepreneurs d’Intérêt Général]]
-- [[https://github.com/entrepreneur-interet-general][Le Compte Github de la première promotion]] -->
+- [En 2018, devenez Entrepreneur•e d’intérêt général : rejoignez la Promotion 2 !](https://www.etalab.gouv.fr/en-2018-devenez-entrepreneur%E2%80%A2e-dinteret-general-rejoignez-la-promotion-2) (Septembre 2017)
+
+- [Entrepreneurs d’intérêt général / Promo 2 : découvrez les 10 défis retenus par le jury !](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury) (Juillet 2017)
+
+- [Entrepreneurs d’intérêt général / Promo 2 : 43 défis proposés par les administrations, un jury d’experts pour les sélectionner](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general) (Juin 2017)
+
+- [Appel à projets: Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’intérêt général](https://www.etalab.gouv.fr/appel-a-projets-administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) (Mai 2017)
+
+- [Réunion d’information autour de l’appel à projets Pia à destination des administrations, 16 mai 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/22/entrepreneurs-dinteret-general-reunion-dinformation-autour-de-lappel-a-projets-pia-a-destination-des-administrations) (Mai 2017)
+
+- [Appel à Projet : réunion d’information à destination des administrations](http://www.modernisation.gouv.fr/actualites/actualites/appel-a-projets-entrepreneurs-dinteret-general-reunion-dinformation-a-destination-des-administrations) (Mai 2017)
+
+- [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) (Mai 2017)
 
 # EIG 2017
 
@@ -56,8 +66,6 @@
 
 - [SHOM, Devenez Entrepreneur(e) d’intérêt général en 2018](http://www.shom.fr/le-shom/actualites/les-communiques/actualite-detaillee/article/devenez-entrepreneure-dinteret-general-en-2018/) (?)
 
-- [Grande Ecole du Numérique, Apprenants de la Grande Ecole, devenez « Entrepreneurs d’Intérêt général »](https://www.grandeecolenumerique.fr/2016/11/entrepreneurs-interet-general/) (?)
-
 - [Préfecture de Saône et Loire, Devenez Entrepreneur·e d’Intérêt Général](http://www.saone-et-loire.gouv.fr/devenez-entrepreneur-o-e-d-interet-general-a9918.html) (Octobre 2017)
 
 - [Préfecture Bourgogne-Franche-Comté, « En 2018, devenez Entrepreneur·e d’Intérêt Général : rejoignez la promotion 2 !](http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte/Actualites/En-2018-devenez-Entrepreneur-e-d-interet-general-rejoignez-la-Promotion-2) (Octobre 2017)
@@ -68,18 +76,14 @@
 
 - [10 mois plus tard, les Entrepreneurs d’Intérêt Général ont relevé leurs défis](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/10-mois-plus-tard-decouvrez-comment-les-1ers-entrepreneures-dinteret-general-ont-releve-leurs-defis) (Octobre 2017)
 
-- [Réunion d’information autour de l’appel à projets Pia à destination des administrations, 16 mai 2017, Liberté Living Lab](https://rdv.etalab.gouv.fr/e/22/entrepreneurs-dinteret-general-reunion-dinformation-autour-de-lappel-a-projets-pia-a-destination-des-administrations) (Mai 2017)
-
-- [Appel à Projet : réunion d’information à destination des administrations](http://www.modernisation.gouv.fr/actualites/actualites/appel-a-projets-entrepreneurs-dinteret-general-reunion-dinformation-a-destination-des-administrations) (Mai 2017)
-
-- [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) (Mai 2017)
-
-- [Administrations, lancez vos défis à la prochaine promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general) (Mai 2017)
-
 - [Le Président de la République Rencontre la 1e Promotion d’Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/president-de-la-republique-rencontre-la-1re-promotion-entrepreneurs-interet-general) (Mars 2017)
 
 - [Découvrez la première promotion des Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general) (Mars 2017)
 
+- [Découvrez la 1e promotion des Entrepeneurs d'Intérêt Général](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general) (Décembre 2016)
+
 - [Les Entrepreneurs d’Intérêt Général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/entrepreneur-interet-general) (Novembre 2016)
+
+- [Rejoignez la 1e promotion des Entrepreneurs d'Intérêt Général](https://www.etalab.gouv.fr/rejoignez-la-1e-promotion-dentrepreneurs-dinteret-general) (Novembre 2016)
 
 - [Le programme Entrepreneur d’Intérêt Général lancé prochainement](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/le-programme-entrepreneur-dinteret-general-lance-prochainement) (Octobre 2016)
