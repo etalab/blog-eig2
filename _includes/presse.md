@@ -10,6 +10,8 @@
 
 ## Du côté des administrations
 
+<!--- [Ouverture de la Brigade numérique] (https://eric.freyssi.net/2018/02/27/ouverture-de-la-brigade-numerique/) (Février 2018)-->
+
 - [La gendarmerie se dote d'une brigade numérique](https://www.caissedesdepotsdesterritoires.fr/cs/ContentServer/?pagename=Territoires/Articles/Articles&cid=1250280674237&nl=1) (Février 2018)
 
 - [Ecole du Numérique, « Appel à Candidature Entrepreneurs d’Intérêt Général 2018 : relever le défi de l’intelligence artificielle pour l’éducation »](http://ecolenumerique.education.gouv.fr/2017/10/11/appel-candidatures-entrepreneurs-dinteret-general-2018-relever-le-defi-de-lintelligence-artificielle-pour-leducation/) (Octobre 2017)
