@@ -1,8 +1,8 @@
 ---
 layout: post
 modal-id: Comment souder un collectif de talents et assurer sa réussite - Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
-author: L'équipe EIG
-twitter: etalab
+author: Soizic Pénible, équipe EIG
+twitter: soizicpenicaud
 description: "Du 5 au 9 février derniers, l'équipe du programme Entrepreneur·e d'Intérêt Général a réuni les 28 membres de la promotion 2 lors d'un bootcamp d'intégration. L’objectif : leur donner l’élan et les outils nécessaires pour réussir en 10 mois les 13 défis ambitieux qu’ils ont choisis. Retour sur la conception de cette semaine et ce qui en est ressorti."
 ---
 ## Comment souder un collectif de talents et assurer sa réussite
@@ -108,7 +108,3 @@ _Nous souhaitons remercier tous les intervenants qui ont contribué au succès d
 _Nous publierons régulièrement des nouvelles sur les EIG sur le [blog d’Etalab](http://etalab.gouv.fr/) et sur celui des EIG : leurs réalisations techniques, les temps forts de la promotion, l’avancée des défis… Pour rester informé, n’hésitez pas à vous abonner au [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) du blog EIG._
 
 _Le programme EIG s’engage à mettre autant que possible en open source les outils développés dans le cadre du programme. Le code est disponible sur le [github](https://github.com/entrepreneur-interet-general/) du programme._
-
-
-
-
