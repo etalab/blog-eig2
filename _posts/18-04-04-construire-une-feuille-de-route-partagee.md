@@ -3,10 +3,10 @@ layout: post
 modal-id: Réaliser un défi en 10 mois : construire une feuille de route partagée et accepter de la faire évoluer
 author: Sophie Miljkovic, équipe EIG
 twitter: 
-description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général se sont rassemblés pour une session d’accompagnement bimensuelle au Liberty Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier."
+description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuel au Liberty Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et/ou à clarifier."
 ---
 
-![](/img/image1.png){width="6.3in" height="3.235732720909886in"}
+![](/img/image1.png)
 
 Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont
 rassemblés pour une session d’accompagnement bimensuel au Liberty
@@ -38,7 +38,7 @@ son défi**. Chaque acteur clé étant une ressource que l’on peut
 mobiliser, plus on en trouve, mieux c’est ! Conseil appliqué à la lettre
 par Bastien… tout en acronymes.
 
-![](/img/image2.png){width="6.3in" height="4.228354111986001in"}
+![](/img/image2.png)
 
 # *Travailler son produit*
 
@@ -69,7 +69,7 @@ animent l’utilisateur –- ou « pains », « gains » et « customer j
 Plus facile à faire qu’à dire, voici celui d’Elise et de Julien qui
 travaillent sur le projet [*Social Connect*](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/).
 
-![](/img/image3.png){width="6.3in" height="4.171422790901137in"}
+![](/img/image3.png)
 
 Elise et Julien ont d’ailleurs anticipé l’étape d’après : **organiser
 son travail**. Ils ont fait un choix très clair. Celui du post-it.
