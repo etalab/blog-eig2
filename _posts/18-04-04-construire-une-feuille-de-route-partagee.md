@@ -1,24 +1,22 @@
 ---
 layout: post
 modal-id: Réaliser un défi en 10 mois : construire une feuille de route partagée et accepter de la faire évoluer
-author: Soizic Pénica, équipe EIG
-twitter: soizicpenicaud
-description: "Du 5 au 9 février derniers, l'équipe du programme Entrepreneur·e d'Intérêt Général a réuni les 28 membres de la promotion 2 lors d'un bootcamp d'intégration. L’objectif : leur donner l’élan et les outils nécessaires pour réussir en 10 mois les 13 défis ambitieux qu’ils ont choisis. Retour sur la conception de cette semaine et ce qui en est ressorti."
+author: Sophie Miljkovic, équipe EIG
+twitter: 
+description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuel au Liberty Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et/ou à clarifier."
 ---
 
-
-
-
-![](media/image1.png){width="6.3in" height="3.235732720909886in"}
+![](/img/image1.png){width="6.3in" height="3.235732720909886in"}
 
 Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont
-rassemblés pour une session d’accompagnement bimensuel au Liberty Living
-Lab. L’occasion pour eux de construire la feuille de route de leurs
-défis et d’identifier les actions à renforcer et/ou à clarifier. Pendant
-2 heures, les EIG ont complété une matrice comprenant 12 étapes clés du
-développement d’un projet. Depuis l’identification des objectifs et des
-parties prenantes, jusqu’à la phase de tests et de déploiement, en
-passant par la définition de son offre et l’évolution du produit.
+rassemblés pour une session d’accompagnement bimensuel au Liberty
+Living Lab.  L’occasion pour eux de construire la feuille de route de
+leurs défis et d’identifier les actions à renforcer et/ou à
+clarifier.  Pendant 2 heures, les EIG ont complété une matrice
+comprenant 12 étapes clés du développement d’un projet. Depuis
+l’identification des objectifs et des parties prenantes, jusqu’à la
+phase de tests et de déploiement, en passant par la définition de son
+offre et l’évolution du produit.
 
 Arrivée début mars 2018 dans l’équipe EIG, Sophie Miljkovic (Etalab),
 nous propose un aperçu des résultats de cet atelier « feuille de
@@ -40,7 +38,7 @@ son défi**. Chaque acteur clé étant une ressource que l’on peut
 mobiliser, plus on en trouve, mieux c’est ! Conseil appliqué à la lettre
 par Bastien… tout en acronymes.
 
-![](media/image2.png){width="6.3in" height="4.228354111986001in"}
+![](/img/image2.png){width="6.3in" height="4.228354111986001in"}
 
 # *Travailler son produit*
 
@@ -71,7 +69,7 @@ animent l’utilisateur –- ou « pains », « gains » et « customer j
 Plus facile à faire qu’à dire, voici celui d’Elise et de Julien qui
 travaillent sur le projet [*Social Connect*](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/).
 
-![](media/image3.png){width="6.3in" height="4.171422790901137in"}
+![](/img/image3.png){width="6.3in" height="4.171422790901137in"}
 
 Elise et Julien ont d’ailleurs anticipé l’étape d’après : **organiser
 son travail**. Ils ont fait un choix très clair. Celui du post-it.
@@ -90,21 +88,18 @@ des EIG.
 ## Faire grandir son projet
 
 Et là, c’est la phase finale : le produit est prêt, il faut le lancer.
-Les produits des EIG n’ont pas vocation à conquérir les marchés -service
-public oblige-, mais ils doivent tout de même réussir à s’implanter dans
-leurs administrations respectives. Pour cela, rien de tel qu’un **plan
-de déploiement** consolidé par des **actions de pérennisation** de son
-produit. La preuve qu’on peut préparer cette étape dès le début de
-l’aventure : l’équipe de Lab Santé a déjà organisé des ateliers de
-formation pour les futurs utilisateurs de son produit. Mais on peut voir
-encore plus grand. Tous les outils créés par les EIG sont ouverts et
-peuvent donc être utilisés par d’autres administrations que celle
-d’origine. Alors pour bien essaimer, on s’entraîne à **bien présenter**.
-Et oui, on apprend à faire un pitch.
-
-![](media/image4.jpeg){width="6.3in" height="4.192905730533683in"}
-
-FIXME
+Les produits des EIG n’ont pas vocation à conquérir les marchés --
+service public oblige -- mais ils doivent tout de même réussir à
+s’implanter dans leurs administrations respectives.  Pour cela, rien
+de tel qu’un **plan de déploiement** consolidé par des **actions de
+pérennisation** de son produit. La preuve qu’on peut préparer cette
+étape dès le début de l’aventure : l’équipe de Lab Santé a déjà
+organisé des ateliers de formation pour les futurs utilisateurs de son
+produit. Mais on peut voir encore plus grand. Tous les outils créés
+par les EIG sont ouverts et peuvent donc être utilisés par d’autres
+administrations que celle d’origine.  Alors pour bien essaimer, on
+s’entraîne à **bien présenter**.  Et oui, on apprend à faire un
+*elevator pitch* (dans le jargon)...
 
 Cette session d’accompagnement avait pour objectif de dessiner une
 feuille de route globale pour les EIG.  Conçue spécialement pour eux,
