@@ -3,7 +3,7 @@ layout: post
 modal-id: "Réaliser un défi en 10 mois : construire une feuille de route partagée et accepter de la faire évoluer"
 author: Sophie Miljkovic, équipe EIG
 twitter: 
-description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberty Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier."
+description: "Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier."
 ---
 
 ![Dans une grande salle, les EIG de la promotion 2 sont assis à des pupitres individuels et discutent entre eux.](/img/LLL-1-photo-groupe.jpg)
@@ -20,7 +20,7 @@ phase de tests et de déploiement, en passant par la définition de son
 offre et l’évolution du produit.
 
 Voici un aperçu des résultats de cet atelier « feuille de
-route », animé par Marylène Vicari du Liberté Living Lab
+route », animé par Marylène Vicari du Liberté Living Lab.
 
 # *Préparer le terrain*
 
@@ -105,6 +105,9 @@ s’entraîne à **bien présenter**.  Et oui, on apprend à faire un
 *elevator pitch* (dans le jargon)...
 
 Cette session d’accompagnement avait pour objectif de dessiner une
-feuille de route globale pour les EIG.  Conçue spécialement pour eux,
+feuille de route globale pour les EIG. Conçue spécialement pour eux,
 elle n’est pourtant pas gravée dans le marbre et peut être amenée à
 évoluer. Tout comme les projets d’ailleurs. On vous tient au courant !
+
+Retrouvez la description des projets EIG - Promo 2 sur [notre site](https://entrepreneur-interet-general.etalab.gouv.fr/).
+Et sur le Github du [Programme EIG](https://github.com/entrepreneur-interet-general)
