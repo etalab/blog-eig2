@@ -113,15 +113,15 @@ Github EIG](https://github.com/entrepreneur-interet-general/) - suivez-nous !
 # Quelques lectures supplémentaires
 
 -   La politique de contribution open source de l’État : version [en
-    ligne](https://disic.github.io/politique-de-contribution-open-source/), version de travail sur [github](https://github.com/DISIC/politique-de-contribution-open-source).
+    ligne](https://disic.github.io/politique-de-contribution-open-source/), version de travail sur [github](https://github.com/DISIC/politique-de-contribution-open-source)
 
--   La [liste des licences libres](https://www.data.gouv.fr/fr/licences) pour l’administration.
+-   La [liste des licences libres](https://www.data.gouv.fr/fr/licences) pour l’administration
 
--   La [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence).
+-   La [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
 
--   Des [guides sur l’open source](https://opensource.guide) publiés par Github.
+-   Des [guides sur l’open source](https://opensource.guide) publiés par Github
 
--   Des guides [britanniques](https://www.gov.uk/government/publications/open-source-guidance) et [états-uniens](https://open-source-guide.18f.gov/) sur l’open source.
+-   Des guides [britanniques](https://www.gov.uk/government/publications/open-source-guidance) et [états-uniens](https://open-source-guide.18f.gov/) sur l’open source
 
 -   Quelques recommandations pour la [gestion d’un projet libre au sein
     de l’administration](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org), accompagnées d’une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture-faq.org)
