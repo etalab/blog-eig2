@@ -105,6 +105,9 @@ s’entraîne à **bien présenter**.  Et oui, on apprend à faire un
 *elevator pitch* (dans le jargon)...
 
 Cette session d’accompagnement avait pour objectif de dessiner une
-feuille de route globale pour les EIG.  Conçue spécialement pour eux,
+feuille de route globale pour les EIG. Conçue spécialement pour eux,
 elle n’est pourtant pas gravée dans le marbre et peut être amenée à
 évoluer. Tout comme les projets d’ailleurs. On vous tient au courant !
+
+Retrouvez la description des projets EIG - Promo 2 sur [notre site](https://entrepreneur-interet-general.etalab.gouv.fr/).
+Et sur le Github du [Programme EIG](https://github.com/entrepreneur-interet-general)
