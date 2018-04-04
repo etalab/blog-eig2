@@ -64,9 +64,26 @@ libre.
 
 Nous avons d’abord évoqué le fait qu’en pratique, certaines licences
 visent des types de contenu particuliers : la Licence Ouverte 2.0 est
-adaptée aux données en open data, les licences [Creative Commons](https://creativecommons.org/) aux
-contenus médias (images, vidéos, etc.) et les autres licences libres
-comme la [GNU GPLv3+](https://www.gnu.org/licenses/gpl-3.0.fr.html) ou la licence [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) pour du code.
+adaptée aux données en open data, les licences [Creative
+Commons](https://creativecommons.org/) aux contenus médias (images,
+vidéos, etc.) et les autres licences libres comme la [GNU
+GPLv3+](https://www.gnu.org/licenses/gpl-3.0.fr.html) ou la licence
+[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) pour du
+code.
+
+## Licences Copyleft et « permissives »
+
+Bastien a ensuite présenté les deux grandes familles de licences
+libres : les licences dites « *copyleft* », ou « à réciprocité »,
+inventées par Richard Stallman, le père du logiciel libre ; et les
+licences dites « permissives », utilisées surtout dans le monde de
+l'entreprise.
+
+Quelle est la différence ?  Si un logiciel intègre du code placé sous
+GNU GPL, il doit lui-même être publié sous licence GPL ou équivalente.
+Si un logiciel intègre du code publié sous licence Apache 2.0 (l'une
+des licences « permissive »), il n'y a pas d'obligation particulière
+à ce que le nouveau logiciel soit publié sous la même licence.
 
 ![Les débats sur les licences, source de plaisir infini !](/img/xkcd-open-source.jpg)
 _Les débats sur les licences, source de plaisir infini ! © XKCD, [CC-by-nc](https://www.xkcd.com/license.html)_
@@ -76,14 +93,13 @@ approche au cas par cas qui convient, mais en pratique, on se trouvera
 souvent dans l’une de ces situations : soit le code qu’on produit est
 dérivé d’un logiciel libre *existant*, auquel cas la pratique commune
 est d’utiliser la même licence libre que celui-ci ; soit on produit du
-*nouveau code*, auquel cas on a tendance à se caler sur les pratiques de
-logiciels similaires (ayant les mêmes fonctions et/ou écrits dans le
-même langage informatique).  Par exemple : si vous forkez un logiciel
-qui est publié sous licence GPLv3+ ou Apache 2.0, vous placerez votre
-logiciel sous GPLv3+ ou Apache 2.0 aussi ; si vous écrivez un nouveau
-logiciel en Ruby, vous placerez votre logiciel sous licence MIT, qui
-est la plus utilisée dans l’écosystème Ruby ; etc.
-
+*nouveau code*, auquel cas on a tendance à se caler sur les pratiques
+de logiciels similaires (ayant les mêmes fonctions et/ou écrits dans
+le même langage informatique).  Par exemple : si vous forkez un
+logiciel qui est publié sous licence GPLv3+ ou Apache 2.0, vous
+placerez votre logiciel sous GPLv3+ ou Apache 2.0 aussi ; si vous
+écrivez un nouveau logiciel en Ruby, vous placerez votre logiciel sous
+licence MIT, qui est la plus utilisée dans l’écosystème Ruby ; etc.
 
 # Pour ne pas finir
 
