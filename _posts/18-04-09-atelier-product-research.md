@@ -36,7 +36,7 @@ Plusieurs méthodes peuvent être mobilisées pour répondre à ces questions, n
 - En réalisant ces cartes, les membres d’une équipe projet s’alignent et s’accordent sur ce qu’ils ont vu sur le terrain, lors des entretiens utilisateurs. 
 - Elles permettent aussi de réaliser des catégories d’utilisateurs et de distinguer les produits et services à développer en fonction de ces catégories. 
 
-![Carte d'empathie type](/img/ex-empathy-map.JPG)  
+![Carte d'empathie type](/img/ex-empathy-map.jpg)
 _Une carte d'empathie type_
 
 Lors de notre atelier, nous avons réalisé en direct une carte d’empathie d’un des utilisateurs du défi [Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/). Elsa Lunéville, Antoine Augusti et leurs mentors Laurence Matringe et Renaud Perin nous ont exposé les différentes dimensions du défi, et nous avons choisi de dessiner la carte d’empathie pour les membres des centres de sauvetage. 
