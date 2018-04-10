@@ -6,7 +6,7 @@ twitter: Mathilde_Bras
 description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source."
 ---
 
-L’un des enjeux du programme : concevoir en 10 mois un produit et/ou délivrer un projet qui corresponde aux besoins de ses utilisateurs et qui améliore vraiment leur quotidien." Retour sur l'atelier "User and Product Research".
+L’un des enjeux du programme : concevoir en 10 mois un produit et/ou délivrer un projet qui corresponde aux besoins de ses utilisateurs et qui améliore vraiment leur quotidien." Retour sur l'atelier "User and Product Research", animé par Quentin Decock et Elise Lalique.
 
 # Finalement, pour qui développons-nous ce produit ?
 
@@ -31,22 +31,25 @@ Plusieurs méthodes peuvent être mobilisées pour répondre à ces questions, n
 - Transmettre un compte-rendu aux personnes interviewées : pour s’assurer que ses propos ont bien été compris et restitués ; 
 - Informer au fil de l’eau les personnes rencontrées de l’avancée du projet.
 
-<!-- FIXME: mettre social connect -->
-
 **2) Les cartes d’empathie** : elles permettent d’explorer plusieurs facettes d’un utilisateur et prioriser ensuite les problèmes et objectifs auxquels le produit pourra répondre. Souvent, ces cartes d’empathie sont des supports de dialogue au sein d’une équipe projet. 
 
 - En réalisant ces cartes, les membres d’une équipe projet s’alignent et s’accordent sur ce qu’ils ont vu sur le terrain, lors des entretiens utilisateurs. 
 - Elles permettent aussi de réaliser des catégories d’utilisateurs et de distinguer les produits et services à développer en fonction de ces catégories. 
 
-<!-- FIXME: mettre exemple carte d'empathie type -->
+![Carte d'empathie type](/img/ex-empathy-map.JPG)  
+_Une carte d'empathie type_
 
 Lors de notre atelier, nous avons réalisé en direct une carte d’empathie d’un des utilisateurs du défi [Prédisauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/donneesauvetagemaritime/). Elsa Lunéville, Antoine Augusti et leurs mentors Laurence Matringe et Renaud Perin nous ont exposé les différentes dimensions du défi, et nous avons choisi de dessiner la carte d’empathie pour les membres des centres de sauvetage. 
 
 **Les CROSS ou Centres Régionaux Opérationnels de Surveillance et de Sauvetage sont les interlocuteurs, sur le terrain, des sauveteurs en mer, et qualifient les accidents et interventions en mer**, afin de transmettre au SNOSAN (Système national d’observation de la sécurité des activités nautiques), des données qui nourrissent des rapports statistiques sur l’accidentologie en mer.
 
+![Les utilisateurs du défi Prédisauvetage](/img/user-predisauvetage.jpg)
+_Les utilisateurs du défi PrédiSauvetage_
+
 Voici le résultat de la carte d’empathie des membres du CROSS : nous avons commencé par identifier les irritants (pains), puis avons énuméré les objectifs de résultats (gains) pour ensuite détailler ce qu’ils voient (see), ce qu’ils ressentent (think and feel), entendent (hear), disent et font (say & do).
 
-<!-- FIXME: photo carte prédisauvetage -->
+![La carte d'empathie du défi PrédiSauvetage](/img/empathy-predisauvetage.jpg)
+_Résultat de la carte d'empathie du défi PrédiSauvetage réalisée en direct_
 
 # Adapter le cadrage de son produit à la recherche utilisateurs
 
