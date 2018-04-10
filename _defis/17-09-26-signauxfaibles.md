@@ -64,7 +64,7 @@ difficulté.**
 
 * **Pierre Camilleri : Datascience** 
 
-![Photo de Pierre Camilleri](/img/portfolio/PierreCamilleri.png)
+![Photo de Pierre Camilleri](/img/portfolio/PierreCamilleri.jpg)
 
 Pierre Camilleri est diplômé de l'École polytechnique. Il effectue une
 année à l'École nationale des Ponts et chaussées en spécialité
@@ -76,7 +76,7 @@ véhicule utilitaire électrique.
 
 * **Christophe Ninucci : Développement** 
 
-![Photo de Christophe Ninucci](/img/portfolio/ChristopheNinucci.png)
+![Photo de Christophe Ninucci](/img/portfolio/ChristopheNinucci.jpg)
 
 Christophe Ninucci a débuté sa carrière dans le domaine de l'industrie
 agroalimentaire comme administrateur système et réseau. Au cours de
