@@ -118,6 +118,10 @@ entendent (*hear*), disent et font (*say & do*).
 ![La carte d'empathie du défi PrédiSauvetage](/img/empathy-predisauvetage.jpg)
 _Résultat de la carte d'empathie du défi PrédiSauvetage réalisée en direct_
 
+![La carte d'empathie du défi Brigade Numérique](/img/brigade-num-empathy-map-2.jpeg)
+_Résultat de la carte d'empathie du défi Brigade Numérique_
+
+
 # Adapter le cadrage de son produit à la recherche utilisateurs
 
 Le travail de recherche utilisateurs permet ensuite d’adapter sa
