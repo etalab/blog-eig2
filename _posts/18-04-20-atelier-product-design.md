@@ -11,7 +11,8 @@ utilisateurs et qui améliore vraiment leur quotidien en 10 mois ?
 Penser « user, user, user ». Retour sur l’atelier « product design »
 animé par Laurie Chapotte et Jean-Baptiste Le Dévéhat.
 
-<!-- FIXME: image -->
+![Page d'accueil d'un site qui loue des voitures. Il ya beaucoup de couleurs, des photos dans tous les sens, des flèches qui pointent dans toutes les directions. Bref, la page est illisible.](/img/design-site-affreux.png)
+_Un exemple de site scandaleusement illisible_
 
 Vous avez mal aux yeux ? C'est normal. Vous avez là un exemple de site
 qui n'a PAS été conçu pour son utilisateur. Laurie Chapotte de
@@ -66,7 +67,8 @@ récolter des avis et conseils, spécifiques et plus généraux.
 Premier conseil qui vaut pour tous : il est important de construire la
 page en fonction de la ligne de flottaison. La quoi ? La…
 
-<!-- FIXME: image -->
+![Un écran d'ordinateur qui indique où se trouve la ligne de flottaison : elle est tout en bas de l'écran, juste au-dessus de la barre des tâches](/img/design-ligne-flottaison.jpg)
+_Sous les montagnes, la ligne de flottaison_
 
 Autre conseil : simplifier. Cela a valu notamment pour [Lab
 Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/labsante/)
@@ -77,7 +79,8 @@ l'information la plus importante : la ville dont on veut visualiser
 les flux. On peut, par exemple, supprimer "vers" et rajouter des
 flèches aux flux qui se dessinent.
 
-<!-- FIXME: image -->
+![Une capture d'écran qui montre dans la moitié inférieure une carte de la Corse sur laquelle on aperçoit des points jaunes et des traits de couleurs qui rayonnent à partir de ces points. Sur la droite de la carte apparaît un menu qui comporte notamment le texte "vers Ajaccion", "vers Bastia".](/img/design-carto-Labsante.png) 
+_L'outil de visualisation de flux en direction des hôpitaux, par Lab Santé_
 
 Dans le cas
 d'[Hopkins](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/hopkins/),
@@ -86,7 +89,8 @@ graphique peut être facilitée en appliquant des couleurs différentes
 aux points en fonction de leur degré de proximité au point central
 (vert).
 
-<!-- FIXME: image -->
+![Une capture d'écran qui montre un point central vert duquel partent des traits qui aboutissent à des points bleus. A partir de ces points bleus, d'autres traits mènent à d'autres points bleus. En haut à gauche, un menu très simple indique les "tops bénéficiaires" et les "tops donneurs d'ordre"](img/design-graph-Hopkins.png)
+_Un graphe de l'outil développé par Hopkins_
 
 Dernier conseil qui revient comme un leitmotiv : faire définir, en
 amont, et tester, en aval, l'outil par ceux qui l'utiliseront. Mission
@@ -96,7 +100,8 @@ afin d'y faire le tri. L'équipe est entrée dans une phase de tests
 avec les utilisateurs pour vérifier que l'outil correspond à leurs
 besoins.
 
-<!-- FIXME: image -->
+![Une capture d'écran qui montre une page blanche. Dans la partie inférieure, un cadre dans lequel on peut glisser-déposer un répertoire. Au-dessus, on trouve une description de l'outil](/img/design-stalactite.png)
+_La V2 de l'outil Stalactite développé par Archifiltre. Une V3 est désormais disponible !_
 
 [Prévisecours](https://previsecours.fr/) a également relevé le défi
 avec ses cartographies permettant de visualiser les données des
@@ -107,7 +112,8 @@ directement les cartographies. Cela a entraîné une réflexion sur les
 utilisateurs finaux des cartographies et sur leurs usages. Affaire à
 suivre.
 
-<!-- FIXME: image -->
+![Une capture d'écran qui montre une carte sur laquelle on voit le "nombre total d'intervention par commune (par an) des pompiers en Essonne](/img/design-carto-Previsecours.png)
+_Une des "viz" de Prévisecours_
 
 # Boîte à outils et principe pédagogique
 
