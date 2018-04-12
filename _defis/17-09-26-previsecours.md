@@ -69,7 +69,7 @@ service des pompiers.
 
 ## Le mentor : Daniel Ansellem
 
-![Photo de Daniel Ansellem](/img/portfolio/4_ansellem-daniel-630092.JPG)
+![Photo de Daniel Ansellem](/img/portfolio/4_ansellem-daniel-630092.jpg)
 
 Daniel Ansellem a été nommé en Juillet 2016 Administrateur ministériel
 des données du Ministère de l'Intérieur, il dirige également depuis

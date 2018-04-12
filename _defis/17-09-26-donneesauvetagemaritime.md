@@ -85,7 +85,7 @@ marché leader en Europe comptant plusieurs millions d'utilisateurs.  »
 
 ## Les mentors : Laurence Matringe et Renaud Perin
 
-![Photo des mentors](/img/portfolio/1_datasauvetage2.JPG)
+![Photo des mentors](/img/portfolio/1_datasauvetage2.jpg)
 
 **Laurence Matringe** est chargée de mission transformation numérique
 et adjointe à la sous-directrice « activités maritimes » au sein de la
