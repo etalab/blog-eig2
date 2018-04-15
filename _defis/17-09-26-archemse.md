@@ -90,11 +90,11 @@ devenant Entrepreneur d’Intérêt Général, je compte y participer. »
 
 ![Photo d'Anne Lambert](/img/portfolio/9.AnneLambert.jpg)
 
-Anne Lambert a rejoint le   secrétariat général des ministères sociaux
-en juillet 2015. Elle y pilote la politique d’archivage des
-ministères en charge du travail, de la santé et des sports. À ce
-titre, elle exerce également des missions de contrôle au nom des
-Archives de France (Ministère de la culture).
+Anne Lambert a rejoint le secrétariat général des ministères sociaux
+en juillet 2015. Elle y pilote la politique d’archivage des ministères
+en charge du travail, de la santé et des sports. À ce titre, elle
+exerce également des missions de contrôle au nom des Archives de
+France (Ministère de la culture).
 
 « Je suis convaincue de l’intérêt que peuvent présenter les techniques
 métiers des archivistes pour l’exploitation des données produites par
@@ -115,13 +115,31 @@ spectre de données tests et d’un environnement de travail adapté. »
 
 ![Photo de Chloé Moser](/img/portfolio/chloemoser.jpg)
 
-Chloé Moser a rejoint le secrétariat général des ministères sociaux en novembre 2013 en tant qu’adjointe à la cheffe de la Mission des Archives de France auprès de ces ministères. Depuis 2016, elle est plus spécifiquement en charge des projets de gestion des données, documents et de l’archivage électronique.
+Chloé Moser a rejoint le secrétariat général des ministères sociaux en
+novembre 2013 en tant qu’adjointe à la cheffe de la Mission des
+Archives de France auprès de ces ministères. Depuis 2016, elle est
+plus spécifiquement en charge des projets de gestion des données,
+documents et de l’archivage électronique.
 
-« Toutes les organisations et les individus deviennent des producteurs exponentiels de données. Ces productions de données représentent évidemment une opportunité et une richesse importantes. Pour autant, on ne peut pas laisser cette production s’accroître sans raison, il faut l’accompagner, la contextualiser, la limiter parfois pour que les données produites restent pertinentes et réutilisables.
+« Toutes les organisations et les individus deviennent des producteurs
+exponentiels de données. Ces productions de données représentent
+évidemment une opportunité et une richesse importantes. Pour autant,
+on ne peut pas laisser cette production s’accroître sans raison, il
+faut l’accompagner, la contextualiser, la limiter parfois pour que les
+données produites restent pertinentes et réutilisables.
 
-Je constate que l’archiviste est un professionnel mal connu pour accompagner les producteurs de données dans leur gestion, notamment dans le temps. Je suis persuadée que nous avons un rôle à jouer dans l’accompagnement à la production et l’organisation des données tout comme dans leur conservation et leur mise à disposition à différents publics.
+Je constate que l’archiviste est un professionnel mal connu pour
+accompagner les producteurs de données dans leur gestion, notamment
+dans le temps. Je suis persuadée que nous avons un rôle à jouer dans
+l’accompagnement à la production et l’organisation des données tout
+comme dans leur conservation et leur mise à disposition à différents
+publics.
 
-ArchiFiltre sera pour nous une occasion d’allier les techniques informatiques avec notre expertise sur les documents et les données, d’apporter un peu d’archivistique dans l’appréhension et le tri des données, de techniques informatiques dans leur évaluation et leur sélection. Notre objectif ? Sauver le monde ! »
+ArchiFiltre sera pour nous une occasion d’allier les techniques
+informatiques avec notre expertise sur les documents et les données,
+d’apporter un peu d’archivistique dans l’appréhension et le tri des
+données, de techniques informatiques dans leur évaluation et leur
+sélection. Notre objectif ? Sauver le monde ! »
 
 
 ## [En savoir plus : le pitch du défi en 4 slides](https://www.slideshare.net/secret/5n0tdCSCops9Zw)
