@@ -135,6 +135,7 @@ Général". Et de s'entraider aussi : la diversité des profils des EIG
 permet de faire profiter la promotion des compétences des uns et des
 autres.
 
-Les slides de l'atelier sont ici :
-[https://docs.google.com/presentation/d/1wdiEdrKakBSYbTP9My-AYMqPXGdtg4y2-M6BaztwfPw/edit?usp=sharing](https://docs.google.com/presentation/d/1wdiEdrKakBSYbTP9My-AYMqPXGdtg4y2-M6BaztwfPw/edit?usp=sharing).
+Voici le diaporama de l'atelier qu'a partagé avec nous Jean-Baptiste
+Le Dévéhat :
 
+<script async class="speakerdeck-embed" data-id="771b1297e587443fb0266dd8a38b6c78" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
