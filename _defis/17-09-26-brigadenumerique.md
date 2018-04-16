@@ -44,7 +44,7 @@ doit décupler la brigade numérique.
 
 * **Dora Crisan : Développement**
 
-![Photo de Doran Crisan](/img/portfolio/DoraCrisan.png)
+![Photo de Dora Crisan](/img/portfolio/DoraCrisan.png)
 
 Dora est une techno-optimiste, convaincue que les nouvelles
 technologies peuvent avoir un fort impact positif sur l’individu comme
@@ -66,7 +66,7 @@ l'Intérieur.
 
 ![Photo de Jean-Baptiste Le Dévéhat](/img/portfolio/JeanBaptisteLeDevehat.png)
 
-A l’image de son expertise en progiciel, Jean-Baptiste est un
+À l’image de son expertise en progiciel, Jean-Baptiste est un
 couteau-suisse et un entrepreneur de la transformation
 numérique. Après 7 années de gestion de projets web, pour l’industrie,
 le service et la distribution, Jean-Baptiste a créé la marque
@@ -107,8 +107,21 @@ renforcée. »*
 
 ![Photo de Rémy Nollet](/img/portfolio/remynollet.jpg)
 
-Ingénieur issu de l’école Polytechnique, le lieutenant-colonel Rémy Nollet, après un stage de
-recherche à l’université de Berkeley, choisit de devenir officier de gendarmerie en 2005. Optant pour une dominante de carrière en sécurité publique générale, il commande durant 3 ans la brigade territoriale de Blanquefort (compagnie de Bordeaux). Pour son premier passage en état-major, il sert à la sous-direction administrative et financière de la DGGN, chargé des réponses aux contrôles de la Cour des comptes. De 2012 à 2016, il commande la compagnie de gendarmerie départementale de Meylan, en charge d’un territoire fortement criminogène autour de Grenoble, et participe en parallèle à la communauté des systèmes d’information métier de la gendarmerie, sous les aspects de conduite du changement et de cohérence des différents SI. Après une formation d’un an à l’école de guerre, il a rejoint le 1er juin 2017 la mission numérique de la gendarmerie nationale.
+Ingénieur issu de l’école Polytechnique, le lieutenant-colonel Rémy
+Nollet, après un stage de recherche à l’université de Berkeley,
+choisit de devenir officier de gendarmerie en 2005. Optant pour une
+dominante de carrière en sécurité publique générale, il commande
+durant 3 ans la brigade territoriale de Blanquefort (compagnie de
+Bordeaux). Pour son premier passage en état-major, il sert à la
+sous-direction administrative et financière de la DGGN, chargé des
+réponses aux contrôles de la Cour des comptes. De 2012 à 2016, il
+commande la compagnie de gendarmerie départementale de Meylan, en
+charge d’un territoire fortement criminogène autour de Grenoble, et
+participe en parallèle à la communauté des systèmes d’information
+métier de la gendarmerie, sous les aspects de conduite du changement
+et de cohérence des différents SI. Après une formation d’un an à
+l’école de guerre, il a rejoint le 1er juin 2017 la mission numérique
+de la gendarmerie nationale.
 
 « _Accueillir des EIG pour notre défi, c'est accélérer notre transformation numérique grâce à des compétences nouvelles et un regard neuf_. »
 
