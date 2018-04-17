@@ -2,6 +2,8 @@
 layout: post
 modal-id: "Comment mettre son utilisateur au centre du design de son site/sa plateforme/son outil.  Retour sur les ateliers du 22 mars (3/3)"
 author: Sophie Miljkovic, équipe EIG
+Laurie Chapotte, EIG Gobelins
+Jean-Baptiste Le Dévéhat, EIG Brigade Numérique
 twitter: MiljkovicSophie
 description: "Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source."
 ---
@@ -33,6 +35,9 @@ bouton ? » »_. Autrement dit, l'UI et l'UX sont parfaitement
 complémentaires !  L'objectif final est de créer une interface où la
 forme sert la fonctionnalité en rendant le site accessible et
 compréhensible.
+
+![Dessin très simple en blanc sur un fond noir. On y voit les parties émergée et immergée d'un iceberg. Une flèche, ayant pour légende UI, pointe la partie émergée. Deux bonhommes disent que "l'UX c'est comme un iceberg... il y a une partie invisible".](img/design-schema-UX-UI.png)
+_Le paragraphe ci-dessus en un dessin_
 
 # Comment réfléchir UI/UX ?
 
