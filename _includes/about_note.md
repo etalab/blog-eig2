@@ -13,14 +13,22 @@ défis.
 
 **L'appel à projets pour la promotion 3 est ouvert du 4 mai au 15 juin 2018.**
 
-# Appel à projets auprès des administrations pour la promotion 3 du programme
+## Appel à projets auprès des administrations pour la promotion 3 du programme
 
-L'appel à projets pour la promotion 3 du programme est ouvert du 4 mai au 15 juin 2018. Pour plus d'informations :
+L'appel à projets pour la promotion 3 du programme est ouvert du 4 mai au 15 juin 2018. Les administrations sont invitées à répondre à l'appel à projets sur le site démarches simplifiées.
+
+[**Consulter le cahier des charges**](https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf) 
+
+[**Déposer sa candidature**](https://www.demarches-simplifiees.fr/commencer/eig3)
+
+**La candidature comprend** :
+* [Une fiche détaillée, téléchargeable ici](https://entrepreneur-interet-general.etalab.gouv.fr/assets/AAPEIG3_Fichedetaillee.docx) ; 
+* Une présentation de synthèse sous forme de diapositives de 12 planches maximum (format pitch) ;
+* Une simulation financière détaillant le coût prévisionnel d’un recrutement en CDD de 10 mois à 4000 euros nets par mois (indiquer le coût total employeur), ainsi que le montant du financement PIA envisagé (70% du montant total), afin de calculer la masse salariale.  
+
+Pour plus d'informations :
 * [Blogpost Etalab présentant l'appel à projets dans les grandes lignes](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-lappel-a-projets-pour-la-promotion-3-est-ouvert)
-* Cahier des charges détaillé de l'appel à projets [https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf]
 * [S'inscrire à la réunion d'information du 15 mai 2018](https://eig3-reunion-dinformations-aap.eventbrite.fr)
-
-## [Déposer sa candidature](https://www.demarches-simplifiees.fr/commencer/eig3)
 
 Note : l'ouverture des candidatures pour le recrutement de la promotion se fera courant septembre 2018. Pour être tenu informé de l'ouverture des candidatures, contactez entrepreneur-interet-general@data.gouv.fr. 
 
