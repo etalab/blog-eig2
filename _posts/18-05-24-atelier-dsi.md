@@ -56,5 +56,5 @@ Au-delà de ces aspects techniques, les deux facteurs de pérennisation sont plu
 A l'issue de cette session, plusieurs enseignements ont été retirés : les EIG connaissent mieux le métier et le quotidien des DSI ministérielles, les DSI ont exprimés leurs attentes et proposé des solutions de pérennisation aux équipes EIG. Et enfin, nous avons appris à utiliser d'Eisenhower (la preuve en image avec les sous-titres de Jean-Baptiste).
 
 ![La matrice du défi Signaux Faibles](/img/20180517_BrigadeNumerique2.png)
-*la matrice d'Eisenhower : faire, déléguer, planifier, éliminer
+*la matrice d'Eisenhower : faire, déléguer, planifier, éliminer*
 
