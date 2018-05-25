@@ -3,7 +3,7 @@ layout: post
 modal-id: Pérenniser un projet EIG - Retour sur le séminaire avec les DSI des ministères
 author: L'équipe EIG (Bastien et Mathilde)
 twitter: etalab
-description: "Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient à la rencontre de leurs correspondants dans les directions des systèmes d'informations de leurs ministères. A l'occasion d'un atelier au Liberté Living Lab, ils ont réalisé une feuille de route de pérennisation de leurs défis."
+description: "Mercredi 16 mai, entrepreneurs d'intérêt général et mentors venaient à la rencontre de leurs correspondants dans les directions des systèmes d'informations de leurs ministères. À l'occasion d'un atelier au Liberté Living Lab, ils ont construit la feuille de route de pérennisation de leurs défis."
 ---
 
 Les designers, datascientistes et développeurs du programme EIG
@@ -33,7 +33,7 @@ production des livrables que l'élan de transformation numérique
 impulsé par la présence des EIG**.
 
 ![La pyramide de la pérennisation imaginée par Bastien en amont de la session](/img/dsi-pyramide-perennisation.jpg)
-*La pyramide de la pérennisation construite par Bastien en amont de la session*
+*La pyramide de la pérennisation, proposée par Bastien en amont de la session - © Sophie Miljkovic CC-by-sa 4.0*
 
 **C'est pourquoi nous avons proposé de classer les enjeux de pérennisation selon trois axes :** 
 
@@ -125,7 +125,7 @@ pérennise en continu puisque des formations sont proposées à
 l'ensemble de la DREES sur les projets.
 
 ![La matrice du défi Signaux Faibles](/img/20180517_SignauxFaibles.png)
-*La feuille de route de pérennisation du défi Signaux Faibles, admirez le jeu de piste !*
+*La feuille de route de pérennisation du défi Signaux Faibles, avec un jeu de piste...*
 
 Les enjeux **d'hébergement et de maintenance** sont également au coeur
 des actions. L'équipe
@@ -134,8 +134,8 @@ a par exemple besoin d'anticiper le rapatriement du code sur le cloud,
 Bastien ([EIG
 Link](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/eiglink/))
 doit prévoir le transfert de connaissances et la maintenace des
-différentes infrastructures mises à disposition (Github, serveur,
-etc.).
+différentes infrastructures mises à disposition (dépôts de code,
+serveur, etc.).
 
 Au-delà de ces aspects techniques, les deux facteurs de pérennisation
 sont clairs : **la création d'une communauté et
@@ -152,15 +152,15 @@ il s'agira d'aller chercher des communautés de développeurs dans le
 ministère et auprès des navigateurs pour observer les usages de leurs
 outils.
 
-*Petit clin d'oeil : la plupart des équipes défis sollicitent le recrutement d'un développeur comme action prioritaire*
+*Petit clin d'oeil : la plupart des équipes défis sollicitent le recrutement d'un développeur comme action prioritaire.*
 
-À l'issue de cette session, plusieurs enseignements ont été retirés :
-les EIG connaissent mieux le métier et le quotidien des DSI
-ministérielles, les DSI ont exprimés leurs attentes et proposé des
-solutions de pérennisation aux équipes EIG. Et enfin, nous avons
-appris à utiliser d'Eisenhower (la preuve en image avec les
-sous-titres de Jean-Baptiste).
+À l'issue de cette session, plusieurs enseignements : les EIG
+connaissent mieux le métier et le quotidien des DSI ministérielles,
+les DSI ont exprimés leurs attentes et proposé des solutions de
+pérennisation aux équipes EIG. Et enfin, nous avons appris à utiliser
+d'Eisenhower (la preuve en image avec les sous-titres de
+Jean-Baptiste).
 
 ![La matrice du défi Signaux Faibles](/img/20180517_BrigadeNumerique2.png)
-*La matrice d'Eisenhower : faire, déléguer, planifier, éliminer*
+*La matrice d'Eisenhower : faire, déléguer, planifier, éliminer.*
 
