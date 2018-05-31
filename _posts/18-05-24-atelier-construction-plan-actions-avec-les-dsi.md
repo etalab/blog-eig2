@@ -104,10 +104,12 @@ amont.
 
 À partir de la pyramide de pérennisation, les équipes EIG-mentors-DSI
 ont identifié les différentes actions à mener, leurs niveaux d'urgence
-et d'importance et se sont alignés sur un calendrier d'actions. Les
+et d'importance, et se sont alignés sur un calendrier d'actions. Les
 équipes ont trouvé l'exercice utile : il permet de penser la feuille
 de route globale des défis en fonction de cet enjeu de pérennisation,
-et de prioriser.  Un aperçu des actions les plus mentionnées.
+et de prioriser. 
+
+**Un aperçu des actions les plus mentionnées.**
 
 Pour la plupart des projets, deux actions semblent indispensables :
 **la documentation technique et la formation**. Par exemple, l'équipe
@@ -144,7 +146,7 @@ qui transmettra le Carrefour des innovations sociales à un collectif
 associatif à l'issue de son développement, doit identifier une
 personnes qui animera la communauté et la communication autour du
 produit. [Archifiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/archemse/)
-dispose de multiples opporunités pour faire vivre et enrichir leur
+dispose de multiples opporunités pour faire vivre et enrichir le
 produit - auprès d'autres ministères, dans des communautés
 d'archivistes, et même à l'étranger ! Pour
 [BaliseNAV](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/balisenav/),
@@ -156,7 +158,7 @@ outils.
 
 À l'issue de cette session, plusieurs enseignements : les EIG
 connaissent mieux le métier et le quotidien des DSI ministérielles,
-les DSI ont exprimés leurs attentes et proposé des solutions de
+les DSI ont exprimé leurs attentes et proposé des solutions de
 pérennisation aux équipes EIG. Et enfin, nous avons appris à utiliser
 d'Eisenhower (la preuve en image avec les sous-titres de
 Jean-Baptiste).
