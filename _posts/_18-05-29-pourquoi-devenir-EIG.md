@@ -12,6 +12,11 @@ _Tiphaine revient sur son parcours – de Dailymotion à Entrepreneur·e
 d’Intérêt Général - et nous raconte ce qui l’a poussée à s’engager
 dans le programme._
 
+![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/TiphainePheNeau.jpg)
+
+_Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
+
+
 Pour être honnête, il y a 1000 raisons pour s’engager dans le
 programme Entrepreneur·e d’Intérêt Général et si vous interrogez
 chacun des entrepreneurs vous obtiendrez chaque fois une réponse
@@ -64,6 +69,10 @@ qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 
 ### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
 
+![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/Tiphaine-Guillaume.jpg)
+
+_Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
+
 Je travaille avec Guillaume Lancrenon sur le [défi
 Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/). Guillaume
 est développeur fullstack et vient du monde de l'entrepreneuriat, je
@@ -107,7 +116,7 @@ l'administration. L’Intérêt Général consiste simplement à aider la
 société, chacun à sa façon, petit à petit. Devenir EIG, c’est comme
 notre part du colibri.
 
-_Au final, pour moi, la volonté principale d'un.e EIG est d'aider._
+**_Au final, pour moi, la volonté principale d'un.e EIG est d'aider._**
 
 (1) Ou se mettre en disponibilité, bien évidemment.
 
