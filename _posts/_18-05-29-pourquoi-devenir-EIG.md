@@ -25,6 +25,9 @@ au CTO(2) d'une entreprise française ce sur quoi je travaillais, il a
 qu'à l'inverse d'une punition, l'Intérêt Général est littéralement
 l'intérêt de tous.
 
+![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/TiphainePheNeau.jpg)
+_Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
+
 ### Alors pourquoi œuvrer pour l’Intérêt Général?
 
 Tout le monde, EIG ou pas, a déjà été révolté contre un fait de notre
@@ -63,6 +66,10 @@ qui pourraient être utiles. A ma façon, peut-être moins directement
 qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 
 ### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
+
+![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/Tiphaine-Guillaume.jpg
+) 
+_Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
 
 Je travaille avec Guillaume Lancrenon sur le [défi
 Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/). Guillaume
