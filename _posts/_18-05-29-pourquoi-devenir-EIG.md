@@ -26,6 +26,7 @@ qu'à l'inverse d'une punition, l'Intérêt Général est littéralement
 l'intérêt de tous.
 
 ![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/TiphainePheNeau.jpg)
+
 _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
 
 ### Alors pourquoi œuvrer pour l’Intérêt Général?
@@ -69,6 +70,7 @@ qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 
 ![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/Tiphaine-Guillaume.jpg
 ) 
+
 _Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
 
 Je travaille avec Guillaume Lancrenon sur le [défi
