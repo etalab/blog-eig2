@@ -13,7 +13,9 @@ d’Intérêt Général - et nous raconte ce qui l’a poussée à s’engager
 dans le programme._
 
 ![Une jeune femme se tient de trois-quart : elle a les cheveux noirs et longs, des lunettes et sourit légèrement. C'est le portrait de Tiphaine](/img/TiphainePheNeau.jpg)
+
 _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
+
 
 Pour être honnête, il y a 1000 raisons pour s’engager dans le
 programme Entrepreneur·e d’Intérêt Général et si vous interrogez
@@ -67,8 +69,8 @@ qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 
 ### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
 
-![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/Tiphaine-Guillaume.jpg
-) 
+![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/Tiphaine-Guillaume.jpg)
+
 _Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
 
 Je travaille avec Guillaume Lancrenon sur le [défi
