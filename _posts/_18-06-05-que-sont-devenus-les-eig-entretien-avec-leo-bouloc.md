@@ -1,11 +1,13 @@
 ---
 layout: post
 modal-id: Que sont devenus les EIG ? Entretien avec Léo Bouloc
-author: Sophie Miljkovic
-twitter: bzg2
-published: true
+author: Sophie Miljkovic et Bastien Guerry
+twitter: etalab
+description: "Léo Bouloc, Entrepreneur d'Intérêt Général de la première promotion, revient sur le défi qu'il a relevé avec Laurent Dupont au sein du ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation. Où en est-il ? Où  en est l'outil qu'il a développé ? On fait le point, un an après."
 ---
-## Que sont-ils devenus ?
+
+## Un an après...
+
 ### Léo Bouloc
 
 **Quand tu as entendu parler d’EIG pour la première fois, tu as pensé quoi ?**
@@ -37,3 +39,4 @@ Plutôt que « changé », je dirais qu’EIG m’a appris des choses. Après 
 
 Oui ! Je leur dirais de ne pas hésiter à poser des questions, à aller voir les gens pour leur demander des conseils, techniques, métiers ou autres, à multiplier les interactions.  Sinon, je dirais qu’il faut aussi toujours se demander ce qu’on est en train de faire. Je veux dire par là qu’il faut avoir une direction, prendre le temps de savoir ce que l’on veut faire et ne pas se lancer trop vite dans le projet. 
 En y repensant, je me dis que j’aurais dû discuter plus avec les autres EIG et parler concrètement des projets. Je me suis rendu compte vers la fin du programme que Martin Gross travaillait sur des problématiques similaires aux miennes ; je pense que si nous avions échangé plus tôt, nous aurions avancé plus vite sur nos projets respectifs.
+
