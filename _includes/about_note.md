@@ -19,7 +19,7 @@ L'appel à projets pour la promotion 3 du programme est ouvert du 4 mai au 15 ju
 
 [**Consulter le cahier des charges**](https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf) 
 
-[**Déposer sa candidature**](https://www.demarches-simplifiees.fr/commencer/eig3)
+[**Déposer sa candidature sur le site demarches-simplifiees.fr**](https://www.demarches-simplifiees.fr/commencer/eig3)
 
 **La candidature comprend** :
 * [Une fiche détaillée, téléchargeable ici](https://entrepreneur-interet-general.etalab.gouv.fr/assets/AAPEIG3_Fichedetaillee.docx) ; 
