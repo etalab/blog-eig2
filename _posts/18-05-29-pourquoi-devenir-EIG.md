@@ -47,9 +47,9 @@ apporter à la société, que ce soit d'un point de vue "makers" (4) ou
 "utilisateur".
 
 Chacun, avec ses capacités propres, peut contribuer à améliorer notre
-société_, et nous, en tant qu’EIG, le faisons avec ce que nous savons
+société, et nous, en tant qu’EIG, le faisons avec ce que nous savons
 faire. Par exemple : quand je vois une distribution de ressources
-inefficace dans certains restaurants -- oui, j’aime bien manger -- je
+inefficace dans certains restaurants (oui, j’aime bien manger) je
 me mets automatiquement à optimiser le processus dans ma tête (bon,
 c’est peut être une déformation scientifique). Mais ne vous êtes-vous
 jamais dit que les choses se passeraient mieux si on les faisait
