@@ -17,7 +17,7 @@ dans le programme._
 _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
 
 
-Pour être honnête, il y a 1000 raisons pour s’engager dans le
+"Pour être honnête, il y a 1000 raisons pour s’engager dans le
 programme Entrepreneur·e d’Intérêt Général et si vous interrogez
 chacun des entrepreneurs vous obtiendrez chaque fois une réponse
 différente. Dans cet article, je vais vous évoquer les raisons qui
@@ -34,16 +34,16 @@ l'intérêt de tous.
 
 Tout le monde, EIG ou pas, a déjà été révolté contre un fait de notre
 société : une observation, une décision, une institution. Mais combien
-d'entre nous se sont dit que nous pouvions changer tout cela? Sans
+d'entre nous se sont dit que nous pouvions changer tout cela ? Sans
 être forcément passé par une grande école comme l'ENA, l'X ou un autre
 acronyme bien-vu ?(3) Est-ce seulement possible ? Oui, et pour moi,
 c'est l'essence du programme Entrepreneur·e d'Intérêt Général.
 
 « Liberté, Egalité, Fraternité », c’est la devise française : nous
 sommes tous égaux, nous avons tous quelque chose d'intéressant à dire
-et à contribuer, que ce soit par nos parcours professionnels, nos
+et à partager, que ce soit par nos parcours professionnels, nos
 chemins de vie ou notre ressenti personnel. Nous avons quelque chose à
-apporter à la société, que ce soit d'un point de vue "makers" (4) ou
+apporter à la société, que ce soit d'un point de vue "maker" (4) ou
 "utilisateur".
 
 Chacun, avec ses capacités propres, peut contribuer à améliorer notre
@@ -76,21 +76,26 @@ _Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévi
 Je travaille avec Guillaume Lancrenon sur le [défi
 Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/). Guillaume
 est développeur fullstack et vient du monde de l'entrepreneuriat, je
-suis data scientist avec un parcours dans le privé. Ensemble, nous
-cherchons à aider les sapeurs-pompiers de l’Essonne. Leur besoin :
+suis data scientist avec un parcours dans le privé. 
+
+**Ensemble, nous cherchons à aider les sapeurs-pompiers de l’Essonne. Leur besoin :
 mieux prévoir leurs opérations pour mieux s'y préparer et rendre un
-meilleur service aux citoyens. Le travail en équipe est une réalité
-pour tous les défis EIG : designers, chefs de projet, ingénieurs de
+meilleur service aux citoyens**. 
+
+**Le travail en équipe est une réalité pour tous les défis EIG** : 
+- designers, chefs de projet, ingénieurs de
 tout niveau, genre ou âge (je vous laisse naviguer sur le site pour
 vous en rendre compte) travaillent ensemble au sein des défis, mais
 aussi entre défis, partageant leurs compétences avec les
-administrations hôtes et les autres EIG. Ce travail d’équipe, les
-nombreux échanges et la culture du partage qui irrigue notre
+administrations hôtes et les autres EIG. 
+- le travail d’équipe, les nombreux échanges et la culture du partage qui irrigue notre
 écosystème nous permettent à tous de mieux comprendre d'autres métiers
 (les sapeurs-pompiers pour Prévisecours) et d’autres spécialités du
 numérique (le design, la data science, l'administration système, la
-médiation voire la conduite de projet). C’est aussi une façon de voir
-toutes les manières dont on peut s’engager pour aider le citoyen : les
+médiation voire la conduite de projet). 
+
+**C’est aussi une façon de voir
+toutes les manières dont on peut s’engager pour aider le citoyen** : les
 défis de la 2e promotion EIG vont de la création d'une plateforme de
 partage et d'agrégation des innovations sociales
 ([SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/socialconnect/))
@@ -108,15 +113,17 @@ et c'est avec eux que nous échangeons et que nous tentons d'améliorer
 ce qui nous a préalablement peiné ou révolté. Au cœur du programme EIG
 il y a la volonté d'aider l'administration et la société par des
 projets précis. Venir, aider comme on peut, ne pas entrer dans un jeu
-politique de construction et de déconstruction. _Nous sommes là pour
-une période courte, pour tenter d'apporter notre pierre à l'édifice,
+politique de construction et de déconstruction. 
+
+_Nous sommes là pour une période courte, pour tenter d'apporter notre pierre à l'édifice,
 nos points de vue, nos façons de faire._ Nous venons montrer des
 choses différentes, des parcours différents et en apprendre plus sur
 l'administration. L’Intérêt Général consiste simplement à aider la
 société, chacun à sa façon, petit à petit. Devenir EIG, c’est comme
-notre part du colibri.
+notre part du colibri."
 
 **_Au final, pour moi, la volonté principale d'un.e EIG est d'aider._**
+
 
 (1) Ou se mettre en disponibilité, bien évidemment.
 
@@ -130,3 +137,7 @@ façon de penser. Un peu comme nous le faisons pendant 10 mois en tant
 qu'EIG.
 
 (4) Concepteur en anglais.
+
+--
+
+_Autour du programme EIG, d'autres initiatives font écho à ce sens de l'engagement et de l'innovation pour l'intérêt général. Découvrez par exemple [Latitudes](http://www.latitudes.cc/) ou [Data For Good](http://www.dataforgood.fr/). Plusieurs membres de ces collectifs sont d'ailleurs devenus EIG !_
