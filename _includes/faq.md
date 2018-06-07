@@ -138,7 +138,7 @@ de l’administration d’accueil. D’autres sont mêmes déployés dans
 d’autres services. De plus, l’obligation, sauf dérogation, de verser
 les développements réalisés en open source rend leur maintien possible
 par tous. À titre d’exemple, la promotion 1 a créé un dépôt github
-(accessible [ici)](https://github.com/eig-2017).
+(accessible [ici)](https://github.com/entrepreneur-interet-general/2017).
 
 # Comment sont préparé.es les mentors à l’accueil des EIG dans leur administration ?
 
