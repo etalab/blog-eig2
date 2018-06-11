@@ -48,7 +48,7 @@ d'une intervention.  Cela rend le travail incroyablement authentique
 et motivant.**
 
 ![Antoine pose avec Elsa devant un port. Lui porte un manteau noir et un gilet de sauvetage rouge. Elle porte une doudoune noire, une grosse écharpe écrue, un bonnet et un gilet de sauvetage rouge.](/img/article-Antoine-photo-avec-Elsa.jpg)
-_Antoine Augusti et sa collègue Elsa Luneville lors d'une excursion en mer pour mieux appréhender leur terrain._
+_Antoine Augusti et sa collègue Elsa Luneville lors d'une excursion en mer pour mieux appréhender leur terrain. (© Adrien Signorino)_
 
 **Que ces données soient exploitées pendant dix mois dans le cadre d’un
 défi EIG me semble être un premier pas dans la bonne direction, mais
