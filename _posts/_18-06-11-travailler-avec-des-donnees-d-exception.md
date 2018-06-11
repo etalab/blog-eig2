@@ -1,21 +1,24 @@
 ---
 layout: post
-modal-id: "Travailler avec des données d'exception et les rendre disponibles : retour d'expérience d'Antoine Augusti"
-author: Antoine Augusti, EIG Prédisauvetage
-twitter: 
-description: "Antoine Augusti, Entrepreneur d'intérêt général pour le défi 
-Prédisauvetage, nous parle des données qui l'ont motivé à postuler. Et de 
-la nécessité de les ouvrir pour mieux servir la société."
+modal-id: >-
+  Travailler avec des données d'exception et les rendre disponibles : retour
+  d'expérience d'Antoine Augusti
+author: 'Antoine Augusti, EIG Prédisauvetage'
+twitter: null
+description: >-
+  Antoine Augusti, Entrepreneur d'intérêt général pour le défi  Prédisauvetage,
+  nous parle des données qui l'ont motivé à postuler. Et de  la nécessité de les
+  ouvrir pour mieux servir la société.
+published: true
 ---
-
-##Travailler avec des données d'exception et les rendre disponibles : 
+## Travailler avec des données d'exception et les rendre disponibles : 
 retour d'expérience d'Antoine Augusti
 
 _Antoine Augusti, Entrepreneur d'intérêt général pour le défi 
 Prédisauvetage, nous parle des données qui l'ont motivé à postuler. Et de 
 la nécessité de les ouvrir pour mieux servir la société._
 
-"**Lorsque j'étais au lycée, j'ai choisi d'étudier l'informatique.**  J'ai
+«**Lorsque j'étais au lycée, j'ai choisi d'étudier l'informatique.**  J'ai
 choisi cette discpline parce que je la retrouvais dans une multitude
 de domaines.  Pour moi qui souhaitais travailler sur des sujets
 variés, avoir une vie professionnelle riche en découvertes, c'était
@@ -98,4 +101,4 @@ de transparence et de coopération.**
 Le défi Prédisauvetage est une parfaite illustration de la nécessité
 d'ouvrir les données.  Mais il ne s'agit que d'un exemple parmi tant
 d'autres !  Et c'est pour nous un enseignement crucial de l'aventure
-Entrepreneur·e d'Intérêt Général."
+Entrepreneur·e d'Intérêt Général.»
