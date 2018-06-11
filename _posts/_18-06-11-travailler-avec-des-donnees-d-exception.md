@@ -18,6 +18,9 @@ _Antoine Augusti, Entrepreneur d'intérêt général pour le défi
 Prédisauvetage, nous parle des données qui l'ont motivé à postuler. Et de 
 la nécessité de les ouvrir pour mieux servir la société._
 
+
+![Antoine, jeune homme blond avec des lunettes, une polaire noire et un sac à dos pose devant un port](/img/article-Antoine-photo-solo.png)_Antoine Augusti, Entrepreneur d'intérêt général pour le défi Prédisauvetage. (© Antoine Augusti)_
+
 «**Lorsque j'étais au lycée, j'ai choisi d'étudier l'informatique.**  J'ai
 choisi cette discpline parce que je la retrouvais dans une multitude
 de domaines.  Pour moi qui souhaitais travailler sur des sujets
@@ -43,6 +46,8 @@ manipuler des informations décrivant les opérations de secours, les
 moyens engagés par l'État pour aider des personnes et le bilan humain
 d'une intervention.  Cela rend le travail incroyablement authentique
 et motivant.**
+
+![Antoine pose avec Elsa devant un port. Lui porte un manteau noir et un gilet de sauvetage rouge. Elle porte une doudoune noire, une grosse écharpe écrue, un bonnet et un gilet de sauvetage rouge.](/img/article-Antoine-photo-avec-Elsa.jpg)_Antoine Augusti et sa collègue Elsa Luneville lors d'une excursion en mer pour mieux appréhender leur terrain._
 
 **Que ces données soient exploitées pendant dix mois dans le cadre d’un
 défi EIG me semble être un premier pas dans la bonne direction, mais
@@ -71,6 +76,8 @@ de leurs interventions, ni de remontée statistique au niveau national.
 L'absence ou la perte d'informations empêche le calcul de statistiques
 fiables et complètes lorsqu'on s'intéresse aux incidents nécessitant
 assistance ou secours survenus dans les eaux françaises.
+
+![Le dépôt github du défi Prédisauvetage : une page web avec plusieurs dossiers](/img/article-Antoine-github-Prédisauvetage.png)_Antoine et Elsa ouvrent leur travail en le mettant sur github._
 
 **Dans ce cas de figure, l'open data est la solution idéale.  C’est en
 respectant l’obligation légale de diffuser ces données que l'État
