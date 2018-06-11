@@ -1,7 +1,6 @@
 ---
 layout: post
-modal-id: Travailler avec des données d'exception et les rendre disponibles 
-- retour d'expérience d'Antoine Augusti
+modal-id: "Travailler avec des données d'exception et les rendre disponibles : retour d'expérience d'Antoine Augusti"
 author: Antoine Augusti, EIG Prédisauvetage
 twitter: 
 description: "Antoine Augusti, Entrepreneur d'intérêt général pour le défi 
