@@ -50,6 +50,53 @@ et motivant.**
 ![Antoine pose avec Elsa devant un port. Lui porte un manteau noir et un gilet de sauvetage rouge. Elle porte une doudoune noire, une grosse écharpe écrue, un bonnet et un gilet de sauvetage rouge.](/img/article-Antoine-photo-avec-Elsa.jpg)
 _Antoine Augusti et sa collègue Elsa Luneville lors d'une excursion en mer pour mieux appréhender leur terrain. (© Adrien Signorino)_
 
+**PROPOSITION ALTERNATIVE POUR LA DEUXIEME PARTIE**
+
+**Que ces données soient exploitées pendant dix mois dans le cadre d’un 
+défi EIG me semble être un premier pas dans la bonne direction, mais 
+avec Elsa Luneville, ma collègue, nous nous sommes rapidement rendus 
+compte que ces données pouvaient avoir une utilité pour de nombreux 
+autres acteurs** : les professionnels du secours, les départements et 
+préfectures, les fédérations d'usagers, les loueurs de matériel, les
+plaisanciers et pratiquants de loisirs nautiques, les journalistes...
+ou toute personne curieuse. 
+
+Tous ces acteurs du sauvetage en mer, bénéficieraient de façon très 
+concrète de l’open data. Dans le cadre de l'analyse de l'accidentologie
+en mer, elle permettrait d'avoir une vision complète des incidents en 
+évitant la perte de données dans les circuits de remontée d’information.
+De plus, les données de l'assistance aux personnes et aux biens en mer 
+peuvent faire l'objet de requêtes, d'analyses et de traitements si 
+variés et si spécifiques qu'une instance centrale n'est pas en position
+de pouvoir répondre à toutes les demandes.  Quand le domaine est complexe
+et les acteurs nombreux, il nous paraît crucial que l'État accompagne,
+informe et endosse un rôle de régulateur.
+
+![Le dépôt github du défi Prédisauvetage : une page web avec plusieurs dossiers](/img/article-Antoine-github-Prédisauvetage.png)
+_Antoine et Elsa ouvrent leur travail en le mettant sur github._
+
+**Dans le cas du sauvetage en mer, l'open data nous apparaît comme étant
+la solution idéale. C’est en respectant l’obligation légale de diffuser
+ces données que l'État, et dans le cas du sauvetage en mer, le Ministère
+de la Transition écologique et solidaire, remplit au mieux sa mission.**  
+Il met en place et assure les conditions d’accessibilité aux informations
+dont il dispose en assurant la collecte, mettant à disposition des 
+informations pour comprendre les jeux de données et diffusant les données
+brutes. Les réutilisateurs sont ensuite libres d'utiliser les données pour 
+de multiples usages.  De cette façon, l'État assure une transparence de 
+son action et répond aux besoins des usagers sans pour autant fournir un 
+service final, difficile à définir.  L'open data est un vecteur d'innovation
+car les données publiques sont une ressource essentielle pour de nombreux 
+innovateurs, assure une transparence de l'action menée par l'État et nourrit
+la participation citoyenne.
+
+C’est pourquoi au sein du défi Prédisauvetage et en collaboration avec 
+Etalab nous avons œuvré à l’ouverture des données SECMAR (développer 1. 
+Ce que c’est, 2. A quoi elles vous servent, 3. Le rôle d’Etalab dans l’ouverture).
+
+
+**ANICENNE VERSION DE LA DEUXIEME PARTIE**
+
 **Que ces données soient exploitées pendant dix mois dans le cadre d’un
 défi EIG me semble être un premier pas dans la bonne direction, mais
 avec Elsa Luneville, ma collègue, nous nous sommes rapidement rendus
