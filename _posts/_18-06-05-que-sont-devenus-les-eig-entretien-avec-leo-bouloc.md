@@ -32,17 +32,17 @@ intéressé !
 **Donc tu postules, tu es pris et l’aventure commence. Quel défi
 devais-tu relever ?**
 
-J’ai rejoint le Ministère de la Recherche et de l’Enseignement
-Supérieur pour développer un outil d’analyse de données.  Il permet de
+J’ai rejoint le Ministère de  l’Enseignement
+supérieur, de la Recherche et de l'Innovation, pour développer un outil d’analyse de données.  Il permet de
 relier deux fichiers de données tabulaires (.csv ou .xlsx) qui n’ont
-pas de clés de jointure.  Par exemple, si on a des noms d’entreprises
+pas de clés de jointure. Par exemple, si on a des noms d’entreprises
 avec leurs adresses, même s’il y a des fautes de frappe ou
-d’orthographe, on peut les croiser avec la base SIRENE des entreprises
-et retrouver les identifiants correspondants.  L’idée était de
+d’orthographe, on peut les croiser avec [la base SIRENE](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) des entreprises
+et retrouver les identifiants correspondants. L’idée était de
 développer un outil qui permettait d’automatiser la jointure des
 fichiers de nature variée (entreprises, publications de recherche,
 laboratoires, …) sans limite de taille.  À l’origine, les
-spécifications du projet se limitaient au développement d’une API,
+spécifications du projet se limitaient au développement d’une API (interface de programmation),
 mais une courte étude de besoins nous a amené à développer aussi une
 interface web.
 
@@ -50,33 +50,33 @@ interface web.
 opérationnel pour répondre au défi énoncé. Quel outil as-tu développé
 et qu’est-il devenu ?**
 
-Au bout de 10 mois l’outil n’était pas fini.  J’ai continué à
+Au bout de 10 mois l’outil n’était pas terminé. J’ai continué à
 travailler dessus pendant 40 jours en tant que prestataire, puis j'ai
 continué à contribuer au projet occasionnellement de façon bénévole.
-Dans les semaines qui viennent, on devrait sortir une version beta
-pour un cercle restreint de testeurs.  Une fois cette version
-« privée » testée, on aimerait sortir une version publique.  Peut-être
+Dans les semaines qui viennent, une version beta devrait sortir
+pour un cercle de testeurs.  Une fois cette version
+« privée » testée, on aimerait sortir une version publique. Peut-être
 avant l’été.
 
-**Maintenant que tu y as travaillé, l’administration ça t’évoque
+**Maintenant que tu y as travaillé, l’administration, ça t’évoque
 quoi ?**
 
 Ce n’était pas la première fois que je travaillais dans
-l’administration.  J’avais notamment fait un stage à Étalab au moment
-de la création de la mission de l’Administrateur Général des Données :
-j’étais « chief data officer intern ».  Au ministère de la recherche,
+l’administration. J’avais notamment fait un stage à Étalab au moment
+de la création de la mission de [l’Administrateur Général des Données](https://agd.data.gouv.fr/) :
+j’étais « chief data officer intern ». Au ministère de la recherche,
 je suis tombé dans une équipe gérée de façon humaine, pragmatique et
-enthousiaste.  On avait peu de normes, de conventions et on était axé
+enthousiaste.  Nous avions peu de normes, de conventions et nous étions concentrés
 sur ce qu’on faisait.  Aujourd’hui, j’ai envie de continuer à
-travailler sur le projet, même si je ne sais pas comment ça pourrait
-s’organiser concrètement.
+travailler sur le projet, même si je ne sais pas comment cela pourrait
+s’organiser concrètement. J'ai récemment montré le produit aux équipes d'Etalab, qui étudie la possibilité d'en faire un produit interministériel.
 
 **Et aujourd’hui, tu es plutôt « entrepreneur », « intérêt général »
 ou autre chose encore ?**
 
 Je ne sais pas trop comment répondre à cette question…
 
-**Faisons un avant/après : qu’est-ce que EIG a changé pour toi ?**
+**Faisons un avant/après : qu’est-ce que le programme EIG a changé pour toi ?**
 
 Plutôt que « changé », je dirais qu’EIG m’a appris des choses.  Après
 cinq stages et un court contrat de consultant, c’était ma première
