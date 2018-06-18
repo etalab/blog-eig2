@@ -87,7 +87,7 @@ données publiques sont une ressource essentielle pour de nombreux
 innovateurs, assure une transparence de l'action menée par l'État et
 nourrit la participation citoyenne.
 
-**Nous y voyons également deux intérêts stratégiques.** Premièrement, 
+Nous y voyons également deux intérêts stratégiques. Premièrement, 
 cela permettrait d'accroître la transparence dans le
 secteur de la mer soumis au poids de la tradition et des enjeux de l'armée.
 Deuxièmement, l'activité de secours à la personne
