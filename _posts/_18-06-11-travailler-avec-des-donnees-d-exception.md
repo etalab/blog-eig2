@@ -97,7 +97,7 @@ et de l'ouverture des données des secteurs du maritime et des secours est
 essentielle pour ancrer dans l'avenir la volonté de transparence et de coopération.
 
 **C’est pourquoi au sein du défi Prédisauvetage et en collaboration avec
-Etalab, nous avons œuvré à l’ouverture des données SECMAR.** Ce jeu de données
+Etalab, nous avons œuvré à l’ouverture des données SECMAR (secours maritime).** Ce jeu de données
 contient toutes les données statistiques disponibles informatiquement
 sur les interventions d'assistance et de sauvetage coordonnées par les CROSS
 (Centres régionaux opérationnels de surveillance et de sauvetage).
