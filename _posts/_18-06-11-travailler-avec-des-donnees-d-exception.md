@@ -56,16 +56,16 @@ matériel, les plaisanciers et pratiquants de loisirs nautiques, les
 journalistes...  ou toute personne curieuse.
 
 Tous ces acteurs du sauvetage en mer bénéficieraient de façon très
-concrète de l’open data.  Dans le cadre de l'analyse de
-l'accidentologie en mer, elle permettrait d'avoir une vision complète
+concrète de l’open data. Dans le cadre de l'analyse de
+l'accidentologie en mer, l'open data permettrait d'avoir une vision complète
 des incidents en évitant la perte de données dans les circuits de
 remontée d’information.  De plus, les données de l'assistance aux
 personnes et aux biens en mer peuvent faire l'objet de requêtes,
 d'analyses et de traitements si variés et si spécifiques qu'une
 instance centrale n'est pas en position d'anticiper tous les besoins.
 Quand le domaine est complexe et les acteurs nombreux, il nous paraît
-essentiel que l'État accompagne, informe et publie les données, mais
-sans centraliser la vision des usages possibles.
+essentiel que l'État accompagne, informe et publie les données,
+sans pour autant centraliser la vision des usages possibles.
 
 ![Le dépôt GitHub du défi Prédisauvetage : une page web avec plusieurs
 dossiers](/img/article-Antoine-github-Prédisauvetage.png) _Antoine et
@@ -77,8 +77,8 @@ diffuser ces données que l'État, et dans le cas du sauvetage en mer,
 le Ministère de la Transition écologique et solidaire, remplit au
 mieux sa mission.** Il met en place et assure les conditions
 d’accessibilité aux informations dont il dispose en assurant la
-collecte, mettant à disposition des informations pour comprendre les
-jeux de données et diffusant les données brutes. Les réutilisateurs
+collecte, en mettant à disposition des informations pour comprendre les
+jeux de données et en diffusant les données brutes. Les réutilisateurs
 sont ensuite libres d'utiliser les données pour de multiples usages.
 De cette façon, l'État assure une transparence de son action et répond
 aux besoins des usagers sans pour autant fournir un service final,
@@ -87,8 +87,7 @@ données publiques sont une ressource essentielle pour de nombreux
 innovateurs, assure une transparence de l'action menée par l'État et
 nourrit la participation citoyenne.
 
-Nous y voyons également deux intérêts stratégiques. Premièrement, 
-cela permettrait d'accroître la transparence dans le
+Nous y voyons également deux intérêts stratégiques. Premièrement, cela permettrait d'accroître la transparence dans le
 secteur de la mer soumis au poids de la tradition et des enjeux de l'armée.
 Deuxièmement, l'activité de secours à la personne
 est encore difficile d'accès. Il regroupe en France de nombreux
@@ -98,7 +97,7 @@ et de l'ouverture des données des secteurs du maritime et des secours est
 essentielle pour ancrer dans l'avenir la volonté de transparence et de coopération.
 
 **C’est pourquoi au sein du défi Prédisauvetage et en collaboration avec
-Etalab nous avons œuvré à l’ouverture des données SECMAR.** Ce jeu de données
+Etalab, nous avons œuvré à l’ouverture des données SECMAR.** Ce jeu de données
 contient toutes les données statistiques disponibles informatiquement
 sur les interventions d'assistance et de sauvetage coordonnées par les CROSS
 (Centres régionaux opérationnels de surveillance et de sauvetage).
@@ -116,7 +115,7 @@ cruciale pour dégager des tendances concernant l'accidentologie : comment évol
 dans le temps, quel est l'impact de la météo, quels motifs se répètent dans le temps,
 comment l'évolution réglementaire impacte les opérations etc.
 
-**Etalab a été un acteur incontournable pour nous assister** à présenter l'intérêt d'une ouverture
+**Etalab a été un acteur incontournable pour nous accompagner** à présenter l'intérêt d'une ouverture
 de ce jeu de données, l'open data et la réglementation associée ainsi que les possibilités
 offertes par une transparence accrue. Ceci a permis à notre direction de comprendre et s'approprier
 pleinement les raisons d'êtres d'une politique axée sur l'open data.
