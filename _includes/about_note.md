@@ -50,5 +50,5 @@ Note : l'ouverture des candidatures pour le recrutement de la promotion se fera 
 * [Règlement du Programme EIG - Promotion 2 ](https://entrepreneur-interet-general.etalab.gouv.fr/assets/EIG-promotion2_reglement_programme_VFF.pdf)
 * [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
 * [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
-* Contact : [entrepreneur-interet-general@etalab.gouv.fr](mailto:entrepreneur-interet-general@etalab.gouv.fr)
+* Contact : [entrepreneur-interet-general@etalab.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)
 
