@@ -30,7 +30,7 @@ _L'équipe Signaux Faibles a un programme visiblement très chargé © Sophie Mi
 ![Un parmi les ambitieux objectifs d'Archifiltre : compter le secrétaire d'État chargé du numérique parmi ses abonnés Twitter](/img/Matrice-Archifiltre.jpg)
 _Archifiltre vise haut © Sophie Miljkovic_
 
-![Les objectifs de Social Connect tout en dessins et en humour](/img/Matrice-Archifiltre.jpg)
+![Les objectifs de Social Connect tout en dessins et en humour](/img/Matrice-Social-Connect.jpg)
 _Social Connect, ses dessins, son humour et son ambition © Sophie Miljkovic_
 
 ## Accompagnement de la promotion EIG : que faire...
