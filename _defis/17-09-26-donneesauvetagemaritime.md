@@ -1,6 +1,7 @@
 ---
 layout: defi
 modal-id: "PrédiSauvetage : sauver des vies en mer en prévenant les accidents maritimes grâce aux données"
+title: "PrédiSauvetage : sauver des vies en mer en prévenant les accidents maritimes grâce aux données"
 owner: Ministère de la Transition écologique et solidaire, Direction des affaires maritimes
 project-date: Janvier 2018
 img: /img/portfolio/1_MTES.png

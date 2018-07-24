@@ -1,6 +1,7 @@
 ---
 layout: defi
 modal-id: "b@liseNAV : rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée"
+title: "b@liseNAV : rendre les trajets en mer plus sûrs en réalisant une carte marine augmentée"
 owner: Ministère des Armées, Service hydrographique et océanographique de la Marine (Shom)
 project-date: Janvier 2018
 img: /img/portfolio/5_balisage.png

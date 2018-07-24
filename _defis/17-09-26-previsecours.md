@@ -1,6 +1,7 @@
 ---
 layout: defi
 modal-id: "Prévisecours : aider les sapeurs-pompiers à intervenir plus efficacement avec des modèles prédictifs"
+title: "Prévisecours : aider les sapeurs-pompiers à intervenir plus efficacement avec des modèles prédictifs"
 owner: Ministère de l'Intérieur, Mission de coordination et d'appui à la valorisation des données
 project-date: Janvier 2018
 img: /img/portfolio/4_Previsecours.png

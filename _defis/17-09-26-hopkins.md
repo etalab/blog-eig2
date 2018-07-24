@@ -1,6 +1,7 @@
 ---
 layout: defi
 modal-id: 'Hopkins : lutter contre la fraude financière et enrayer l''économie souterraine'
+title: 'Hopkins : lutter contre la fraude financière et enrayer l''économie souterraine'
 owner: Ministère de l'Action et des Comptes Publics
 project-date: Janvier 2018
 img: /img/portfolio/7_MACP.png

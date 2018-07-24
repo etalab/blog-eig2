@@ -1,6 +1,7 @@
 ---
 layout: defi
 modal-id: "Brigade Numérique : mettre en place un accueil numérique de la gendarmerie au service des citoyens"
+title: "Brigade Numérique : mettre en place un accueil numérique de la gendarmerie au service des citoyens"
 owner: Ministère de l'Intérieur, Direction générale de la gendarmerie nationale (DGGN)
 project-date: Janvier 2018
 img: /img/portfolio/10_brigadenumerique.png

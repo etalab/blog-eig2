@@ -4,6 +4,7 @@ project-date: Janvier 2018
 img: /img/portfolio/11_EIGLink.png
 misc: 'devops, développement, coaching'
 modal-id: "EIG Link : accompagner une communauté inédite d'entrepreneur·e·s au sein de l'État"
+title: "EIG Link : accompagner une communauté inédite d'entrepreneur·e·s au sein de l'État"
 owner: Services du Premier Ministre, Direction interministérielle du numérique et du système d'information et de communication de l'État, Etalab
 category: defi
 ---

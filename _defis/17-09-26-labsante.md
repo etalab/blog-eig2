@@ -1,6 +1,7 @@
 ---
 layout: defi
 modal-id: "Lab Santé : améliorer la santé des Français en valorisant les données du système de santé"
+title: "Lab Santé : améliorer la santé des Français en valorisant les données du système de santé"
 owner: Ministère des Solidarités et de la Santé, Direction de la recherche, des études, de l’évaluation et des statistiques
 project-date: Janvier 2018
 img: /img/portfolio/2_Labsanté (2).png
