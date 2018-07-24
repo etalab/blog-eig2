@@ -1,70 +1,97 @@
 ---
 layout: post
-modal-id: "Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et l'accompagnement de l'équipe EIG"
+modal-id: "Bilan à mi-parcours : itération sur les feuilles de routes des défis EIG et l'accompagnement de l'équipe EIG"
 author: "Sophie Miljkovic, équipe EIG"
 twitter: MiljkovicSophie
 description: "Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement qu'offre l'équipe EIG. En voici une synthèse."
 ---
 
-"**Itération**" fait partie des mots clés du programme "Entrepreneur·e d'Intérêt Général" ; il décrit l'action de revenir régulièrement et fréquemment sur ce qui a été fait pour en tirer des pistes d'amélioration. Pour les EIG et les mentors, il s'agit d'une méthode de travail rapidement intégrée pour avancer et parvenir à produire en 10 mois une solution viable et partagée. Pour l'équipe d'accompagnement, il s'agit d'un processus indispensable pour améliorer le programme qui en est à sa troisième année d'existence. 
+"**Itération**" fait partie des mots clés du programme "Entrepreneur·e
+d'Intérêt Général" ; il décrit l'action de revenir régulièrement et
+fréquemment sur ce qui a été fait pour en tirer des pistes
+d'amélioration. Pour les EIG et les mentors, il s'agit d'une méthode
+de travail rapidement intégrée pour avancer et parvenir à produire en
+10 mois une solution viable et partagée. Pour l'équipe
+d'accompagnement, il s'agit d'un processus indispensable pour
+améliorer le programme qui en est à sa troisième année d'existence.
 
-_Retours sur une session à mi-parcours riche pour les EIG, leurs mentors et l'équipe d'accompagnement._
+_Retours sur une session à mi-parcours riche pour les EIG, leurs
+mentors et l'équipe d'accompagnement._
 
 ## Itération sur les feuilles de route des défis
 
-Le premier objectif de cette session à mi-parcours était de revenir sur [la feuille de route dessinée en début d'année](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/04/construire-une-feuille-de-route-partagee/) et de préciser les objectifs de court, moyen et long termes pour les 5 mois à venir. Cette itération s'est faite en équipe, EIG et mentors réunis et a permis de réaligner les objectifs fixés en début d'année, les critères de réussites, les contraintes à intégrer, etc. 
+Le premier objectif de cette session à mi-parcours était de revenir
+sur [la feuille de route dessinée en début
+d'année](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/04/04/construire-une-feuille-de-route-partagee/)
+et de préciser les objectifs de court, moyen et long termes pour les 5
+mois à venir.  Cette itération s'est faite en équipe, EIG et mentors
+réunis.  Elle a permis de réaligner les objectifs fixés en début
+d'année, les critères de réussites, les contraintes à intégrer, etc.
 
-Remplies avec plus ou moins de détails, de dessins et d'humour, les matrices qui ont servi de support à cet exercice ont toutes fait ressortir une chose : il reste encore **beaucoup** à faire.
+Remplies avec plus ou moins de détails, de dessins et d'humour, les
+matrices servant de support à cet exercice ont toutes fait ressortir
+une chose : il reste encore **beaucoup** à faire.
 
 mettre des exemples de matrices voir des matrices vides ?
+
 + synthèse des actions les plus significatives sur la base des notes prise lors de la restitution. Ex (au pif) : 
-- a court terme : tests utilisateurs (mettre exemple de quelques défis)
+- à court terme : tests utilisateurs (mettre exemple de quelques défis)
 - à moyen terme : généralisation à d'autres parties prenantes, modèle économique, intégration de donénes, etc.
 - à long terme : documtentation ....
-
-
 
 ![Les objectifs de Signaux Faibles avec beaucoup de post-it](/img/session-mentors-2.jpg)
 _Soizic Pénicaud, membre de l'équipe EIG au sein d'Etalab, anime cette session de retour d'expérience © Sophie Miljkovic_
 
-
 ## Accompagnement de la promotion EIG : que faire...
 
-... de nouveau ? De mieux ? Plus ? Moins ? Plus du tout ? En deuxième partie de la session, la parole a été donnée aux EIG et aux mentors pour proposer des évolutions du programme d'accompagnement de la promotion. 
+... de nouveau ? De mieux ? Plus ? Moins ? Plus du tout ? En deuxième
+partie de la session, EIG et mentors se sont exprimés pour proposer
+des évolutions du programme d'accompagnement de la promotion.
 
-L'équipe EIG d'Etalab revisite constamment ce programme d'accompagnement : les résultats d'une session d'accompagnement entraînent une réorganisation de celle d'après, le travail de coaching et de médiation d'un défi provoque souvent l'identification d'un besoin commun à tous les défis qui peut être abordé en session collective, une discussion avec des EIG peut faire émerger une nouvelle idée de format, etc. 
+L'équipe EIG d'Etalab revisite régulièrement ce programme : les
+résultats d'une session d'accompagnement entraînent une réorganisation
+de celle d'après, le travail de médiation auprès d'un défi provoque
+souvent l'identification d'un besoin commun à d'autres défis, besoin
+qui peut ensuite être abordé en session collective, une discussion
+avec des EIG peut faire émerger une nouvelle idée de format, etc.
 
-Le 14 juin a été l'occasion de faire le point de façon plus structurée et de recueillir de nombreuses pistes d'amélioration. 
+Le 14 juin a été l'occasion de faire le point de façon plus structurée
+et de recueillir de nombreuses pistes d'amélioration.
 
 ![Une matrice d'évaluation de l'accompagnement du programme](/img/session-mentors-2.jpg)
 _Soizic Pénicaud, membre de l'équipe EIG au sein d'Etalab, anime cette session de retour d'expérience © Sophie Miljkovic_
 
-Les EIG ont proposé des pistes d'amélioration dans cinq grands domaines : l'accueil des EIG dans leurs administrations, la façon dont le travail est organisé, la mutualisation des ressources entre défis, les projets inter-défis et la mobilisation de l'écosystème EIG. 
+Les EIG ont proposé des pistes d'amélioration dans cinq grands
+domaines : l'accueil des EIG dans leurs administrations, la façon dont
+le travail est organisé, la mutualisation des ressources entre défis,
+les projets inter-défis et la mobilisation de l'écosystème EIG.
 
 mettre des exemples / classifier / synthétiser
 
 >> [**Accéder aux retours détaillés des EIG sur l'accompagnement de l'équipe d'accompagnement**](https://speakerdeck.com/eig2018/eig-2018-session-de-bilan-a-mi-parcours-avec-les-mentors).  = attention mauvais lien !
 
-Les commentaires des mentors sont en grande partie le reflet des commentaires des EIG. Parmi les thèmes qui leur tiennent à coeur : 
-- mieux préparer l'accueil des EIG (achat d'ordinateurs, documentation technique, etc.)
-- organiser un "bootcamp" des mentors pour consolider le collectif
-- accéder à des formations en amont (design, cours de code, cadre légal, etc.)
-- réfléchir bien en amont à la pérennisation des solutions développées 
-- disposer d'un centre de ressources et de partage entre mentors
-- réaliser davantage de "démos" des outils dans les ministères
-- être encore plus guidés dans la communication (interne et externe)
+Les commentaires des mentors sont en grande partie le reflet des
+commentaires des EIG. Parmi les thèmes qui leur tiennent à coeur :
 
+- mieux préparer l'accueil des EIG (achat d'ordinateurs, documentation
+  technique, etc.) ;
+- organiser un "bootcamp" des mentors pour consolider le collectif ;
+- accéder à des formations en amont (design, cours de code, cadre
+  légal, etc.) ;
+- réfléchir bien en amont à la pérennisation des solutions développées ;
+- disposer d'un centre de ressources et de partage entre mentors ;
+- réaliser davantage de "démos" des outils dans les ministères ;
+- être encore plus guidés dans la communication (interne et externe).
 
-Une question plus générale a également émergé : les besoins dépassant l'offre du programme, comment recruter des talents du numérique en dehors du programme EIG ? Une des solutions évoquées : créer une bourse d'emploi interministériel de 30 ETP qui fonctionnerait comme une agence.
+Une question plus générale a également émergé : les besoins dépassant
+l'offre du programme, comment recruter des talents du numérique en
+dehors du programme EIG ? Une des solutions évoquées : créer une
+bourse d'emploi interministérielle de 30 ETP qui fonctionnerait comme
+une agence.
 
 lien session mentors
 
-
 ## Un bilan en image ??? Pourquoi ne pas faire un blogpost séparé pour présenter les slides du demo-day ??? = oui
 
-dire que cette session a permis de réaligner les eig et les mentors et de prioriser
-ces priorités ont été présentées en démo day
-
-
-
-
+dire que cette session a permis de réaligner les eig et les mentors et
+de prioriser ces priorités ont été présentées en démo day
