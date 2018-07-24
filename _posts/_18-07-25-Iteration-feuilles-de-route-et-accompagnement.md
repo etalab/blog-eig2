@@ -6,8 +6,8 @@ twitter: MiljkovicSophie
 description: "Le 14 juin dernier s'est tenue une session de bilan à mi-parcours. L'occasion pour les EIG et leurs mentors de faire le point sur leurs défis et d'adapter la feuille de route des 5 mois à venir. L'occasion aussi de faire des retours sur l'accompagnement qu'offre l'équipe EIG. En voici une synthèse."
 ---
 
-"**Itération**" fait partie des mots clés du programme "Entrepreneur·e
-d'Intérêt Général" ; il décrit l'action de revenir régulièrement et
+*Itération* fait partie des mots clés du programme « Entrepreneur·e
+d'Intérêt Général » ; il décrit l'action de revenir régulièrement et
 fréquemment sur ce qui a été fait pour en tirer des pistes
 d'amélioration. Pour les EIG et les mentors, il s'agit d'une méthode
 de travail rapidement intégrée pour avancer et parvenir à produire en
