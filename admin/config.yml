@@ -16,7 +16,7 @@ collections:
     title: {{modal-id}}
     fields:
       - {label: "Layout", name: "layout",  widget: "hidden", default: "post"}
-      - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
+      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
       - {label: "Porteur", name: "owner", widget: "string"}
       - {label: "Date", name: "project-date", widget: "string"}
       - {label: "Image", name: "img", widget: "image"}
@@ -33,7 +33,7 @@ collections:
     title: {{modal-id}}
     fields:
       - {label: "Layout", name: "layout",  widget: "hidden", default: "post"}
-      - {label: "Titre", name: "modal-id", widget: "string", tagname: "h1"}
+      - {label: "Titre", name: "title", widget: "string", tagname: "h1"}
       - {label: "Porteur", name: "owner", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
       
