@@ -24,9 +24,14 @@ mettre des exemples de matrices voir des matrices vides ?
 
 
 
-![Les objectifs de Signaux Faibles avec beaucoup de post-it](/img/session-mentors-2.jpg)
-_Soizic Pénicaud, membre de l'équipe EIG au sein d'Etalab, anime cette session de retour d'expérience © Sophie Miljkovic_
+![Les objectifs de Signaux Faibles avec beaucoup de post-it](/img/Matrice-Signaux-Faibles.jpg)
+_L'équipe Signaux Faibles a un programme visiblement très chargé © Sophie Miljkovic_
 
+![Un parmi les ambitieux objectifs d'Archifiltre : compter le secrétaire d'État chargé du numérique parmi ses abonnés Twitter](/img/Matrice-Archifiltre.jpg)
+_Archifiltre vise haut © Sophie Miljkovic_
+
+![Les objectifs de Social Connect tout en dessins et en humour](/img/Matrice-Archifiltre.jpg)
+_Social Connect, ses dessins, son humour et son ambition © Sophie Miljkovic_
 
 ## Accompagnement de la promotion EIG : que faire...
 
@@ -36,8 +41,8 @@ L'équipe EIG d'Etalab revisite constamment ce programme d'accompagnement : les 
 
 Le 14 juin a été l'occasion de faire le point de façon plus structurée et de recueillir de nombreuses pistes d'amélioration. 
 
-![Une matrice d'évaluation de l'accompagnement du programme](/img/session-mentors-2.jpg)
-_Soizic Pénicaud, membre de l'équipe EIG au sein d'Etalab, anime cette session de retour d'expérience © Sophie Miljkovic_
+![Une matrice d'évaluation de l'accompagnement du programme](Matrice-evaluation-accompagnement.png)
+_La matrice qui a guidé les retours des EIG et des mentors sur le programme d'accompagnement © Sophie Miljkovic_
 
 Les EIG ont proposé des pistes d'amélioration dans cinq grands domaines : l'accueil des EIG dans leurs administrations, la façon dont le travail est organisé, la mutualisation des ressources entre défis, les projets inter-défis et la mobilisation de l'écosystème EIG. 
 
@@ -54,17 +59,11 @@ Les commentaires des mentors sont en grande partie le reflet des commentaires de
 - réaliser davantage de "démos" des outils dans les ministères
 - être encore plus guidés dans la communication (interne et externe)
 
-
 Une question plus générale a également émergé : les besoins dépassant l'offre du programme, comment recruter des talents du numérique en dehors du programme EIG ? Une des solutions évoquées : créer une bourse d'emploi interministériel de 30 ETP qui fonctionnerait comme une agence.
 
-lien session mentors
+_lien session mentors => l'article mentor sera publié après l'article mi-parcours donc le lien n'existera pas encore. C'est plutôt l'inverse qu'il faut faire, non ?_
 
-
-## Un bilan en image ??? Pourquoi ne pas faire un blogpost séparé pour présenter les slides du demo-day ??? = oui
-
-dire que cette session a permis de réaligner les eig et les mentors et de prioriser
-ces priorités ont été présentées en démo day
-
+Cette session a permis à chaque équipe-défi de dessiner sa feuille de route pour les 5 mois à venir : EIG et mentors ont décidé ensemble des priorités et se sont alignés sur les objectifs de court, moyen et long termes. Des objectifs intégrés aux présentations qu'ont faites les EIG lors d'un Demo-day de mi-parcours. Blogpost à suivre.
 
 
 
