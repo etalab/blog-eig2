@@ -41,7 +41,7 @@ L'équipe EIG d'Etalab revisite constamment ce programme d'accompagnement : les 
 
 Le 14 juin a été l'occasion de faire le point de façon plus structurée et de recueillir de nombreuses pistes d'amélioration. 
 
-![Une matrice d'évaluation de l'accompagnement du programme](Matrice-evaluation-accompagnement.png)
+![Une matrice d'évaluation de l'accompagnement du programme](/img/Matrice-evaluation-accompagnement.png)
 _La matrice qui a guidé les retours des EIG et des mentors sur le programme d'accompagnement © Sophie Miljkovic_
 
 Les EIG ont proposé des pistes d'amélioration dans cinq grands domaines : l'accueil des EIG dans leurs administrations, la façon dont le travail est organisé, la mutualisation des ressources entre défis, les projets inter-défis et la mobilisation de l'écosystème EIG. 
