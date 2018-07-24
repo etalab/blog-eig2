@@ -46,9 +46,6 @@ Les EIG ont proposé des pistes d'amélioration dans cinq grands domaines : l'ac
 ![Un tableau reprenant les 5 domaines de recommandations et le détail de ces recommandations](/img/Retours-EIG.png)
 _Tous les retours des EIG © Sophie Miljkovic_
 
-
->> [**Accéder aux retours détaillés des EIG sur l'accompagnement de l'équipe d'accompagnement**](https://speakerdeck.com/eig2018/eig-2018-session-de-bilan-a-mi-parcours-avec-les-mentors).  = attention mauvais lien !
-
 Les commentaires des mentors sont en grande partie le reflet des commentaires des EIG. Parmi les thèmes qui leur tiennent à coeur : 
 - mieux préparer l'accueil des EIG (achat d'ordinateurs, documentation technique, etc.) ;
 - organiser un "bootcamp" des mentors pour consolider le collectif ;
