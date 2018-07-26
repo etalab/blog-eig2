@@ -1,41 +1,73 @@
 ---
 layout: post
-modal-id: ??? Entrée de blog technique : Tensorflow par Victor Schmidt
+modal-id: "Entrée de blog technique : Tensorflow par Victor Schmidt"
 author: Victor Schmidt, EIG Hopkins 
 twitter: Vict0rSch
-description: "???"
+description: "Victor Schmidt est datascientist et EIG dans le défi Hopkins.  Il publie des articles techniques sur https://vict0rsch.github.io pour apprendre et partager ce qu'il apprend.  Dans cette entrée de blog technique, il nous met dans la situation d'un développeur cherchant à corriger un problème qu'il rencontre avec son code."
 ---
-## Entrée de blog technique : Tensorflow (retravailler le titre)
 
-Ici, faire une petite introduction. Quelques propositions :
-- parler de pourquoi on intègre des blogposts techniques ;
-- parler de la démarche de Victor pour apprendre aux autres en parlant de son expérience (apprentissage pair à pair).
+# Pourquoi une entrée de blog technique ?
 
-# Introduction
+*Le programme EIG mise sur l'efficacité d'équipes restreintes, où les
+personnes ayant des compétences techniques (designers, développeurs ou
+analystes de données) travaillent en lien étroit avec les experts d'un
+service de l'administration.  Le dialogue qui se noue exige, pour être
+efficace, d'ajuster les fins (des mentors) aux moyens (des EIG) : cet
+ajustement est plus efficace quand les EIG se familiarisent vite avec
+le domaine métier des mentors, et quand les mentors comprennent quels
+moyens sont mobilisables par les EIG.*
 
-Je me suis récemment retrouvé dans une situation difficile. 
-Bien qu'avec `tf.saved_model.simple_save` et `tf.saved_model.
-loader.load` il n'ait jamais été aussi facile de sauvegarder/
-charger un modèle Tensorflow, il existe peu de documentation 
-sur l'interaction entre ces fonctions et l'API Dataset, 
-particulièrement sur comment restaurer l'`Iterator` d'un 
-`tf.data.Dataset`.
+*Avec cet article de Victor, le blog EIG accueille des articles plus
+techniques : nous sommes persuadés qu'il est important de comprendre
+comment les développeurs abordent leurs problèmes pour travailler avec
+eux.  Nous souhaitons aussi que ce blog participe du vaste dialogue
+technique que la culture de l'open source aide à nourrir.*
 
-Ce post contient du code autonome et déterministe parce qu'il 
-n'y a pas mieux qu'un bon exemple pour apprendre: j'y crée un
-modèle, le sauvegarde, le restaure dans un nouveau graph et 
-vérifie que les inférences concordent. Le code est écrit pour 
-python 3 et Tensorflow 1.8.
+# [Titre]
 
-# Code
+## [Introduction]
 
-Ci après, un exemple minimal de code autonome. J'utilise des données aléatoires parce que ce n'est qu'une démonstration:
+Je me suis récemment retrouvé dans une situation difficile.  Bien
+qu'avec `tf.saved_model.simple_save` et `tf.saved_model.loader.load`
+il n'ait jamais été aussi facile de sauvegarder ou de charger un
+modèle Tensorflow, il existe peu de documentation sur l'interaction
+entre ces fonctions et l'API Dataset, particulièrement sur la façon
+restaurer l'`Iterator` d'un `tf.data.Dataset`.
 
-1. On commence par créer les `placeholder`. Ils contiendront les données à l'exécution du graph. À partir de ceux-ci, on crée un `Dataset` et son `Iterator` associé. On en extrait le Tensor généré en sortie, `input_tensor` qui servira d'entrée au modèle.
-2. Le modèle en question est un RNN bi-directionnel (GRU) suivi d'un classifier dense en sortie. Parce que pourquoi pas. 
-3. La fonction de coût est une `softmax_cross_entropy_with_logits` optimisée par `Adam`. Après 2 epochs (de 2 batchs chacune), le modèle "entrainé" est sauvegardé avec `tf.saved_model.simple_save`. [Si vous exécutez le code tel quel, le model sera créé dans un dossier `./simple/`]
-4. Dans un nouveau graph, on restaure le modèle sauvegardé avec `tf.saved_model.loader.load`. Les placeholders et logits sont extraits avec `graph.get_tensor_by_name` et l'opération d'initialisation de l'`Iterator` grâce à `graph.get_operation_by_name`.
-5. Enfin, on compare l'inférence des deux modèles pour chaque batch dans le dataset et on vérifie que le modèle sauvegardé et le restauré produisent les mêmes valeurs. Ça marche!
+Ce post contient du code autonome et déterministe parce qu'il n'y a
+pas mieux qu'un bon exemple pour apprendre : j'y crée un modèle, le
+sauvegarde, le restaure dans un nouveau graph et vérifie que les
+inférences concordent. Le code est écrit pour python 3 et Tensorflow
+1.8.
+
+## [Code]
+
+Ci après, un exemple minimal de code autonome. J'utilise des données
+aléatoires parce que ce n'est qu'une démonstration:
+
+1. On commence par créer les `placeholder`. Ils contiendront les
+   données à l'exécution du graph. À partir de ceux-ci, on crée un
+   `Dataset` et son `Iterator` associé. On en extrait le Tensor généré
+   en sortie, `input_tensor` qui servira d'entrée au modèle.
+   
+2. Le modèle en question est un RNN bi-directionnel (GRU) suivi d'un
+   classifier dense en sortie. Parce que pourquoi pas.
+   
+3. La fonction de coût est une `softmax_cross_entropy_with_logits`
+   optimisée par `Adam`. Après 2 epochs (de 2 batchs chacune), le
+   modèle "entrainé" est sauvegardé avec
+   `tf.saved_model.simple_save`. [Si vous exécutez le code tel quel,
+   le model sera créé dans un dossier `./simple/`]
+   
+4. Dans un nouveau graph, on restaure le modèle sauvegardé avec
+   `tf.saved_model.loader.load`. Les placeholders et logits sont
+   extraits avec `graph.get_tensor_by_name` et l'opération
+   d'initialisation de l'`Iterator` grâce à
+   `graph.get_operation_by_name`.
+   
+5. Enfin, on compare l'inférence des deux modèles pour chaque batch
+   dans le dataset et on vérifie que le modèle sauvegardé et le
+   restauré produisent les mêmes valeurs. Ça marche !
 
 {% highlight python %}
 import os
@@ -43,7 +75,6 @@ import shutil
 import numpy as np
 import tensorflow as tf
 from tensorflow.python.saved_model import tag_constants
-
 
 def model(graph, input_tensor):
     """Create the model which consists of
@@ -72,7 +103,6 @@ def model(graph, input_tensor):
 
         return dense
 
-
 def get_opt_op(graph, logits, labels_tensor):
     """Create optimization operation from model's logits and labels
 
@@ -93,7 +123,6 @@ def get_opt_op(graph, logits, labels_tensor):
         with tf.variable_scope('optimizer'):
             opt_op = tf.train.AdamOptimizer(1e-2).minimize(loss)
         return opt_op
-
 
 if __name__ == '__main__':
     # Set random seed for reproducibility
@@ -234,28 +263,31 @@ Restored values:  [-0.07730117  0.11119192 -0.20817074 -0.35660955  0.16990358]
 Inferences match:  True
 ```
 
+## FailedPreconditionError
 
-# FailedPreconditionError
-
-Avant d'atteindre ce code fonctionnel, je n'arrivais pas à régler cette erreur:
+Avant d'atteindre ce code fonctionnel, je n'arrivais pas à régler
+cette erreur:
 
 ```
 FailedPreconditionError (see above for traceback): GetNext() failed because the iterator has not been initialized
 ```
 
-J'ai mis du temps à trouver mon problème, à le formuler correctement. J'ai commencé par poser plusieurs questions sur Stackoverflow, lu de nombreux postes de blogs et je suis même allé juqsu'à la deuxième page des résultats de Google!
+J'ai mis du temps à trouver mon problème, à le formuler correctement.
+J'ai commencé par poser plusieurs questions sur Stackoverflow, lu de
+nombreux postes de blogs et je suis même allé juqsu'à la deuxième page
+des résultats d'une requête Google !
 
-
-La sauvegarde du graph fonctionnait, son chargement a posteriori aussi et j'en extrayais les bons Tensors. Qu'est-ce qui n'allait pas?
+La sauvegarde du graphe fonctionnait, son chargement *a posteriori*
+aussi et j'en extrayais les bons Tensors. Qu'est-ce qui n'allait pas?
 
 ## Code initial
 
-Pour l'exemple, voici le code schématique de ma procédure (attention, ce code est **faux**): 
+Pour l'exemple, voici le code schématique de ma procédure (attention,
+ce code est **faux**):
 
 Sauvegarde:
 
 {% highlight python %}
-
 features_ph = tf.Placeholder(...)
 labels_ph = tf.Placeholder(...)
 
@@ -304,12 +336,21 @@ with tf.Session() as sess:
 
 Alors, qu'est-ce qui ne va pas?
 
+## Initialisation de l'Iterator
 
-# Initialisation de l'Iterator
+`tf.saved_model.simple_save` fixe les variables d'un graphe à partir
+des valeurs d'une session. Quand on appelle
+`tf.saved_model.loader.load`, les variables sont restaurées dans le
+graph par défaut. Cependant, en appelant `iterator.initializer`, je
+n'initialise pas l'`Iterator` **restauré** mais le **nouveau**! Comme
+`restored_logits` dépend toujours de l'`input_tensor` du graph
+restauré, qui lui même est issu de l'`Iterator` de ce même graph,
+Tensroflow plante: on appelle un Tensor qui dépend d'un `Iterator` non
+initialisé puisque j'ai initialisé le mauvais.
 
-`tf.saved_model.simple_save` fixe les variables d'un graphe à partir des valeurs d'une session. Quand on appelle `tf.saved_model.loader.load`, les variables sont restaurées dans le graph par défaut. Cependant, en appelant `iterator.initializer`, je n'initialise pas l'`Iterator` **restauré** mais le **nouveau**! Comme `restored_logits` dépend toujours de l'`input_tensor` du graph restauré, qui lui même est issu de l'`Iterator` de ce même graph, Tensroflow plante: on appelle un Tensor qui dépend d'un `Iterator` non initialisé puisque j'ai initialisé le mauvais.
-
-Il faut donc trouver la bonne opération d'initialisation dans le graph restauré. Une manière simple de faire ça est de créer l'`Iterator` d'une façon légèrement différente:
+Il faut donc trouver la bonne opération d'initialisation dans le graph
+restauré. Une manière simple de faire ça est de créer l'`Iterator`
+d'une façon légèrement différente:
 
 {% highlight python %}
 dataset = tf.data.Dataset.from_tensor_slices((features_data_ph, labels_data_ph))
@@ -318,13 +359,15 @@ dataset_init_op = iterator.make_initializer(dataset, name='dataset_init')
 input_tensor, labels_tensor = iterator.get_next()
 {% endhighlight %}
 
-Maintenant, l'opération en question est évidemment très facile à retrouver dans le graph!
+Maintenant, l'opération en question est évidemment très facile à
+retrouver dans le graph !
 
 {% highlight python %}
 dataset_init_op = graph.get_operation_by_name('dataset_init')
 {% endhighlight %}
 
-Et voilà :) C'est tout. Pas si compliqué! Mais comme souvent les 2 étapes pour résoudre un problème sont:
+Et voilà :) C'est tout. Pas si compliqué ! Mais comme souvent les deux
+étapes pour résoudre un problème sont :
 
 1. Savoir formuler son problème
-2. Comprendre ces **** d'erreurs Tensorflow (ok, celle là c'est pas la pire mais quand même)
+2. Comprendre ces **** d'erreurs Tensorflow
