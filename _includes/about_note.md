@@ -11,15 +11,19 @@ Une deuxième promotion d'entrepreneur·e·s d’intérêt général (EIG) a
 durée de 10 mois, 28 EIG ont intégré l’administration pour relever 13
 défis.
 
-**L'appel à projets pour la promotion 3 est ouvert du 4 mai au 17 juin 2018.**
+**L'appel à projets pour la promotion 3 a été ouvert du 4 mai au 17 juin 2018. La sélection finale des défis a été annoncée le 20 juillet 2018**
+
+Un appel à candidatures pour sélectionner les EIG de la troisième Promotion sera ouvert mi-septembre.
+
+## [Voir les défis lauréats de la troisième promotion](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats)
 
 ## Appel à projets auprès des administrations pour la promotion 3 du programme
 
-L'appel à projets pour la promotion 3 du programme est ouvert du 4 mai au 17 juin 2018. Les administrations sont invitées à répondre à l'appel à projets sur le site démarches simplifiées.
+L'appel à projets pour la promotion 3 du programme a été ouvert du 4 mai au 17 juin 2018. Les administrations sont invitées à répondre à l'appel à projets sur le site démarches simplifiées.
 
-[**Consulter le cahier des charges**](https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf) 
+* [**Consulter le cahier des charges**](https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf) 
 
-[**Déposer sa candidature sur le site demarches-simplifiees.fr**](https://www.demarches-simplifiees.fr/commencer/eig3)
+* [**Déposer sa candidature sur le site demarches-simplifiees.fr**](https://www.demarches-simplifiees.fr/commencer/eig3)
 
 **La candidature comprend** :
 * [Une fiche détaillée, téléchargeable ici](https://entrepreneur-interet-general.etalab.gouv.fr/assets/AAPEIG3_Fichedetaillee.docx) ; 

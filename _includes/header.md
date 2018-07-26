@@ -1,5 +1,5 @@
 Administrations, vous avez un projet de transformation du service public autour du numérique et des données ?
 
-## Les défis de la promotion 3 sont en cours de sélection
+## Les défis de la promotion 3 ont été sélectionnés !
 
-Les candidatures ont été déposées du 4 mai au 17 juin 2018
+En septembre 2018, un appel à candidatures sera lancé pour sélectionner les entrepreneurs d'intérêt général de la Promotion 3
