@@ -11,7 +11,7 @@ description: Le 12 juillet 2018, les mentors de la promotion EIG2 se sont réuni
 Le programme Entrepreneur.e d'Intérêt Général permet non seulement de [structurer un collectif de professionnels du numérique](https://entrepreneur-interet-general.etalab.gouv.fr/posts/2018/02/27/bootcamp-comment-souder-un-collectif-de-talents/) engagés, mais aussi de rassembler une communauté d'agents publics expérimentés et passionnés par l'amélioration du service public : **les mentors qui portent les défis EIG au sein des administrations**. Au cours de cette deuxième édition du programme EIG, nous avons pu constater l'importance d'offrir aux mentors des espaces pour partager leurs expériences, au même titre que les EIG. 
 
 ![Bastien qui montre sa vie de développeur](/img/session-mentors-1.jpg)
-_Bastien Guerry, EIG Link à Etalab, présente au collectif des mentors la semaine type d'un développeur : terminal, Stack Owerflow, github... © Sophie Miljkovic_
+_Bastien Guerry, EIG Link à Etalab, présente au collectif des mentors la semaine type d'un développeur : terminal, Stack Owerflow, github... © Soizic Pénicaud_
 
 Lors de cette session de mi-parcours, les mentors ont prendre du recul par rapport à leurs 5 premiers mois avec les EIG, à travers 4 thèmes : réussites / apprentissages / ce que je ferais différement / conseils aux futurs mentors EIG3. 
 
