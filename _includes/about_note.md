@@ -8,12 +8,39 @@ pour résoudre des défis d’intérêt général au sein des ministères.
 
 Une deuxième promotion d'entrepreneur·e·s d’intérêt général (EIG) a
 été appelée à relever ces défis.  Depuis janvier 2018, et pour une
-durée de 10 mois, 27 EIG ont intégré l’administration pour relever 13
+durée de 10 mois, 28 EIG ont intégré l’administration pour relever 13
 défis.
 
-# Le principe du Programme EIG - Promotion 2
+**L'appel à projets pour la promotion 3 a été ouvert du 4 mai au 17 juin 2018. La sélection finale des défis a été annoncée le 20 juillet 2018**
 
-* 27 entrepreneur·e·s recruté·e·s en CDD de 10 mois, accueilli·e·s par
+Un appel à candidatures pour sélectionner les EIG de la troisième Promotion sera ouvert mi-septembre.
+
+## [Voir les défis lauréats de la troisième promotion](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats)
+
+## Appel à projets auprès des administrations pour la promotion 3 du programme
+
+L'appel à projets pour la promotion 3 du programme a été ouvert du 4 mai au 17 juin 2018. Les administrations sont invitées à répondre à l'appel à projets sur le site démarches simplifiées.
+
+* [**Consulter le cahier des charges**](https://entrepreneur-interet-general.etalab.gouv.fr/assets/20180504-AAP-EIG3.pdf) 
+
+* [**Déposer sa candidature sur le site demarches-simplifiees.fr**](https://www.demarches-simplifiees.fr/commencer/eig3)
+
+**La candidature comprend** :
+* [Une fiche détaillée, téléchargeable ici](https://entrepreneur-interet-general.etalab.gouv.fr/assets/AAPEIG3_Fichedetaillee.docx) ; 
+* Une présentation de synthèse sous forme de diapositives de 12 planches maximum (format pitch) ;
+* Une simulation financière détaillant le coût prévisionnel d’un recrutement en CDD de 10 mois à 4000 euros nets par mois (indiquer le coût total employeur), ainsi que le montant du financement PIA envisagé (70% du montant total), afin de calculer la masse salariale.  
+
+Pour plus d'informations :
+* [Blogpost Etalab présentant l'appel à projets dans les grandes lignes](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-lappel-a-projets-pour-la-promotion-3-est-ouvert)
+* [S'inscrire à la réunion d'information du 15 mai 2018](https://eig3-reunion-dinformations-aap.eventbrite.fr)
+
+Note : l'ouverture des candidatures pour le recrutement de la promotion se fera courant septembre 2018. Pour être tenu informé de l'ouverture des candidatures, contactez entrepreneur-interet-general@data.gouv.fr. 
+
+# Le principe du Programme EIG
+
+* Une première promotion en 2016 - 2017 de 11 entrepreneurs pour 9 défis
+* Une deuxième promotion en cours de 28 entrepreneurs recrutés en CDD de 10 mois, accueillis par les administrations porteuses de défis en équipes pluridisciplinaires de 2 à 3 EIG
+* 13 défis d’intérêt général, sélectionnés par un jury d’experts en juillet 2017 et validés par un comité de pilotage du fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (Commissariat général à l’investissement).
   les administrations porteuses de défis
 * Un programme porté par Etalab
 * Des mentors opérationnels et stratégiques au sein des
@@ -22,39 +49,10 @@ défis.
   mentoring
 * Une rémunération de 4000€ nets par mois
 
-# 13 défis d’intérêt général
-
-Les défis d’intérêt général auxquels les entrepreneur·e·s sont
-amené·e·s à répondre sont présentés sur ce site. Ils ont été
-[sélectionnés par un jury d’experts en juillet
-2017](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-promo-2-decouvrez-les-10-defis-retenus-par-le-jury)
-et validés par un comité de pilotage du fonds « Transition numérique
-de l’État et modernisation de l’action publique » du Programme
-d’investissements d’avenir (Commissariat général à l’investissement).
-
-Chaque défi sera réalisé par une équipe de 2 à 3 entrepreneur·e·s
-d'intérêt général, encadré par un mentor opérationnel au sein de
-l’équipe d’accueil, et suivi par un mentor stratégique.
-
-# Les candidat·e·s sont sélectionné·e·s selon les critères suivants :
-
-* Dynamisme, vision, esprit d’initiative, attitude positive.
-* Capacité à comprendre le défi, à proposer des orientations
-  stratégiques pour son développement.
-* Sens de l’intérêt général (ex : contribution à un logiciel libre,
-  engagement associatif, etc.)
-* Capacité à s’intégrer dans l’environnement d’une administration
-  publique et interagir avec ses métiers (SI, métier, RH, direction
-  générale, etc.)
-* Compétences « techniques » : technologique (langage de
-  programmation, framework, développement fullstack …), design,
-  expérience utilisateur ou datascience.
-* Disponibilité à partir de janvier 2018, pour une durée de 10 mois à
-  temps plein.
-
 # Plus d'informations
 
 * [Règlement du Programme EIG - Promotion 2 ](https://entrepreneur-interet-general.etalab.gouv.fr/assets/EIG-promotion2_reglement_programme_VFF.pdf)
 * [En savoir plus sur le programme EIG](https://www.etalab.gouv.fr/entrepreneurs-dinteret-general)
 * [Découvrez la première promotion des EIG](https://www.etalab.gouv.fr/decouvrez-la-1e-promotion-des-entrepreneurs-dinteret-general)
+* Contact : [entrepreneur-interet-general@etalab.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)
 

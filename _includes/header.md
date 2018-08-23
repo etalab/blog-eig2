@@ -1,7 +1,5 @@
-Développeur·euse·s, data scientists, designers, agilistes,
-passionné·e·s de numérique et d'action publique...
+Administrations, vous avez un projet de transformation du service public autour du numérique et des données ?
 
-## Découvrez le programme Entrepreneur•e d’Intérêt Général !
+## Les défis de la promotion 3 ont été sélectionnés !
 
-En janvier 2018, une 2ème Promotion d'EIG pour améliorer le service
-public
+En septembre 2018, un appel à candidatures sera lancé pour sélectionner les entrepreneurs d'intérêt général de la Promotion 3

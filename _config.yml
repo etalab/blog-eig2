@@ -20,7 +20,6 @@ color:
 
 footer:
   social: Réseaux
-  link: "Liens utiles :"
   credits: Crédits
 
 social:
@@ -42,4 +41,9 @@ collections:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM 
+    syntax_highlighter: rouge
+
 permalink: /:collection/:year/:month/:day/:title/
