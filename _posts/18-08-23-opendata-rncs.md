@@ -29,9 +29,9 @@ Toutefois un [article Décodex du Monde](https://www.lemonde.fr/les-decodeurs/ar
 
 ![screenshot XML](/img/screenXML.png)
 
-Ces fichiers pourront effectivement faire obstacle à plus d'un aficionado du célèbre tableur, toutefois il faut noter qu'il s'agit d'un format standardisé depuis plus de 20 ans et que de nombreux outils permettent d'en tirer parti dans tous les langages de programmation. Par ailleurs la richesse des informations stockées dans ce format se prête assez mal à des format tabulaires. À ce titre le choix du XML est judicieux, la faute allant à la complexité naturelle des données véhiculées.
+Ces fichiers pourront effectivement faire obstacle à plus d'un aficionado du célèbre tableur, toutefois il faut noter qu'il s'agit d'un format standardisé depuis plus de 20 ans et que de nombreux outils permettent d'en tirer parti dans tous les langages de programmation. Par ailleurs la richesse des informations stockées dans ces fichiers se prête assez mal à des structures tabulaires plus classiques et à ce titre le choix du XML se révèle judicieux, la faute allant à la complexité naturelle des données véhiculées.
 
-L'autre écueil à affronter pour exploiter ce format est l'utilisation d'une codification plutôt riche qu'il convient d'analyser avec la [documentation](https://www.inpi.fr/sites/default/files/doc_tech_comptes_annuels_decembre_2017_v1.4.pdf) fournie. Un exploitation manuelle est presque totalement impossible.
+L'autre écueil à affronter pour exploiter ce format est l'utilisation d'une codification plutôt riche qu'il convient d'analyser avec la [documentation](https://www.inpi.fr/sites/default/files/doc_tech_comptes_annuels_decembre_2017_v1.4.pdf) fournie, conférant à une tentative d'exploitation manuelle une pénibilité qui ne s'oublie pas. Là encore, on ne peut que blâmer la nature des informations transportées.
 
 Également, on pourra regretter cette maladresse qui consiste en la nécessité d'obtenir une license et des identifiants personnalisés, car même si la démarche est traitée très efficacement par l'INPI, elle condamne la réutilisation publique des données pour produire un format plus digeste.
 
