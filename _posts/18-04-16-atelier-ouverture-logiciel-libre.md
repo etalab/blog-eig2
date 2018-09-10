@@ -116,7 +116,7 @@ pas aux finalités du projet ?  Est-ce que je peux modifier du code
 libre sur mon serveur sans partager mes modifications ?  Est-ce que je
 peux utiliser deux licences ?  Pour simplifier et encourager une
 approche pragmatique, nous avons convenu de commencer [une
-FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture-faq.org)
+FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org)
 sur ces questions de licence et d’ouverture&#x2026; c’est ouvert,
 n’hésitez pas à [ouvrir un
 ticket](https://github.com/entrepreneur-interet-general/eig-link/issues/new)
@@ -127,7 +127,7 @@ Au final, Bastien a insisté sur le fait que nous pouvions imaginer des
 minimum (publier le code sous une licence libre) à un projet qui tente
 de jouer à fond la carte de l’open source.  Ces degrés sont présentés
 dans [cette
-page](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org#des-degr%25C3%25A9s-douverture-des-projets-libres) -
+page](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org#des-degr%25C3%25A9s-douverture-des-projets-libres) -
 là aussi, vos retours sont les bienvenus.
 
 L’atelier s’est clôt sur l’engagement d’ouvrir et de partager autant
@@ -149,7 +149,7 @@ suivez-nous !
 - Des guides [britanniques](https://www.gov.uk/government/publications/open-source-guidance) et [états-uniens](https://open-source-guide.18f.gov/) sur l’open source.
 
 - Quelques recommandations pour la [gestion d’un projet libre au sein
-    de l’administration](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org), accompagnées d’une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture-faq.org).
+    de l’administration](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.org), accompagnées d’une [FAQ](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource-faq.org).
 
 - The Joel Test: [12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/).
 
